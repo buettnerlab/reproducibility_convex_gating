@@ -1,0 +1,38 @@
+name: scvi_tools
+channels:
+        - conda-forge
+        - bioconda
+dependencies:
+        - python=3.8
+        - cmake
+        - pandas=1.2.5
+        - numpy
+        - scipy
+        - scikit-learn
+        - jupyter
+        - gsl
+        - tzlocal
+        - simplegeneric
+        - natsort
+        - h5py
+        - tqdm
+        - patsy
+        - llvmlite
+        - numba
+        - networkx
+        - joblib
+        - numexpr
+        - pytables
+        - seaborn
+        - statsmodels
+        - python-igraph
+        - louvain
+        - leidenalg
+        - anndata
+        - scanpy
+        - scvi-tools=0.20.0
+        - tensorflow-gpu
+        - pip
+        - pip:
+           - fa2
+           - git+https://github.com/calico/scBasset.git
