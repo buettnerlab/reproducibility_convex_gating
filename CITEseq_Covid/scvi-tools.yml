@@ -28,11 +28,12 @@ dependencies:
         - python-igraph
         - louvain
         - leidenalg
-        - anndata
+        - chardet
+        - anndata==0.8.0
         - scanpy
         - scvi-tools=0.20.0
-        - tensorflow-gpu
         - pip
         - pip:
            - fa2
-           - git+https://github.com/calico/scBasset.git
+           - muon
+           - mudata==0.2.1
