@@ -1,6 +1,6 @@
 # CITE-seq COVID19
 
-In this example, we demonstrate the applicability of Convex Gating across modalities. In the notebooks, we first denoise the CITE-seq data using totalVI. Th
+In this example, we demonstrate the applicability of Convex Gating across modalities. In the notebooks, we first denoise the CITE-seq data using totalVI.
 Then, we use the denoised protein data to define a CD16+ T cell type. Here we rely on the previously published cell type definition for CD4 and CD8 T cells. 
 We denote CD16+ T cells as T cells with a foreground probability of CD16 higher than 0.5 and being clustered with the CD4 and CD8 T cell compartment, respectively.
 
