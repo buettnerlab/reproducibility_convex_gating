@@ -1,0 +1,11 @@
+gating panel
+-----------------------------------------
+targets: #FF4F00
+non_targets: #2d5380
+gate: tab:red
+
+measures (metbrewer Java scripts)
+-----------------------------------------
+recall: #e2998a
+f1: #663171
+precision: #0c7156
