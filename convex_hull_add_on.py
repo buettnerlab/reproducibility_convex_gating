@@ -163,7 +163,7 @@ def plot_metric_tight(meta_info,run_ID,save_loc,save=True,show=True):
 def convex_hull_add_on(meta_info_path,target_location):
     #meta_info_path: path to folder where meta info is saved
     #target_location: path to folder where results with convex hull should be saved
-    meta_info = np.load(os.path.join(meta_info_path,'meta_info.npy'),allow_pickle=True).item()
+    meta_info = np.load(meta_info_path,allow_pickle=True).item()
     cluster_IDs = list(meta_info['clusterkeys'].keys())
     cluster_names = list((meta_info['clusterkeys'].values()))
     for cluster_ID in cluster_IDs:
