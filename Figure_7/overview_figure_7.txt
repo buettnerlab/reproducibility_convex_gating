@@ -1,0 +1,18 @@
+Figure 7
+-----------------------------------------
+CyTOF
+-------------------
+full - done
+joint (CITEseq) - done
+joint FACS - done
+
+CITEseq
+-------------------
+full - done
+joint CyTOF - done
+joint FACS - done
+
+FACS
+------------------------
+full - missing
+minimal - missing

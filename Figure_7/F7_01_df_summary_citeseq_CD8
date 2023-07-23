@@ -1,0 +1,4 @@
+,f1,recall,precision,cluster,modality,panel,cluster_short
+0,0.809955,0.716573,0.931322,cluster_CD16+ CD8+ T cell,CITEseq,full,CD8+ T cell
+1,0.817743,0.745396,0.905642,cluster_CD16+ CD8+ T cell,CITEseq,CyTOF,CD8+ T cell
+2,0.822757,0.752602,0.907336,cluster_CD16+ CD8+ T cell,CITEseq,FACS,CD8+ T cell

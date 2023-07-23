@@ -1,0 +1,4 @@
+,f1,recall,precision,cluster,modality,panel,cluster_short
+0,0.83134,0.717975,0.987216,cluster_CD16+ CD4+ T cell,CITEseq,full,CD4+ T cell
+1,0.836105,0.727273,0.98324,cluster_CD16+ CD4+ T cell,CITEseq,CyTOF,CD4+ T cell
+2,0.816765,0.785124,0.851064,cluster_CD16+ CD4+ T cell,CITEseq,FACS,CD4+ T cell

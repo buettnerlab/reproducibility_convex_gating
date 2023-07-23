@@ -1,0 +1,7 @@
+,f1,recall,precision,cluster,modality,panel,cluster_short
+0,0.668274,0.66528,0.671295,03_cluster_C7_hull,CyTOF,full,C7
+1,0.55131,0.441627,0.733479,02_cluster_C8_hull,CyTOF,full,C8
+2,0.675165,0.70336,0.649144,05_cluster_C7_hull,CyTOF,CITEseq,C7
+3,0.678658,0.610407,0.764094,06_cluster_C8_hull,CyTOF,CITEseq,C8
+4,0.207851,0.6752,0.122832,10_cluster_C7_hull,CyTOF,FACS,C7
+5,0.600423,0.558811,0.648731,11_cluster_C8_hull,CyTOF,FACS,C8
