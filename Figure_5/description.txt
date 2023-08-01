@@ -1,0 +1,18 @@
+details on scripts
+------------------------------------------------------------
+for samples A,H,C,O,T,U in lvl5 P01_rn_cg_level_5_<sample_sample>.py
+
+standard resampling for Temra in B and J:
+P01_run_cg_level_5_B_J_Temra.py
+
+upsampling for TRM in B:
+P01_run_cg_level_5_B_TRM.py
+
+remaining cell types for B and J:
+P01_run_cg_level_5_J.py
+P01_run_cg_level_5_B_v1
+
+
+
+
+
