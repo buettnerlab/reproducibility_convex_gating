@@ -1,0 +1,127 @@
+"","sample","cell_type","set_size","score","value"
+"1","KR","B cell","full","precision",0.956342374533052
+"2","KR","B cell","full","recall",0.991746951424914
+"3","KR","B cell","full","f1",0.973722941575301
+"4","KR","B cell","subset","precision",0.99749624436655
+"5","KR","B cell","subset","recall",0.996
+"6","KR","B cell","subset","f1",0.996747560670503
+"7","KR","classical monocyte","full","precision",0.970804787218921
+"8","KR","classical monocyte","full","recall",0.99786693159571
+"9","KR","classical monocyte","full","f1",0.984149855907781
+"10","KR","classical monocyte","subset","precision",0.993538767395626
+"11","KR","classical monocyte","subset","recall",0.9995
+"12","KR","classical monocyte","subset","f1",0.996510468594217
+"13","KR","non-classical monocyte","full","precision",0.381272949816401
+"14","KR","non-classical monocyte","full","recall",0.994016753091344
+"15","KR","non-classical monocyte","full","f1",0.551144531681964
+"16","KR","non-classical monocyte","subset","precision",0.988095238095238
+"17","KR","non-classical monocyte","subset","recall",0.996
+"18","KR","non-classical monocyte","subset","f1",0.99203187250996
+"19","KR","intermediate monocyte","full","precision",0.335864297253635
+"20","KR","intermediate monocyte","full","recall",0.99807969275084
+"21","KR","intermediate monocyte","full","f1",0.502598815423667
+"22","KR","intermediate monocyte","subset","precision",0.989593657086224
+"23","KR","intermediate monocyte","subset","recall",0.9985
+"24","KR","intermediate monocyte","subset","f1",0.994026879044301
+"25","KR","dendritic cell Q1","full","precision",0.383689839572192
+"26","KR","dendritic cell Q1","full","recall",1
+"27","KR","dendritic cell Q1","full","f1",0.554589371980676
+"28","KR","dendritic cell Q1","subset","precision",0.998260869565217
+"29","KR","dendritic cell Q1","subset","recall",1
+"30","KR","dendritic cell Q1","subset","f1",0.999129677980853
+"31","KR","dendritic cell Q3","full","precision",0.16258570029383
+"32","KR","dendritic cell Q3","full","recall",0.996249062265566
+"33","KR","dendritic cell Q3","full","f1",0.279549521103042
+"34","KR","dendritic cell Q3","subset","precision",0.985163204747775
+"35","KR","dendritic cell Q3","subset","recall",0.996249062265566
+"36","KR","dendritic cell Q3","subset","f1",0.990675121223424
+"37","KR","dendritic cell Q4","full","precision",0.348384030418251
+"38","KR","dendritic cell Q4","full","recall",1
+"39","KR","dendritic cell Q4","full","f1",0.516743038420867
+"40","KR","dendritic cell Q4","subset","precision",0.997278911564626
+"41","KR","dendritic cell Q4","subset","recall",1
+"42","KR","dendritic cell Q4","subset","f1",0.998637602179837
+"43","KW","B cell","full","precision",0.966519097377807
+"44","KW","B cell","full","recall",0.994926199261993
+"45","KW","B cell","full","f1",0.980516941987217
+"46","KW","B cell","subset","precision",0.99451918285999
+"47","KW","B cell","subset","recall",0.998
+"48","KW","B cell","subset","f1",0.996256551035688
+"49","KW","classical monocyte","full","precision",0.990894908801915
+"50","KW","classical monocyte","full","recall",0.993986457226093
+"51","KW","classical monocyte","full","f1",0.992438275396143
+"52","KW","classical monocyte","subset","precision",0.99800299550674
+"53","KW","classical monocyte","subset","recall",0.9995
+"54","KW","classical monocyte","subset","f1",0.998750936797402
+"55","KW","non-classical monocyte","full","precision",0.664149847538841
+"56","KW","non-classical monocyte","full","recall",0.993915688830943
+"57","KW","non-classical monocyte","full","f1",0.796239881625903
+"58","KW","non-classical monocyte","subset","precision",0.9975
+"59","KW","non-classical monocyte","subset","recall",0.9975
+"60","KW","non-classical monocyte","subset","f1",0.9975
+"61","KW","intermediate monocyte","full","precision",0.191964285714286
+"62","KW","intermediate monocyte","full","recall",1
+"63","KW","intermediate monocyte","full","f1",0.322097378277154
+"64","KW","intermediate monocyte","subset","precision",0.987837837837838
+"65","KW","intermediate monocyte","subset","recall",1
+"66","KW","intermediate monocyte","subset","f1",0.993881713120326
+"67","KW","dendritic cell Q1","full","precision",0.14360119047619
+"68","KW","dendritic cell Q1","full","recall",1
+"69","KW","dendritic cell Q1","full","f1",0.25113858165257
+"70","KW","dendritic cell Q1","subset","precision",1
+"71","KW","dendritic cell Q1","subset","recall",1
+"72","KW","dendritic cell Q1","subset","f1",1
+"73","KW","dendritic cell Q3","full","precision",0.230571698878227
+"74","KW","dendritic cell Q3","full","recall",0.994752186588921
+"75","KW","dendritic cell Q3","full","f1",0.374369102479702
+"76","KW","dendritic cell Q3","subset","precision",0.994752186588921
+"77","KW","dendritic cell Q3","subset","recall",0.994752186588921
+"78","KW","dendritic cell Q3","subset","f1",0.994752186588921
+"79","KW","dendritic cell Q4","full","precision",0.322297955209348
+"80","KW","dendritic cell Q4","full","recall",1
+"81","KW","dendritic cell Q4","full","f1",0.487481590574374
+"82","KW","dendritic cell Q4","subset","precision",0.996987951807229
+"83","KW","dendritic cell Q4","subset","recall",1
+"84","KW","dendritic cell Q4","subset","f1",0.998491704374057
+"85","MF","B cell","full","precision",0.993247487437186
+"86","MF","B cell","full","recall",0.996464018765207
+"87","MF","B cell","full","f1",0.994853153208259
+"88","MF","B cell","subset","precision",1
+"89","MF","B cell","subset","recall",0.9955
+"90","MF","B cell","subset","f1",0.997744926083688
+"91","MF","classical monocyte","full","precision",0.975016312373365
+"92","MF","classical monocyte","full","recall",0.996088131073922
+"93","MF","classical monocyte","full","f1",0.985439589045851
+"94","MF","classical monocyte","subset","precision",0.99700449326011
+"95","MF","classical monocyte","subset","recall",0.9985
+"96","MF","classical monocyte","subset","f1",0.997751686235324
+"97","MF","non-classical monocyte","full","precision",0.636609152288072
+"98","MF","non-classical monocyte","full","recall",0.994142455482662
+"99","MF","non-classical monocyte","full","f1",0.77618220067685
+"100","MF","non-classical monocyte","subset","precision",0.99500998003992
+"101","MF","non-classical monocyte","subset","recall",0.997
+"102","MF","non-classical monocyte","subset","f1",0.996003996003996
+"103","MF","intermediate monocyte","full","precision",0.219967311359303
+"104","MF","intermediate monocyte","full","recall",0.997529339098209
+"105","MF","intermediate monocyte","full","f1",0.360450842539895
+"106","MF","intermediate monocyte","subset","precision",0.99079754601227
+"107","MF","intermediate monocyte","subset","recall",0.997529339098209
+"108","MF","intermediate monocyte","subset","f1",0.994152046783626
+"109","MF","dendritic cell Q1","full","precision",0.558048233314638
+"110","MF","dendritic cell Q1","full","recall",1
+"111","MF","dendritic cell Q1","full","f1",0.716342692584593
+"112","MF","dendritic cell Q1","subset","precision",1
+"113","MF","dendritic cell Q1","subset","recall",1
+"114","MF","dendritic cell Q1","subset","f1",1
+"115","MF","dendritic cell Q3","full","precision",0.335002782415136
+"116","MF","dendritic cell Q3","full","recall",0.994493392070485
+"117","MF","dendritic cell Q3","full","f1",0.501179408908006
+"118","MF","dendritic cell Q3","subset","precision",0.995589856670342
+"119","MF","dendritic cell Q3","subset","recall",0.994493392070485
+"120","MF","dendritic cell Q3","subset","f1",0.99504132231405
+"121","MF","dendritic cell Q4","full","precision",0.299725651577503
+"122","MF","dendritic cell Q4","full","recall",1
+"123","MF","dendritic cell Q4","full","f1",0.461213720316623
+"124","MF","dendritic cell Q4","subset","precision",0.997716894977169
+"125","MF","dendritic cell Q4","subset","recall",1
+"126","MF","dendritic cell Q4","subset","f1",0.998857142857143
