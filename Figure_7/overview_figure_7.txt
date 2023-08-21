@@ -14,5 +14,5 @@ joint FACS - done
 
 FACS
 ------------------------
-full - missing
-minimal - missing
+full - done
+minimal - done
