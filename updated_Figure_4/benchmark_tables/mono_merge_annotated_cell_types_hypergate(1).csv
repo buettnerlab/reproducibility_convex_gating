@@ -1,0 +1,55 @@
+"","sample","cell_type","set_size","score","value"
+"1","KR","B cell","full","precision",0.985753290394847
+"2","KR","B cell","full","recall",0.998156878034948
+"3","KR","B cell","full","f1",0.991916310033286
+"4","KR","B cell","subset","precision",0.9995
+"5","KR","B cell","subset","recall",0.9995
+"6","KR","B cell","subset","f1",0.9995
+"7","KR","monocyte","full","precision",0.979452144780924
+"8","KR","monocyte","full","recall",0.994570292697244
+"9","KR","monocyte","full","f1",0.986953327199433
+"10","KR","monocyte","subset","precision",0.99600599101348
+"11","KR","monocyte","subset","recall",0.9975
+"12","KR","monocyte","subset","f1",0.996752435673245
+"13","KR","dendritic cell","full","precision",0.566117448246726
+"14","KR","dendritic cell","full","recall",1
+"15","KR","dendritic cell","full","f1",0.722956568653898
+"16","KR","dendritic cell","subset","precision",0.999254287844892
+"17","KR","dendritic cell","subset","recall",1
+"18","KR","dendritic cell","subset","f1",0.999627004848937
+"19","KW","B cell","full","precision",0.986382214752282
+"20","KW","B cell","full","recall",0.996815286624204
+"21","KW","B cell","full","f1",0.991571307887259
+"22","KW","B cell","subset","precision",0.998501498501498
+"23","KW","B cell","subset","recall",0.9995
+"24","KW","B cell","subset","f1",0.999000499750125
+"25","KW","monocyte","full","precision",0.986631328332061
+"26","KW","monocyte","full","recall",0.98915520487115
+"27","KW","monocyte","full","f1",0.987891654597303
+"28","KW","monocyte","subset","precision",0.997992975413949
+"29","KW","monocyte","subset","recall",0.9945
+"30","KW","monocyte","subset","f1",0.996243425995492
+"31","KW","dendritic cell","full","precision",0.294094488188976
+"32","KW","dendritic cell","full","recall",1
+"33","KW","dendritic cell","full","f1",0.454517797383632
+"34","KW","dendritic cell","subset","precision",0.994673768308921
+"35","KW","dendritic cell","subset","recall",1
+"36","KW","dendritic cell","subset","f1",0.997329773030708
+"37","MF","B cell","full","precision",0.997309686897113
+"38","MF","B cell","full","recall",0.99803393673173
+"39","MF","B cell","full","f1",0.997671680373948
+"40","MF","B cell","subset","precision",0.999000999000999
+"41","MF","B cell","subset","recall",1
+"42","MF","B cell","subset","f1",0.999500249875063
+"43","MF","monocyte","full","precision",0.967189366786141
+"44","MF","monocyte","full","recall",0.993175683965158
+"45","MF","monocyte","full","f1",0.980010289934023
+"46","MF","monocyte","subset","precision",0.997
+"47","MF","monocyte","subset","recall",0.997
+"48","MF","monocyte","subset","f1",0.997
+"49","MF","dendritic cell","full","precision",0.536260623229462
+"50","MF","dendritic cell","full","recall",0.998944591029024
+"51","MF","dendritic cell","full","f1",0.697880184331797
+"52","MF","dendritic cell","subset","precision",0.996315789473684
+"53","MF","dendritic cell","subset","recall",0.998944591029024
+"54","MF","dendritic cell","subset","f1",0.997628458498024

@@ -1,0 +1,145 @@
+"","sample","cell_type","set_size","score","value"
+"1","KR","B cell","full","precision",0.986357578733254
+"2","KR","B cell","full","recall",0.996880870520682
+"3","KR","B cell","full","f1",0.991591305727431
+"4","KR","B cell","subset","precision",0.9995
+"5","KR","B cell","subset","recall",0.9995
+"6","KR","B cell","subset","f1",0.9995
+"7","KR","classical monocyte","full","precision",0.964837890850352
+"8","KR","classical monocyte","full","recall",0.997227356746765
+"9","KR","classical monocyte","full","f1",0.980765283682745
+"10","KR","classical monocyte","subset","precision",0.991080277502478
+"11","KR","classical monocyte","subset","recall",1
+"12","KR","classical monocyte","subset","f1",0.995520159283226
+"13","KR","non-classical monocyte","full","precision",0.308608722676888
+"14","KR","non-classical monocyte","full","recall",0.990359042553192
+"15","KR","non-classical monocyte","full","f1",0.470578943211437
+"16","KR","non-classical monocyte","subset","precision",0.990509490509491
+"17","KR","non-classical monocyte","subset","recall",0.9915
+"18","KR","non-classical monocyte","subset","f1",0.991004497751125
+"19","KR","intermediate monocyte","full","precision",0.472538277848012
+"20","KR","intermediate monocyte","full","recall",0.998219584569733
+"21","KR","intermediate monocyte","full","f1",0.641433883115645
+"22","KR","intermediate monocyte","subset","precision",0.993034825870647
+"23","KR","intermediate monocyte","subset","recall",0.998
+"24","KR","intermediate monocyte","subset","f1",0.995511221945137
+"25","KR","myeloid-derived suppressor cell","full","precision",0.20093896713615
+"26","KR","myeloid-derived suppressor cell","full","recall",1
+"27","KR","myeloid-derived suppressor cell","full","f1",0.334636434714621
+"28","KR","myeloid-derived suppressor cell","subset","precision",1
+"29","KR","myeloid-derived suppressor cell","subset","recall",1
+"30","KR","myeloid-derived suppressor cell","subset","f1",1
+"31","KR","DC Q1(CD14-, CD5+)","full","precision",0.5
+"32","KR","DC Q1(CD14-, CD5+)","full","recall",1
+"33","KR","DC Q1(CD14-, CD5+)","full","f1",0.666666666666667
+"34","KR","DC Q1(CD14-, CD5+)","subset","precision",1
+"35","KR","DC Q1(CD14-, CD5+)","subset","recall",1
+"36","KR","DC Q1(CD14-, CD5+)","subset","f1",1
+"37","KR","DC Q3(CD14+, CD5-)","full","precision",0.15776955602537
+"38","KR","DC Q3(CD14+, CD5-)","full","recall",0.995829858215179
+"39","KR","DC Q3(CD14+, CD5-)","full","f1",0.272385080415193
+"40","KR","DC Q3(CD14+, CD5-)","subset","precision",0.990049751243781
+"41","KR","DC Q3(CD14+, CD5-)","subset","recall",0.995829858215179
+"42","KR","DC Q3(CD14+, CD5-)","subset","f1",0.992931392931393
+"43","KR","DC Q4(CD14-, CD5-)","full","precision",0.454705364995602
+"44","KR","DC Q4(CD14-, CD5-)","full","recall",1
+"45","KR","DC Q4(CD14-, CD5-)","full","f1",0.625151148730351
+"46","KR","DC Q4(CD14-, CD5-)","subset","precision",0.998069498069498
+"47","KR","DC Q4(CD14-, CD5-)","subset","recall",1
+"48","KR","DC Q4(CD14-, CD5-)","subset","f1",0.999033816425121
+"49","KW","B cell","full","precision",0.987227218053726
+"50","KW","B cell","full","recall",0.998031268094962
+"51","KW","B cell","full","f1",0.992599844510352
+"52","KW","B cell","subset","precision",0.999500249875062
+"53","KW","B cell","subset","recall",1
+"54","KW","B cell","subset","f1",0.999750062484379
+"55","KW","classical monocyte","full","precision",0.985544409102031
+"56","KW","classical monocyte","full","recall",0.996842115683499
+"57","KW","classical monocyte","full","f1",0.991161069333438
+"58","KW","classical monocyte","subset","precision",0.996011964107677
+"59","KW","classical monocyte","subset","recall",0.999
+"60","KW","classical monocyte","subset","f1",0.997503744383425
+"61","KW","non-classical monocyte","full","precision",0.441567752728431
+"62","KW","non-classical monocyte","full","recall",0.983150053210358
+"63","KW","non-classical monocyte","full","f1",0.609422241767907
+"64","KW","non-classical monocyte","subset","precision",0.988465396188566
+"65","KW","non-classical monocyte","subset","recall",0.9855
+"66","KW","non-classical monocyte","subset","f1",0.986980470706059
+"67","KW","intermediate monocyte","full","precision",0.366180660298307
+"68","KW","intermediate monocyte","full","recall",0.999085505258345
+"69","KW","intermediate monocyte","full","f1",0.535933284277655
+"70","KW","intermediate monocyte","subset","precision",0.99452736318408
+"71","KW","intermediate monocyte","subset","recall",0.9995
+"72","KW","intermediate monocyte","subset","f1",0.997007481296758
+"73","KW","myeloid-derived suppressor cell","full","precision",0.283287671232877
+"74","KW","myeloid-derived suppressor cell","full","recall",1
+"75","KW","myeloid-derived suppressor cell","full","f1",0.441502988898378
+"76","KW","myeloid-derived suppressor cell","subset","precision",0.994230769230769
+"77","KW","myeloid-derived suppressor cell","subset","recall",1
+"78","KW","myeloid-derived suppressor cell","subset","f1",0.997107039537126
+"79","KW","DC Q1(CD14-, CD5+)","full","precision",0.111575428332637
+"80","KW","DC Q1(CD14-, CD5+)","full","recall",1
+"81","KW","DC Q1(CD14-, CD5+)","full","f1",0.200751879699248
+"82","KW","DC Q1(CD14-, CD5+)","subset","precision",1
+"83","KW","DC Q1(CD14-, CD5+)","subset","recall",1
+"84","KW","DC Q1(CD14-, CD5+)","subset","f1",1
+"85","KW","DC Q3(CD14+, CD5-)","full","precision",0.204610169491525
+"86","KW","DC Q3(CD14+, CD5-)","full","recall",0.992763157894737
+"87","KW","DC Q3(CD14+, CD5-)","full","f1",0.33929173693086
+"88","KW","DC Q3(CD14+, CD5-)","subset","precision",0.99080761654629
+"89","KW","DC Q3(CD14+, CD5-)","subset","recall",0.992763157894737
+"90","KW","DC Q3(CD14+, CD5-)","subset","f1",0.991784423266513
+"91","KW","DC Q4(CD14-, CD5-)","full","precision",0.289436947417403
+"92","KW","DC Q4(CD14-, CD5-)","full","recall",1
+"93","KW","DC Q4(CD14-, CD5-)","full","f1",0.448935402381812
+"94","KW","DC Q4(CD14-, CD5-)","subset","precision",0.996794871794872
+"95","KW","DC Q4(CD14-, CD5-)","subset","recall",1
+"96","KW","DC Q4(CD14-, CD5-)","subset","f1",0.998394863563403
+"97","MF","B cell","full","precision",0.990114655944375
+"98","MF","B cell","full","recall",0.998795564844663
+"99","MF","B cell","full","f1",0.994436165804023
+"100","MF","B cell","subset","precision",1
+"101","MF","B cell","subset","recall",1
+"102","MF","B cell","subset","f1",1
+"103","MF","classical monocyte","full","precision",0.960184373011368
+"104","MF","classical monocyte","full","recall",0.997552041454481
+"105","MF","classical monocyte","full","f1",0.978511585515477
+"106","MF","classical monocyte","subset","precision",0.994029850746269
+"107","MF","classical monocyte","subset","recall",0.999
+"108","MF","classical monocyte","subset","f1",0.996508728179551
+"109","MF","non-classical monocyte","full","precision",0.623569198751301
+"110","MF","non-classical monocyte","full","recall",0.996052358196551
+"111","MF","non-classical monocyte","full","f1",0.766978641708663
+"112","MF","non-classical monocyte","subset","precision",0.9960019990005
+"113","MF","non-classical monocyte","subset","recall",0.9965
+"114","MF","non-classical monocyte","subset","f1",0.996250937265684
+"115","MF","intermediate monocyte","full","precision",0.481893625047152
+"116","MF","intermediate monocyte","full","recall",0.996101364522417
+"117","MF","intermediate monocyte","full","f1",0.64954874793441
+"118","MF","intermediate monocyte","subset","precision",0.99402390438247
+"119","MF","intermediate monocyte","subset","recall",0.998
+"120","MF","intermediate monocyte","subset","f1",0.996007984031936
+"121","MF","myeloid-derived suppressor cell","full","precision",0.370588235294118
+"122","MF","myeloid-derived suppressor cell","full","recall",1
+"123","MF","myeloid-derived suppressor cell","full","f1",0.540772532188841
+"124","MF","myeloid-derived suppressor cell","subset","precision",1
+"125","MF","myeloid-derived suppressor cell","subset","recall",1
+"126","MF","myeloid-derived suppressor cell","subset","f1",1
+"127","MF","DC Q1(CD14-, CD5+)","full","precision",0.518168604651163
+"128","MF","DC Q1(CD14-, CD5+)","full","recall",1
+"129","MF","DC Q1(CD14-, CD5+)","full","f1",0.682623264719962
+"130","MF","DC Q1(CD14-, CD5+)","subset","precision",0.99859943977591
+"131","MF","DC Q1(CD14-, CD5+)","subset","recall",1
+"132","MF","DC Q1(CD14-, CD5+)","subset","f1",0.999299229152067
+"133","MF","DC Q3(CD14+, CD5-)","full","precision",0.322779769016328
+"134","MF","DC Q3(CD14+, CD5-)","full","recall",0.995089011663597
+"135","MF","DC Q3(CD14+, CD5-)","full","f1",0.487445496917757
+"136","MF","DC Q3(CD14+, CD5-)","subset","precision",0.990226023213195
+"137","MF","DC Q3(CD14+, CD5-)","subset","recall",0.995089011663597
+"138","MF","DC Q3(CD14+, CD5-)","subset","f1",0.992651561543172
+"139","MF","DC Q4(CD14-, CD5-)","full","precision",0.558823529411765
+"140","MF","DC Q4(CD14-, CD5-)","full","recall",1
+"141","MF","DC Q4(CD14-, CD5-)","full","f1",0.716981132075472
+"142","MF","DC Q4(CD14-, CD5-)","subset","precision",0.997683397683398
+"143","MF","DC Q4(CD14-, CD5-)","subset","recall",1
+"144","MF","DC Q4(CD14-, CD5-)","subset","f1",0.998840355624275

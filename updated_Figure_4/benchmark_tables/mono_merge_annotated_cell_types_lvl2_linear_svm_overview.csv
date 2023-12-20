@@ -1,0 +1,28 @@
+,dataset,sample,celltype,subsample,f1,recall,precision
+0,mono_merge_annotated,KR,not annotated,0,0.9892859179832316,0.9857971418097704,0.9927994757010924
+1,mono_merge_annotated,KR,B cell,0,0.9724151067550953,0.9952149718215008,0.950636511375948
+2,mono_merge_annotated,KR,classical monocyte,0,0.9803409362311918,0.9789964820225389,0.9816890881913304
+3,mono_merge_annotated,KR,"DC Q4(CD14-, CD5-)",0,0.8628762541806021,0.8733075435203095,0.8526912181303116
+4,mono_merge_annotated,KR,non-classical monocyte,0,0.0,0.0,0.0
+5,mono_merge_annotated,KR,"DC Q3(CD14+, CD5-)",0,0.09523809523809523,0.06255212677231026,0.19946808510638298
+6,mono_merge_annotated,KR,myeloid-derived suppressor cell,0,0.0,0.0,0.0
+7,mono_merge_annotated,KR,intermediate monocyte,0,0.5275635300803767,0.9640949554896142,0.3631384821727954
+8,mono_merge_annotated,KR,"DC Q1(CD14-, CD5+)",0,0.40619621342512907,0.3033419023136247,0.6145833333333334
+9,mono_merge_annotated,KW,not annotated,0,0.9756627997739079,0.9908321078498368,0.9609509620431687
+10,mono_merge_annotated,KW,B cell,0,0.9840555422552071,0.9917004439297433,0.9765276061959517
+11,mono_merge_annotated,KW,classical monocyte,0,0.9899251017318996,0.9969906055416415,0.9829590372734459
+12,mono_merge_annotated,KW,"DC Q4(CD14-, CD5-)",0,0.6384284837323512,0.8360128617363344,0.5163853028798411
+13,mono_merge_annotated,KW,non-classical monocyte,0,0.0,0.0,0.0
+14,mono_merge_annotated,KW,"DC Q3(CD14+, CD5-)",0,0.0,0.0,0.0
+15,mono_merge_annotated,KW,myeloid-derived suppressor cell,0,0.0,0.0,0.0
+16,mono_merge_annotated,KW,intermediate monocyte,0,0.6413341777496305,0.6945587562871514,0.5956862745098039
+17,mono_merge_annotated,KW,"DC Q1(CD14-, CD5+)",0,0.0,0.0,0.0
+18,mono_merge_annotated,MF,not annotated,0,0.9874441497061746,0.9916950361966912,0.9832295503986137
+19,mono_merge_annotated,MF,B cell,0,0.9915333462684988,0.9956604909844486,0.987440275435638
+20,mono_merge_annotated,MF,classical monocyte,0,0.9850529907277277,0.9956401322254981,0.9746886369997201
+21,mono_merge_annotated,MF,"DC Q4(CD14-, CD5-)",0,0.593029490616622,0.4280185758513932,0.9650959860383944
+22,mono_merge_annotated,MF,non-classical monocyte,0,0.002881844380403458,0.0014543943486391025,0.15555555555555556
+23,mono_merge_annotated,MF,"DC Q3(CD14+, CD5-)",0,0.016480282519128902,0.008594229588704727,0.2
+24,mono_merge_annotated,MF,myeloid-derived suppressor cell,0,0.0,0.0,0.0
+25,mono_merge_annotated,MF,intermediate monocyte,0,0.5718910169948745,0.8265107212475633,0.43720354712311815
+26,mono_merge_annotated,MF,"DC Q1(CD14-, CD5+)",0,0.01115760111576011,0.005610098176718092,1.0
