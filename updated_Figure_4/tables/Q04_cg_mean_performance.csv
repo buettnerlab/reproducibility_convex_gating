@@ -1,6 +1,6 @@
 ,tool,panel,level,mean f1,mean precision,mean recall
 0,ConvexGating,monocyte panel,level 1,0.875,0.981,0.825
-0,ConvexGating,monocyte panel,level 2,0.758,0.968,0.669
+0,ConvexGating,monocyte panel,level 2,0.786,0.969,0.691
 0,ConvexGating,PBMC panel,level 1,0.858,0.993,0.782
 0,ConvexGating,PBMC panel,level 2,0.786,0.94,0.708
 0,ConvexGating,cyTOF panel,level 2,0.889,0.994,0.814

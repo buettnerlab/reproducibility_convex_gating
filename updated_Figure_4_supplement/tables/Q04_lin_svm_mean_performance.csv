@@ -1,6 +1,6 @@
 ,tool,panel,level,mean f1,mean precision,mean recall
 0,linear svm,monocyte panel,level 1,0.889,0.905,0.888
-0,linear svm,monocyte panel,level 2,0.447,0.602,0.449
+0,linear svm,monocyte panel,level 2,0.429,0.619,0.431
 0,linear svm,PBMC panel,level 1,0.97,0.962,0.987
 0,linear svm,PBMC panel,level 2,0.859,0.926,0.866
 0,linear svm,cyTOF panel,level 2,0.991,0.993,0.989
