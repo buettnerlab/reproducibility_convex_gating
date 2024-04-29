@@ -87,6 +87,43 @@ def get_fraction(adata,cluster_string,cluster_name):
     total_all = len(adata)
     total_cluster = adata.obs[cluster_string].value_counts()[cluster_name]
     return total_cluster/total_all
-   
+
+def get_f1_hierarch_max2hierarch(perf_loc):
+    tab = pd.read_csv(perf_loc)
+    #tab = pd.read_csv('level_' +str(level) + '/cluster_' + celltype + '/performance.csv')
+    best_loc_f1 = np.argmax(tab.iloc[0][1:])
+    if best_loc_f1 > 1:
+        best_loc_f1 = 1
+    f1 = tab.iloc[0][1:][best_loc_f1]
+    recall = tab.iloc[1][1:][best_loc_f1]
+    precision = tab.iloc[2][1:][best_loc_f1]
+    hierarchy = best_loc_f1 + 1
+    return f1,recall,precision,hierarchy
+
+def get_f1_hierarch(perf_loc):
+    tab = pd.read_csv(perf_loc)
+    #tab = pd.read_csv('level_' +str(level) + '/cluster_' + celltype + '/performance.csv')
+    best_loc_f1 = np.argmax(tab.iloc[0][1:])
+    f1 = tab.iloc[0][1:][best_loc_f1]
+    recall = tab.iloc[1][1:][best_loc_f1]
+    precision = tab.iloc[2][1:][best_loc_f1]
+    hierarchy = best_loc_f1 + 1
+    return f1,recall,precision,hierarchy
+
+def umap_plot(adata,color,base_plots_path,plot_name,show_in_nb = True, frameon=False,palette = None):
+    #adata with calculated umap
+    #color: column name in adata.obs
+    #base_plots_path: path to folder for saving plots
+    #plot_name: e.g. 'M10_umap.pdf'
+    #show_in_nb: True or False, whether to show plot in nb
+    #frameon: True or False, whether to have frame around plot
+    with plt.rc_context():
+        plt.figure()
+        sc.pl.umap(adata, color = color,show = False,frameon=frameon,palette = palette)
+        #plt.savefig(os.path.join(base_plots_path,plot_name),dpi=300, bbox_inches="tight")
+        plt.savefig(os.path.join(base_plots_path,plot_name), bbox_inches="tight")
+        plt.close()
+    if show_in_nb:
+        sc.pl.umap(adata, color = color,frameon=frameon)
     
     
