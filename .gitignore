@@ -1,1 +1,4 @@
 main_Figure_COVID/input_data/data_Tcells_annotated.csv.gz
+main_Figure_bridge_gap/CITEseq/output_data/pdata_CD16_CD8_sub_denoised.h5ad
+main_Figure_bridge_gap/CITEseq/output_data/pdata_CD16_CD4_sub_denoised.h5ad
+main_Figure_bridge_gap/CyTOF/input_data/data_Tcells_annotated.csv.gz
