@@ -1,0 +1,105 @@
+,sample,cluster,f1,recall,precision,hierarchy,level
+0,A,cluster_CD4+ CM T cell,0.568107,0.519896,0.626172,5,lvl5
+0,A,cluster_CD4+ TEMRA,0.928461,0.872632,0.991923,5,lvl5
+0,A,cluster_CD8+ CM T cell,0.202899,0.12069,0.636364,3,lvl5
+0,A,cluster_CD8+ TE T cell,0.733615,0.788995,0.6855,3,lvl5
+0,A,cluster_Double negative T cell,0.541176,0.396552,0.851852,5,lvl5
+0,A,cluster_NK cell,0.891476,0.805217,0.998435,4,lvl5
+0,A,cluster_Naive CD8+ T cell,0.755441,0.625535,0.953445,5,lvl5
+0,A,cluster_CD4+ EM T cell,0.843028,0.792499,0.900438,5,lvl5
+0,A,cluster_CD4+ TRM T cell,0.494624,0.338235,0.92,5,lvl5
+0,A,cluster_CD8+ EM T cell,0.692236,0.605721,0.807584,5,lvl5
+0,A,cluster_CD8+ TRM T cell,0.440678,0.282609,1.0,5,lvl5
+0,A,cluster_Double positive T cell,0.354057,0.221053,0.888889,3,lvl5
+0,A,cluster_Naive CD4+ T cell,0.827905,0.742038,0.936244,5,lvl5
+0,B,cluster_CD4+ CM T cell,0.816772,0.806443,0.82737,3,lvl5
+0,B,cluster_CD4+ TEMRA,0.363636,0.222222,1.0,4,lvl5
+0,B,cluster_CD8+ CM T cell,0.527911,0.446092,0.646484,4,lvl5
+0,B,cluster_CD8+ TE T cell,0.703617,0.616461,0.819475,3,lvl5
+0,B,cluster_Double negative T cell,0.547231,0.444444,0.711864,4,lvl5
+0,B,cluster_NK cell,0.895073,0.812377,0.996513,3,lvl5
+0,B,cluster_Naive CD8+ T cell,0.873211,0.873843,0.87258,3,lvl5
+0,B,cluster_CD4+ EM T cell,0.298755,0.182741,0.818182,5,lvl5
+0,B,cluster_CD4+ TRM T cell,0.432749,0.280303,0.948718,3,lvl5
+0,B,cluster_CD8+ EM T cell,0.733061,0.653566,0.834572,3,lvl5
+0,B,cluster_CD8+ TRM T cell,0.567376,0.4,0.97561,4,lvl5
+0,B,cluster_Double positive T cell,0.712329,0.579618,0.923858,4,lvl5
+0,B,cluster_Naive CD4+ T cell,0.839803,0.801617,0.881808,5,lvl5
+0,C,cluster_CD4+ CM T cell,0.82628,0.838335,0.814566,3,lvl5
+0,C,cluster_CD4+ TEMRA,0.938553,0.892134,0.990068,3,lvl5
+0,C,cluster_CD8+ CM T cell,0.514382,0.397906,0.727273,5,lvl5
+0,C,cluster_CD8+ TE T cell,0.75663,0.658073,0.889908,5,lvl5
+0,C,cluster_Double negative T cell,0.158621,0.092369,0.560976,3,lvl5
+0,C,cluster_NK cell,0.873944,0.778545,0.995987,3,lvl5
+0,C,cluster_Naive CD8+ T cell,0.834059,0.754156,0.9329,3,lvl5
+0,C,cluster_CD4+ EM T cell,0.413493,0.29734,0.678571,5,lvl5
+0,C,cluster_CD4+ TRM T cell,0.536082,0.42623,0.722222,2,lvl5
+0,C,cluster_CD8+ EM T cell,0.600979,0.511147,0.729119,4,lvl5
+0,C,cluster_CD8+ TRM T cell,0.712871,0.576,0.935065,4,lvl5
+0,C,cluster_Double positive T cell,0.325581,0.213415,0.686275,2,lvl5
+0,C,cluster_Naive CD4+ T cell,0.781493,0.749723,0.816075,5,lvl5
+0,H,cluster_CD4+ CM T cell,0.834151,0.852229,0.816824,4,lvl5
+0,H,cluster_CD4+ TEMRA,0.632258,0.521893,0.801818,3,lvl5
+0,H,cluster_CD8+ CM T cell,0.424837,0.307571,0.68662,3,lvl5
+0,H,cluster_CD8+ TE T cell,0.66731,0.848871,0.54973,2,lvl5
+0,H,cluster_Double negative T cell,0.562044,0.398551,0.95297,5,lvl5
+0,H,cluster_NK cell,0.832296,0.715083,0.995471,3,lvl5
+0,H,cluster_Naive CD8+ T cell,0.922083,0.868047,0.983294,5,lvl5
+0,H,cluster_CD4+ EM T cell,0.474009,0.357238,0.704188,5,lvl5
+0,H,cluster_CD4+ TRM T cell,0.474359,0.336364,0.804348,2,lvl5
+0,H,cluster_CD8+ EM T cell,0.526408,0.40402,0.755166,4,lvl5
+0,H,cluster_CD8+ TRM T cell,0.689024,0.530516,0.982609,3,lvl5
+0,H,cluster_Double positive T cell,0.379642,0.251825,0.77095,4,lvl5
+0,H,cluster_Naive CD4+ T cell,0.925776,0.909233,0.942933,4,lvl5
+0,J,cluster_CD4+ CM T cell,0.692664,0.691504,0.693828,4,lvl5
+0,J,cluster_CD4+ TEMRA,0.8,0.666667,1.0,2,lvl5
+0,J,cluster_CD8+ CM T cell,0.237389,0.145455,0.645161,3,lvl5
+0,J,cluster_CD8+ TE T cell,0.582809,0.418675,0.958621,4,lvl5
+0,J,cluster_Double negative T cell,0.59375,0.43578,0.931373,4,lvl5
+0,J,cluster_NK cell,0.797837,0.668759,0.98866,2,lvl5
+0,J,cluster_Naive CD8+ T cell,0.938422,0.901834,0.978105,5,lvl5
+0,J,cluster_CD4+ EM T cell,0.476404,0.373239,0.658385,4,lvl5
+0,J,cluster_CD4+ TRM T cell,0.503311,0.351852,0.883721,4,lvl5
+0,J,cluster_CD8+ EM T cell,0.659472,0.586068,0.753896,5,lvl5
+0,J,cluster_CD8+ TRM T cell,0.588235,0.416667,1.0,5,lvl5
+0,J,cluster_Double positive T cell,0.211082,0.119048,0.930233,3,lvl5
+0,J,cluster_Naive CD4+ T cell,0.826779,0.836249,0.817522,5,lvl5
+0,O,cluster_CD4+ CM T cell,0.645528,0.613258,0.681384,4,lvl5
+0,O,cluster_CD4+ TEMRA,0.683576,0.530512,0.960784,4,lvl5
+0,O,cluster_CD8+ CM T cell,0.435345,0.324759,0.660131,4,lvl5
+0,O,cluster_CD8+ TE T cell,0.853395,0.751869,0.986619,5,lvl5
+0,O,cluster_Double negative T cell,0.770654,0.635163,0.979624,4,lvl5
+0,O,cluster_NK cell,0.891574,0.8055,0.998243,3,lvl5
+0,O,cluster_Naive CD8+ T cell,0.872513,0.839767,0.907917,3,lvl5
+0,O,cluster_CD4+ EM T cell,0.56305,0.509014,0.629921,4,lvl5
+0,O,cluster_CD4+ TRM T cell,0.586538,0.465649,0.792208,5,lvl5
+0,O,cluster_CD8+ EM T cell,0.595369,0.455903,0.85777,5,lvl5
+0,O,cluster_CD8+ TRM T cell,0.649573,0.493506,0.95,5,lvl5
+0,O,cluster_Double positive T cell,0.255411,0.15285,0.776316,3,lvl5
+0,O,cluster_Naive CD4+ T cell,0.667695,0.730493,0.614838,4,lvl5
+0,T,cluster_CD4+ CM T cell,0.836092,0.866012,0.80817,3,lvl5
+0,T,cluster_CD4+ TEMRA,0.545455,0.375,1.0,3,lvl5
+0,T,cluster_CD8+ CM T cell,0.441176,0.357143,0.576923,5,lvl5
+0,T,cluster_CD8+ TE T cell,0.620879,0.518349,0.773973,3,lvl5
+0,T,cluster_Double negative T cell,0.388087,0.285146,0.607345,2,lvl5
+0,T,cluster_NK cell,0.827558,0.728654,0.957528,3,lvl5
+0,T,cluster_Naive CD8+ T cell,0.920073,0.931937,0.908507,3,lvl5
+0,T,cluster_CD4+ EM T cell,0.544,0.406699,0.821256,5,lvl5
+0,T,cluster_CD4+ TRM T cell,0.355556,0.228571,0.8,2,lvl5
+0,T,cluster_CD8+ EM T cell,0.776538,0.794725,0.759165,4,lvl5
+0,T,cluster_CD8+ TRM T cell,0.615385,0.509804,0.776119,5,lvl5
+0,T,cluster_Double positive T cell,0.398977,0.255738,0.906977,2,lvl5
+0,T,cluster_Naive CD4+ T cell,0.668347,0.536421,0.88633,5,lvl5
+0,U,cluster_CD4+ CM T cell,0.826816,0.882969,0.777379,3,lvl5
+0,U,cluster_CD4+ TEMRA,0.554217,0.396552,0.92,3,lvl5
+0,U,cluster_CD8+ CM T cell,0.488228,0.399594,0.627389,5,lvl5
+0,U,cluster_CD8+ TE T cell,0.702703,0.573529,0.906977,4,lvl5
+0,U,cluster_Double negative T cell,0.53913,0.402597,0.815789,3,lvl5
+0,U,cluster_NK cell,0.860867,0.759765,0.993007,4,lvl5
+0,U,cluster_Naive CD8+ T cell,0.920031,0.871668,0.974076,5,lvl5
+0,U,cluster_CD4+ EM T cell,0.407432,0.391083,0.425208,4,lvl5
+0,U,cluster_CD4+ TRM T cell,0.529081,0.38843,0.829412,4,lvl5
+0,U,cluster_CD8+ EM T cell,0.789656,0.79443,0.784938,4,lvl5
+0,U,cluster_CD8+ TRM T cell,0.637255,0.503876,0.866667,5,lvl5
+0,U,cluster_Double positive T cell,0.589226,0.533537,0.657895,2,lvl5
+0,U,cluster_Naive CD4+ T cell,0.715527,0.668161,0.770121,5,lvl5

@@ -1,0 +1,17 @@
+,sample,cluster,f1,recall,precision,hierarchy,level
+0,A,cluster_T cell,0.98072,0.969219,0.992498,2,lvl2
+0,A,cluster_NK cell,0.874764,0.778713,0.997844,3,lvl2
+0,B,cluster_T cell,0.987428,0.993946,0.980996,2,lvl2
+0,B,cluster_NK cell,0.895073,0.812377,0.996513,3,lvl2
+0,C,cluster_T cell,0.752048,0.603249,0.998289,1,lvl2
+0,C,cluster_NK cell,0.865248,0.76537,0.995106,3,lvl2
+0,H,cluster_T cell,0.960394,0.928599,0.994444,1,lvl2
+0,H,cluster_NK cell,0.767714,0.624448,0.996292,2,lvl2
+0,J,cluster_T cell,0.956033,0.918105,0.99723,2,lvl2
+0,J,cluster_NK cell,0.77166,0.630404,0.994499,2,lvl2
+0,O,cluster_T cell,0.956263,0.918333,0.997461,2,lvl2
+0,O,cluster_NK cell,0.891574,0.8055,0.998243,3,lvl2
+0,T,cluster_T cell,0.944031,0.89862,0.994275,1,lvl2
+0,T,cluster_NK cell,0.839425,0.739508,0.97056,2,lvl2
+0,U,cluster_T cell,0.96974,0.943373,0.997624,2,lvl2
+0,U,cluster_NK cell,0.814322,0.687533,0.998446,3,lvl2

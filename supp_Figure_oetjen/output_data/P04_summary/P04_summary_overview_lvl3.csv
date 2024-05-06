@@ -1,0 +1,41 @@
+,sample,cluster,f1,recall,precision,hierarchy,level
+0,A,cluster_CD4+ T cell,0.946963,0.906975,0.990639,4,lvl3
+0,A,cluster_CD8+ T cell,0.962362,0.935204,0.991145,2,lvl3
+0,A,cluster_Double negative T cell,0.430108,0.344828,0.571429,3,lvl3
+0,A,cluster_Double positive T cell,0.385353,0.290789,0.571059,2,lvl3
+0,A,cluster_NK cell,0.89778,0.816576,0.996918,3,lvl3
+0,B,cluster_CD4+ T cell,0.955456,0.917109,0.99715,4,lvl3
+0,B,cluster_CD8+ T cell,0.952016,0.925457,0.980144,2,lvl3
+0,B,cluster_Double negative T cell,0.411067,0.275132,0.8125,5,lvl3
+0,B,cluster_Double positive T cell,0.674487,0.732484,0.625,3,lvl3
+0,B,cluster_NK cell,0.895073,0.812377,0.996513,3,lvl3
+0,C,cluster_CD4+ T cell,0.923502,0.860861,0.995973,2,lvl3
+0,C,cluster_CD8+ T cell,0.843337,0.73126,0.995988,2,lvl3
+0,C,cluster_Double negative T cell,0.30303,0.180723,0.9375,4,lvl3
+0,C,cluster_Double positive T cell,0.255924,0.164634,0.574468,2,lvl3
+0,C,cluster_NK cell,0.843286,0.730866,0.996578,3,lvl3
+0,H,cluster_CD4+ T cell,0.988052,0.982023,0.994155,3,lvl3
+0,H,cluster_CD8+ T cell,0.947432,0.930009,0.96552,2,lvl3
+0,H,cluster_Double negative T cell,0.562821,0.39648,0.96962,5,lvl3
+0,H,cluster_Double positive T cell,0.428044,0.317518,0.656604,4,lvl3
+0,H,cluster_NK cell,0.832213,0.719266,0.987241,3,lvl3
+0,J,cluster_CD4+ T cell,0.982509,0.968491,0.996939,3,lvl3
+0,J,cluster_CD8+ T cell,0.93729,0.886137,0.99471,2,lvl3
+0,J,cluster_Double negative T cell,0.60815,0.444954,0.960396,4,lvl3
+0,J,cluster_Double positive T cell,0.262211,0.151786,0.962264,3,lvl3
+0,J,cluster_NK cell,0.765337,0.622036,0.994426,2,lvl3
+0,O,cluster_CD4+ T cell,0.949042,0.908486,0.993388,2,lvl3
+0,O,cluster_CD8+ T cell,0.92532,0.877521,0.978626,2,lvl3
+0,O,cluster_Double negative T cell,0.763906,0.628049,0.974763,4,lvl3
+0,O,cluster_Double positive T cell,0.35468,0.279793,0.484305,3,lvl3
+0,O,cluster_NK cell,0.891574,0.8055,0.998243,3,lvl3
+0,T,cluster_CD4+ T cell,0.972377,0.950049,0.99578,3,lvl3
+0,T,cluster_CD8+ T cell,0.892597,0.813939,0.988084,2,lvl3
+0,T,cluster_Double negative T cell,0.28,0.176393,0.678571,2,lvl3
+0,T,cluster_Double positive T cell,0.178042,0.098361,0.9375,2,lvl3
+0,T,cluster_NK cell,0.779796,0.662808,0.946933,3,lvl3
+0,U,cluster_CD4+ T cell,0.980682,0.967537,0.994189,3,lvl3
+0,U,cluster_CD8+ T cell,0.96814,0.940326,0.99765,3,lvl3
+0,U,cluster_Double negative T cell,0.507042,0.350649,0.915254,5,lvl3
+0,U,cluster_Double positive T cell,0.726415,0.704268,0.75,3,lvl3
+0,U,cluster_NK cell,0.825924,0.705725,0.995472,3,lvl3
