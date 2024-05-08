@@ -1,0 +1,625 @@
+"","sample","cell_type","set_size","score","value"
+"1","A","CD4+ CM T cell","full","precision",0.529085155689398
+"2","A","CD4+ CM T cell","full","recall",0.927456438808125
+"3","A","CD4+ CM T cell","full","f1",0.673792545541707
+"4","A","CD4+ CM T cell","subset","precision",0.899810066476733
+"5","A","CD4+ CM T cell","subset","recall",0.9475
+"6","A","CD4+ CM T cell","subset","f1",0.923039454456892
+"7","A","CD4+ EM T cell","full","precision",0.622361712625404
+"8","A","CD4+ EM T cell","full","recall",0.930876142839572
+"9","A","CD4+ EM T cell","full","f1",0.745979334023294
+"10","A","CD4+ EM T cell","subset","precision",0.966785896780787
+"11","A","CD4+ EM T cell","subset","recall",0.946
+"12","A","CD4+ EM T cell","subset","f1",0.956280010108668
+"13","A","CD4+ TEMRA","full","precision",0.826090523724873
+"14","A","CD4+ TEMRA","full","recall",0.934331405239877
+"15","A","CD4+ TEMRA","full","f1",0.876883328011147
+"16","A","CD4+ TEMRA","subset","precision",0.988396624472574
+"17","A","CD4+ TEMRA","subset","recall",0.937
+"18","A","CD4+ TEMRA","subset","f1",0.962012320328542
+"19","A","CD8+ EM T cell","full","precision",0.597888534249939
+"20","A","CD8+ EM T cell","full","recall",0.942560767920731
+"21","A","CD8+ EM T cell","full","f1",0.731664813868942
+"22","A","CD8+ EM T cell","subset","precision",0.929054054054054
+"23","A","CD8+ EM T cell","subset","recall",0.9625
+"24","A","CD8+ EM T cell","subset","f1",0.945481335952849
+"25","A","CD8+ TE T cell","full","precision",0.485715060175648
+"26","A","CD8+ TE T cell","full","recall",0.965047393364929
+"27","A","CD8+ TE T cell","full","f1",0.646195456184638
+"28","A","CD8+ TE T cell","subset","precision",0.91006026889198
+"29","A","CD8+ TE T cell","subset","recall",0.9815
+"30","A","CD8+ TE T cell","subset","f1",0.944431080105846
+"31","A","CD8+ TRM T cell","full","precision",0.0452794485368656
+"32","A","CD8+ TRM T cell","full","recall",0.978102189781022
+"33","A","CD8+ TRM T cell","full","f1",0.0865521250484434
+"34","A","CD8+ TRM T cell","subset","precision",0.980966325036603
+"35","A","CD8+ TRM T cell","subset","recall",0.978102189781022
+"36","A","CD8+ TRM T cell","subset","f1",0.97953216374269
+"37","A","Double negative T cell","full","precision",0.0225560538116592
+"38","A","Double negative T cell","full","recall",0.938432835820896
+"39","A","Double negative T cell","full","f1",0.0440532492555614
+"40","A","Double negative T cell","subset","precision",0.954459203036053
+"41","A","Double negative T cell","subset","recall",0.938432835820896
+"42","A","Double negative T cell","subset","f1",0.946378174976482
+"43","A","Double positive T cell","full","precision",0.127478753541076
+"44","A","Double positive T cell","full","recall",0.848773159739609
+"45","A","Double positive T cell","full","f1",0.221665213600697
+"46","A","Double positive T cell","subset","precision",0.920828905419766
+"47","A","Double positive T cell","subset","recall",0.8665
+"48","A","Double positive T cell","subset","f1",0.892838742916023
+"49","A","NK cell","full","precision",0.780031384856807
+"50","A","NK cell","full","recall",0.976667649081442
+"51","A","NK cell","full","f1",0.867344268016053
+"52","A","NK cell","subset","precision",0.987481221832749
+"53","A","NK cell","subset","recall",0.986
+"54","A","NK cell","subset","f1",0.986740055041281
+"55","A","Naive CD4+ T cell","full","precision",0.721796339783026
+"56","A","Naive CD4+ T cell","full","recall",0.929590842060536
+"57","A","Naive CD4+ T cell","full","f1",0.812620171298724
+"58","A","Naive CD4+ T cell","subset","precision",0.964014191586417
+"59","A","Naive CD4+ T cell","subset","recall",0.951
+"60","A","Naive CD4+ T cell","subset","f1",0.957462874402215
+"61","A","Naive CD8+ T cell","full","precision",0.328110100255148
+"62","A","Naive CD8+ T cell","full","recall",0.894596303843721
+"63","A","Naive CD8+ T cell","full","f1",0.480125207421934
+"64","A","Naive CD8+ T cell","subset","precision",0.94874532835024
+"65","A","Naive CD8+ T cell","subset","recall",0.8885
+"66","A","Naive CD8+ T cell","subset","f1",0.917634908339788
+"67","A","CD4+ TRM T cell","full","precision",0.346796182685753
+"68","A","CD4+ TRM T cell","full","recall",0.990990990990991
+"69","A","CD4+ TRM T cell","full","f1",0.513791579877548
+"70","A","CD4+ TRM T cell","subset","precision",0.988568588469185
+"71","A","CD4+ TRM T cell","subset","recall",0.9945
+"72","A","CD4+ TRM T cell","subset","f1",0.991525423728814
+"73","A","CD8+ CM T cell","full","precision",0.107520741661348
+"74","A","CD8+ CM T cell","full","recall",0.966777408637874
+"75","A","CD8+ CM T cell","full","f1",0.193519134272414
+"76","A","CD8+ CM T cell","subset","precision",0.944011684518014
+"77","A","CD8+ CM T cell","subset","recall",0.9695
+"78","A","CD8+ CM T cell","subset","f1",0.956586087814504
+"79","B","CD4+ CM T cell","full","precision",0.691677580664365
+"80","B","CD4+ CM T cell","full","recall",0.943436672783669
+"81","B","CD4+ CM T cell","full","f1",0.798175410635652
+"82","B","CD4+ CM T cell","subset","precision",0.92686494392979
+"83","B","CD4+ CM T cell","subset","recall",0.9505
+"84","B","CD4+ CM T cell","subset","f1",0.938533695383856
+"85","B","CD4+ EM T cell","full","precision",0.0512061004941957
+"86","B","CD4+ EM T cell","full","recall",0.953073269036994
+"87","B","CD4+ EM T cell","full","f1",0.097190417474018
+"88","B","CD4+ EM T cell","subset","precision",0.87201442091032
+"89","B","CD4+ EM T cell","subset","recall",0.9675
+"90","B","CD4+ EM T cell","subset","f1",0.917278976060678
+"91","B","CD4+ TEMRA","full","precision",0.0107162067110762
+"92","B","CD4+ TEMRA","full","recall",0.938405797101449
+"93","B","CD4+ TEMRA","full","f1",0.0211904274902843
+"94","B","CD4+ TEMRA","subset","precision",1
+"95","B","CD4+ TEMRA","subset","recall",0.938405797101449
+"96","B","CD4+ TEMRA","subset","f1",0.968224299065421
+"97","B","CD8+ EM T cell","full","precision",0.618361241244956
+"98","B","CD8+ EM T cell","full","recall",0.958806818181818
+"99","B","CD8+ EM T cell","full","f1",0.751839945859064
+"100","B","CD8+ EM T cell","subset","precision",0.966633466135458
+"101","B","CD8+ EM T cell","subset","recall",0.9705
+"102","B","CD8+ EM T cell","subset","f1",0.968562874251497
+"103","B","CD8+ TE T cell","full","precision",0.594770615841394
+"104","B","CD8+ TE T cell","full","recall",0.956414600338826
+"105","B","CD8+ TE T cell","full","f1",0.733435691508208
+"106","B","CD8+ TE T cell","subset","precision",0.989748846745259
+"107","B","CD8+ TE T cell","subset","recall",0.9655
+"108","B","CD8+ TE T cell","subset","f1",0.977474057200709
+"109","B","CD8+ TRM T cell","full","precision",0.0062780269058296
+"110","B","CD8+ TRM T cell","full","recall",0.994318181818182
+"111","B","CD8+ TRM T cell","full","f1",0.0124772735374853
+"112","B","CD8+ TRM T cell","subset","precision",1
+"113","B","CD8+ TRM T cell","subset","recall",0.994318181818182
+"114","B","CD8+ TRM T cell","subset","f1",0.997150997150997
+"115","B","Double negative T cell","full","precision",0.103946289862992
+"116","B","Double negative T cell","full","recall",0.955850681981335
+"117","B","Double negative T cell","full","f1",0.187502200316846
+"118","B","Double negative T cell","subset","precision",0.98064187468161
+"119","B","Double negative T cell","subset","recall",0.9625
+"120","B","Double negative T cell","subset","f1",0.971486247792077
+"121","B","Double positive T cell","full","precision",0.0834964249035983
+"122","B","Double positive T cell","full","recall",0.853436324024559
+"123","B","Double positive T cell","full","f1",0.152110985597289
+"124","B","Double positive T cell","subset","precision",0.8868407578085
+"125","B","Double positive T cell","subset","recall",0.866
+"126","B","Double positive T cell","subset","f1",0.876296483683279
+"127","B","NK cell","full","precision",0.901049952274897
+"128","B","NK cell","full","recall",0.975645952033921
+"129","B","NK cell","full","f1",0.93686540957325
+"130","B","NK cell","subset","precision",0.989858012170385
+"131","B","NK cell","subset","recall",0.976
+"132","B","NK cell","subset","f1",0.982880161127895
+"133","B","Naive CD4+ T cell","full","precision",0.684999014389907
+"134","B","Naive CD4+ T cell","full","recall",0.95142726765705
+"135","B","Naive CD4+ T cell","full","f1",0.796524411467574
+"136","B","Naive CD4+ T cell","subset","precision",0.947916666666667
+"137","B","Naive CD4+ T cell","subset","recall",0.9555
+"138","B","Naive CD4+ T cell","subset","f1",0.951693227091633
+"139","B","Naive CD8+ T cell","full","precision",0.817698628463207
+"140","B","Naive CD8+ T cell","full","recall",0.947189639615732
+"141","B","Naive CD8+ T cell","full","f1",0.877693713779847
+"142","B","Naive CD8+ T cell","subset","precision",0.9824016563147
+"143","B","Naive CD8+ T cell","subset","recall",0.949
+"144","B","Naive CD8+ T cell","subset","f1",0.965412004069176
+"145","B","CD4+ TRM T cell","full","precision",0.191689805632685
+"146","B","CD4+ TRM T cell","full","recall",0.994853319608852
+"147","B","CD4+ TRM T cell","full","f1",0.321443418973975
+"148","B","CD4+ TRM T cell","subset","precision",0.989759344598054
+"149","B","CD4+ TRM T cell","subset","recall",0.994853319608852
+"150","B","CD4+ TRM T cell","subset","f1",0.992299794661191
+"151","B","CD8+ CM T cell","full","precision",0.262522547523241
+"152","B","CD8+ CM T cell","full","recall",0.971086398631309
+"153","B","CD8+ CM T cell","full","f1",0.41331100269424
+"154","B","CD8+ CM T cell","subset","precision",0.964162984781541
+"155","B","CD8+ CM T cell","subset","recall",0.982
+"156","B","CD8+ CM T cell","subset","f1",0.972999752291305
+"157","C","CD4+ CM T cell","full","precision",0.708059377753677
+"158","C","CD4+ CM T cell","full","recall",0.956024344483595
+"159","C","CD4+ CM T cell","full","f1",0.81356724235285
+"160","C","CD4+ CM T cell","subset","precision",0.934204160619255
+"161","C","CD4+ CM T cell","subset","recall",0.9655
+"162","C","CD4+ CM T cell","subset","f1",0.949594295549545
+"163","C","CD4+ EM T cell","full","precision",0.110428891174158
+"164","C","CD4+ EM T cell","full","recall",0.946590614467202
+"165","C","CD4+ EM T cell","full","f1",0.197784338687397
+"166","C","CD4+ EM T cell","subset","precision",0.905392620624409
+"167","C","CD4+ EM T cell","subset","recall",0.957
+"168","C","CD4+ EM T cell","subset","f1",0.93048128342246
+"169","C","CD4+ TEMRA","full","precision",0.855553098975606
+"170","C","CD4+ TEMRA","full","recall",0.944435405141555
+"171","C","CD4+ TEMRA","full","f1",0.897799775724063
+"172","C","CD4+ TEMRA","subset","precision",0.993759750390016
+"173","C","CD4+ TEMRA","subset","recall",0.9555
+"174","C","CD4+ TEMRA","subset","f1",0.974254397145042
+"175","C","CD8+ EM T cell","full","precision",0.584754679366486
+"176","C","CD8+ EM T cell","full","recall",0.958560275962237
+"177","C","CD8+ EM T cell","full","f1",0.726387837930797
+"178","C","CD8+ EM T cell","subset","precision",0.964196916956738
+"179","C","CD8+ EM T cell","subset","recall",0.9695
+"180","C","CD8+ EM T cell","subset","f1",0.966841186736475
+"181","C","CD8+ TE T cell","full","precision",0.202050501432665
+"182","C","CD8+ TE T cell","full","recall",0.97137322427895
+"183","C","CD8+ TE T cell","full","f1",0.334519309169076
+"184","C","CD8+ TE T cell","subset","precision",0.942512077294686
+"185","C","CD8+ TE T cell","subset","recall",0.9755
+"186","C","CD8+ TE T cell","subset","f1",0.958722358722359
+"187","C","CD8+ TRM T cell","full","precision",0.0977392869193567
+"188","C","CD8+ TRM T cell","full","recall",0.988623435722412
+"189","C","CD8+ TRM T cell","full","f1",0.177891504605937
+"190","C","CD8+ TRM T cell","subset","precision",0.981920903954802
+"191","C","CD8+ TRM T cell","subset","recall",0.988623435722412
+"192","C","CD8+ TRM T cell","subset","f1",0.985260770975057
+"193","C","Double negative T cell","full","precision",0.109257916364515
+"194","C","Double negative T cell","full","recall",0.962384669978708
+"195","C","Double negative T cell","full","f1",0.196237337192475
+"196","C","Double negative T cell","subset","precision",0.966500356379187
+"197","C","Double negative T cell","subset","recall",0.962384669978708
+"198","C","Double negative T cell","subset","f1",0.964438122332859
+"199","C","Double positive T cell","full","precision",0.0266531529063716
+"200","C","Double positive T cell","full","recall",0.905116279069767
+"201","C","Double positive T cell","full","f1",0.0517814853250313
+"202","C","Double positive T cell","subset","precision",0.905116279069767
+"203","C","Double positive T cell","subset","recall",0.905116279069767
+"204","C","Double positive T cell","subset","f1",0.905116279069767
+"205","C","NK cell","full","precision",0.641056939757306
+"206","C","NK cell","full","recall",0.928935594631152
+"207","C","NK cell","full","f1",0.758603109864899
+"208","C","NK cell","subset","precision",0.986308583464982
+"209","C","NK cell","subset","recall",0.9365
+"210","C","NK cell","subset","f1",0.960759169017697
+"211","C","Naive CD4+ T cell","full","precision",0.574773370286968
+"212","C","Naive CD4+ T cell","full","recall",0.936057172410551
+"213","C","Naive CD4+ T cell","full","f1",0.712218505732735
+"214","C","Naive CD4+ T cell","subset","precision",0.950524737631184
+"215","C","Naive CD4+ T cell","subset","recall",0.951
+"216","C","Naive CD4+ T cell","subset","f1",0.950762309422644
+"217","C","Naive CD8+ T cell","full","precision",0.453854811480022
+"218","C","Naive CD8+ T cell","full","recall",0.964857185583969
+"219","C","Naive CD8+ T cell","full","f1",0.617327656317275
+"220","C","Naive CD8+ T cell","subset","precision",0.981753674607197
+"221","C","Naive CD8+ T cell","subset","recall",0.9685
+"222","C","Naive CD8+ T cell","subset","f1",0.975081802164611
+"223","C","CD4+ TRM T cell","full","precision",0.255144032921811
+"224","C","CD4+ TRM T cell","full","recall",0.995184590690209
+"225","C","CD4+ TRM T cell","full","f1",0.406157877497543
+"226","C","CD4+ TRM T cell","subset","precision",0.992794235388311
+"227","C","CD4+ TRM T cell","subset","recall",0.995184590690209
+"228","C","CD4+ TRM T cell","subset","f1",0.993987975951904
+"229","C","CD8+ CM T cell","full","precision",0.202727607814228
+"230","C","CD8+ CM T cell","full","recall",0.980392156862745
+"231","C","CD8+ CM T cell","full","f1",0.335980452046426
+"232","C","CD8+ CM T cell","subset","precision",0.978510744627686
+"233","C","CD8+ CM T cell","subset","recall",0.979
+"234","C","CD8+ CM T cell","subset","f1",0.978755311172207
+"235","H","CD4+ CM T cell","full","precision",0.66444323342416
+"236","H","CD4+ CM T cell","full","recall",0.942177711836466
+"237","H","CD4+ CM T cell","full","f1",0.779304673152066
+"238","H","CD4+ CM T cell","subset","precision",0.930186823992134
+"239","H","CD4+ CM T cell","subset","recall",0.946
+"240","H","CD4+ CM T cell","subset","f1",0.938026772434308
+"241","H","CD4+ EM T cell","full","precision",0.149397996600121
+"242","H","CD4+ EM T cell","full","recall",0.95329448677723
+"243","H","CD4+ EM T cell","full","f1",0.258313697864795
+"244","H","CD4+ EM T cell","subset","precision",0.930750605326876
+"245","H","CD4+ EM T cell","subset","recall",0.961
+"246","H","CD4+ EM T cell","subset","f1",0.945633456334563
+"247","H","CD4+ TEMRA","full","precision",0.379487018293833
+"248","H","CD4+ TEMRA","full","recall",0.976148124191462
+"249","H","CD4+ TEMRA","full","f1",0.54651215427097
+"250","H","CD4+ TEMRA","subset","precision",0.9815
+"251","H","CD4+ TEMRA","subset","recall",0.9815
+"252","H","CD4+ TEMRA","subset","f1",0.9815
+"253","H","CD8+ EM T cell","full","precision",0.450910674970861
+"254","H","CD8+ EM T cell","full","recall",0.885505537444221
+"255","H","CD8+ EM T cell","full","f1",0.597544231909383
+"256","H","CD8+ EM T cell","subset","precision",0.936946326211568
+"257","H","CD8+ EM T cell","subset","recall",0.899
+"258","H","CD8+ EM T cell","subset","f1",0.917581015565195
+"259","H","CD8+ TE T cell","full","precision",0.527727166128479
+"260","H","CD8+ TE T cell","full","recall",0.974596881663113
+"261","H","CD8+ TE T cell","full","f1",0.684700815691231
+"262","H","CD8+ TE T cell","subset","precision",0.940698230511717
+"263","H","CD8+ TE T cell","subset","recall",0.9835
+"264","H","CD8+ TE T cell","subset","f1",0.961623075042777
+"265","H","CD8+ TRM T cell","full","precision",0.202743630856939
+"266","H","CD8+ TRM T cell","full","recall",0.981034482758621
+"267","H","CD8+ TRM T cell","full","f1",0.336040159456666
+"268","H","CD8+ TRM T cell","subset","precision",0.988476953907816
+"269","H","CD8+ TRM T cell","subset","recall",0.9865
+"270","H","CD8+ TRM T cell","subset","f1",0.987487487487487
+"271","H","Double negative T cell","full","precision",0.283211447371029
+"272","H","Double negative T cell","full","recall",0.945168331238839
+"273","H","Double negative T cell","full","f1",0.43583018177382
+"274","H","Double negative T cell","subset","precision",0.954
+"275","H","Double negative T cell","subset","recall",0.954
+"276","H","Double negative T cell","subset","f1",0.954
+"277","H","Double positive T cell","full","precision",0.0743881092347698
+"278","H","Double positive T cell","full","recall",0.87471743010113
+"279","H","Double positive T cell","full","f1",0.137115574702997
+"280","H","Double positive T cell","subset","precision",0.887770508303976
+"281","H","Double positive T cell","subset","recall",0.882
+"282","H","Double positive T cell","subset","f1",0.884875846501129
+"283","H","NK cell","full","precision",0.932572233104799
+"284","H","NK cell","full","recall",0.968576651037114
+"285","H","NK cell","full","f1",0.950233511878309
+"286","H","NK cell","subset","precision",0.997424008243174
+"287","H","NK cell","subset","recall",0.968
+"288","H","NK cell","subset","f1",0.982491753362091
+"289","H","Naive CD4+ T cell","full","precision",0.832901640433021
+"290","H","Naive CD4+ T cell","full","recall",0.958957007130431
+"291","H","Naive CD4+ T cell","full","f1",0.891495392708306
+"292","H","Naive CD4+ T cell","subset","precision",0.975327291037261
+"293","H","Naive CD4+ T cell","subset","recall",0.9685
+"294","H","Naive CD4+ T cell","subset","f1",0.971901655795284
+"295","H","Naive CD8+ T cell","full","precision",0.772402787079124
+"296","H","Naive CD8+ T cell","full","recall",0.950834049569381
+"297","H","Naive CD8+ T cell","full","f1",0.85238065287125
+"298","H","Naive CD8+ T cell","subset","precision",0.987603305785124
+"299","H","Naive CD8+ T cell","subset","recall",0.956
+"300","H","Naive CD8+ T cell","subset","f1",0.971544715447154
+"301","H","CD4+ TRM T cell","full","precision",0.157232049947971
+"302","H","CD4+ TRM T cell","full","recall",0.994733377221857
+"303","H","CD4+ TRM T cell","full","f1",0.271542816066134
+"304","H","CD4+ TRM T cell","subset","precision",0.993425378040763
+"305","H","CD4+ TRM T cell","subset","recall",0.994733377221857
+"306","H","CD4+ TRM T cell","subset","f1",0.994078947368421
+"307","H","CD8+ CM T cell","full","precision",0.307532012563421
+"308","H","CD8+ CM T cell","full","recall",0.965487816440694
+"309","H","CD8+ CM T cell","full","f1",0.466478847431228
+"310","H","CD8+ CM T cell","subset","precision",0.978478478478478
+"311","H","CD8+ CM T cell","subset","recall",0.9775
+"312","H","CD8+ CM T cell","subset","f1",0.977988994497249
+"313","J","CD4+ CM T cell","full","precision",0.61893667190658
+"314","J","CD4+ CM T cell","full","recall",0.942546915744026
+"315","J","CD4+ CM T cell","full","f1",0.747208431468899
+"316","J","CD4+ CM T cell","subset","precision",0.907670454545455
+"317","J","CD4+ CM T cell","subset","recall",0.9585
+"318","J","CD4+ CM T cell","subset","f1",0.932392996108949
+"319","J","CD4+ EM T cell","full","precision",0.0487856921166977
+"320","J","CD4+ EM T cell","full","recall",0.950491307634165
+"321","J","CD4+ EM T cell","full","f1",0.0928078526882911
+"322","J","CD4+ EM T cell","subset","precision",0.91047619047619
+"323","J","CD4+ EM T cell","subset","recall",0.956
+"324","J","CD4+ EM T cell","subset","f1",0.932682926829268
+"325","J","CD4+ TEMRA","full","precision",0.006879115710254
+"326","J","CD4+ TEMRA","full","recall",0.936
+"327","J","CD4+ TEMRA","full","f1",0.0136578532656277
+"328","J","CD4+ TEMRA","subset","precision",0.991525423728814
+"329","J","CD4+ TEMRA","subset","recall",0.936
+"330","J","CD4+ TEMRA","subset","f1",0.962962962962963
+"331","J","CD8+ EM T cell","full","precision",0.439818186384069
+"332","J","CD8+ EM T cell","full","recall",0.956056553305311
+"333","J","CD8+ EM T cell","full","f1",0.602476780185758
+"334","J","CD8+ EM T cell","subset","precision",0.959801488833747
+"335","J","CD8+ EM T cell","subset","recall",0.967
+"336","J","CD8+ EM T cell","subset","f1",0.963387297633873
+"337","J","CD8+ TE T cell","full","precision",0.143911439114391
+"338","J","CD8+ TE T cell","full","recall",0.966020959034614
+"339","J","CD8+ TE T cell","full","f1",0.250504385061967
+"340","J","CD8+ TE T cell","subset","precision",0.965620328849028
+"341","J","CD8+ TE T cell","subset","recall",0.969
+"342","J","CD8+ TE T cell","subset","f1",0.967307212378338
+"343","J","CD8+ TRM T cell","full","precision",0.0405042016806723
+"344","J","CD8+ TRM T cell","full","recall",0.981670061099796
+"345","J","CD8+ TRM T cell","full","f1",0.0777984020660157
+"346","J","CD8+ TRM T cell","subset","precision",0.995867768595041
+"347","J","CD8+ TRM T cell","subset","recall",0.981670061099796
+"348","J","CD8+ TRM T cell","subset","f1",0.988717948717949
+"349","J","Double negative T cell","full","precision",0.141880809185347
+"350","J","Double negative T cell","full","recall",0.968283582089552
+"351","J","Double negative T cell","full","f1",0.247496423462089
+"352","J","Double negative T cell","subset","precision",0.979261507334345
+"353","J","Double negative T cell","subset","recall",0.968
+"354","J","Double negative T cell","subset","f1",0.973598189590143
+"355","J","Double positive T cell","full","precision",0.126728110599078
+"356","J","Double positive T cell","full","recall",0.86899275839368
+"357","J","Double positive T cell","full","f1",0.221198156682028
+"358","J","Double positive T cell","subset","precision",0.963576158940397
+"359","J","Double positive T cell","subset","recall",0.873
+"360","J","Double positive T cell","subset","f1",0.916054564533054
+"361","J","NK cell","full","precision",0.677503961532157
+"362","J","NK cell","full","recall",0.947501146263182
+"363","J","NK cell","full","f1",0.790072322936248
+"364","J","NK cell","subset","precision",0.989113530326594
+"365","J","NK cell","subset","recall",0.954
+"366","J","NK cell","subset","f1",0.97123950114533
+"367","J","Naive CD4+ T cell","full","precision",0.769101932804073
+"368","J","Naive CD4+ T cell","full","recall",0.946296830565058
+"369","J","Naive CD4+ T cell","full","f1",0.848547564491093
+"370","J","Naive CD4+ T cell","subset","precision",0.958582834331337
+"371","J","Naive CD4+ T cell","subset","recall",0.9605
+"372","J","Naive CD4+ T cell","subset","f1",0.95954045954046
+"373","J","Naive CD8+ T cell","full","precision",0.916711379558799
+"374","J","Naive CD8+ T cell","full","recall",0.973702636249654
+"375","J","Naive CD8+ T cell","full","f1",0.944347935946433
+"376","J","Naive CD8+ T cell","subset","precision",0.9845
+"377","J","Naive CD8+ T cell","subset","recall",0.9845
+"378","J","Naive CD8+ T cell","subset","f1",0.9845
+"379","J","CD4+ TRM T cell","full","precision",0.109456264775414
+"380","J","CD4+ TRM T cell","full","recall",0.997844827586207
+"381","J","CD4+ TRM T cell","full","f1",0.197273114614401
+"382","J","CD4+ TRM T cell","subset","precision",0.989316239316239
+"383","J","CD4+ TRM T cell","subset","recall",0.997844827586207
+"384","J","CD4+ TRM T cell","subset","f1",0.993562231759657
+"385","J","CD8+ CM T cell","full","precision",0.130059021922428
+"386","J","CD8+ CM T cell","full","recall",0.973954222573007
+"387","J","CD8+ CM T cell","full","f1",0.229474662947466
+"388","J","CD8+ CM T cell","subset","precision",0.972636815920398
+"389","J","CD8+ CM T cell","subset","recall",0.9775
+"390","J","CD8+ CM T cell","subset","f1",0.975062344139651
+"391","O","CD4+ CM T cell","full","precision",0.639215770179868
+"392","O","CD4+ CM T cell","full","recall",0.972188174550661
+"393","O","CD4+ CM T cell","full","f1",0.771300101116585
+"394","O","CD4+ CM T cell","subset","precision",0.94851869839728
+"395","O","CD4+ CM T cell","subset","recall",0.9765
+"396","O","CD4+ CM T cell","subset","f1",0.962305986696231
+"397","O","CD4+ EM T cell","full","precision",0.203170995522817
+"398","O","CD4+ EM T cell","full","recall",0.950608584240871
+"399","O","CD4+ EM T cell","full","f1",0.334788543323519
+"400","O","CD4+ EM T cell","subset","precision",0.930750605326876
+"401","O","CD4+ EM T cell","subset","recall",0.961
+"402","O","CD4+ EM T cell","subset","f1",0.945633456334563
+"403","O","CD4+ TEMRA","full","precision",0.40824382866371
+"404","O","CD4+ TEMRA","full","recall",0.949728665990816
+"405","O","CD4+ TEMRA","full","f1",0.571029042667623
+"406","O","CD4+ TEMRA","subset","precision",0.977168949771689
+"407","O","CD4+ TEMRA","subset","recall",0.963
+"408","O","CD4+ TEMRA","subset","f1",0.970032737345757
+"409","O","CD8+ EM T cell","full","precision",0.598673807256493
+"410","O","CD8+ EM T cell","full","recall",0.949889799143344
+"411","O","CD8+ EM T cell","full","f1",0.734453709459604
+"412","O","CD8+ EM T cell","subset","precision",0.947394540942928
+"413","O","CD8+ EM T cell","subset","recall",0.9545
+"414","O","CD8+ EM T cell","subset","f1",0.95093399750934
+"415","O","CD8+ TE T cell","full","precision",0.816709335207403
+"416","O","CD8+ TE T cell","full","recall",0.97600431922254
+"417","O","CD8+ TE T cell","full","f1",0.88927959771162
+"418","O","CD8+ TE T cell","subset","precision",0.988928032209361
+"419","O","CD8+ TE T cell","subset","recall",0.9825
+"420","O","CD8+ TE T cell","subset","f1",0.985703536493604
+"421","O","CD8+ TRM T cell","full","precision",0.093877248833938
+"422","O","CD8+ TRM T cell","full","recall",0.974260468689973
+"423","O","CD8+ TRM T cell","full","f1",0.171252996589796
+"424","O","CD8+ TRM T cell","subset","precision",0.984398590840463
+"425","O","CD8+ TRM T cell","subset","recall",0.978
+"426","O","CD8+ TRM T cell","subset","f1",0.981188863807374
+"427","O","Double negative T cell","full","precision",0.460761701170117
+"428","O","Double negative T cell","full","recall",0.970668404835269
+"429","O","Double negative T cell","full","f1",0.62489509422446
+"430","O","Double negative T cell","subset","precision",0.979417670682731
+"431","O","Double negative T cell","subset","recall",0.9755
+"432","O","Double negative T cell","subset","f1",0.977454909819639
+"433","O","Double positive T cell","full","precision",0.0489793722524517
+"434","O","Double positive T cell","full","recall",0.895335768474291
+"435","O","Double positive T cell","full","f1",0.0928778582567002
+"436","O","Double positive T cell","subset","precision",0.860086248203162
+"437","O","Double positive T cell","subset","recall",0.8975
+"438","O","Double positive T cell","subset","f1",0.878394910692439
+"439","O","NK cell","full","precision",0.856044379382079
+"440","O","NK cell","full","recall",0.957034816614123
+"441","O","NK cell","full","f1",0.903726960680646
+"442","O","NK cell","subset","precision",0.986146741918933
+"443","O","NK cell","subset","recall",0.961
+"444","O","NK cell","subset","f1",0.973410990124082
+"445","O","Naive CD4+ T cell","full","precision",0.440137447339311
+"446","O","Naive CD4+ T cell","full","recall",0.932601919960105
+"447","O","Naive CD4+ T cell","full","f1",0.598034904823197
+"448","O","Naive CD4+ T cell","subset","precision",0.953077699293643
+"449","O","Naive CD4+ T cell","subset","recall",0.9445
+"450","O","Naive CD4+ T cell","subset","f1",0.948769462581617
+"451","O","Naive CD8+ T cell","full","precision",0.653999070583983
+"452","O","Naive CD8+ T cell","full","recall",0.916199500886108
+"453","O","Naive CD8+ T cell","full","f1",0.763207447689921
+"454","O","Naive CD8+ T cell","subset","precision",0.96452790818988
+"455","O","Naive CD8+ T cell","subset","recall",0.9245
+"456","O","Naive CD8+ T cell","subset","f1",0.944089864692367
+"457","O","CD4+ TRM T cell","full","precision",0.172900158478605
+"458","O","CD4+ TRM T cell","full","recall",0.991818181818182
+"459","O","CD4+ TRM T cell","full","f1",0.2944669365722
+"460","O","CD4+ TRM T cell","subset","precision",0.992496248124062
+"461","O","CD4+ TRM T cell","subset","recall",0.992
+"462","O","CD4+ TRM T cell","subset","f1",0.992248062015504
+"463","O","CD8+ CM T cell","full","precision",0.105659757699606
+"464","O","CD8+ CM T cell","full","recall",0.970179259507455
+"465","O","CD8+ CM T cell","full","f1",0.190565509979104
+"466","O","CD8+ CM T cell","subset","precision",0.950509461426492
+"467","O","CD8+ CM T cell","subset","recall",0.9795
+"468","O","CD8+ CM T cell","subset","f1",0.964786998276287
+"469","T","CD4+ CM T cell","full","precision",0.69341827717918
+"470","T","CD4+ CM T cell","full","recall",0.963521140707001
+"471","T","CD4+ CM T cell","full","f1",0.806454553742365
+"472","T","CD4+ CM T cell","subset","precision",0.947600391772772
+"473","T","CD4+ CM T cell","subset","recall",0.9675
+"474","T","CD4+ CM T cell","subset","f1",0.957446808510638
+"475","T","CD4+ EM T cell","full","precision",0.208333333333333
+"476","T","CD4+ EM T cell","full","recall",0.951668412389645
+"477","T","CD4+ EM T cell","full","f1",0.341834403805326
+"478","T","CD4+ EM T cell","subset","precision",0.941463414634146
+"479","T","CD4+ EM T cell","subset","recall",0.965
+"480","T","CD4+ EM T cell","subset","f1",0.953086419753086
+"481","T","CD4+ TEMRA","full","precision",0.00601937744794888
+"482","T","CD4+ TEMRA","full","recall",0.960526315789474
+"483","T","CD4+ TEMRA","full","f1",0.0119637808825337
+"484","T","CD4+ TEMRA","subset","precision",0.979865771812081
+"485","T","CD4+ TEMRA","subset","recall",0.960526315789474
+"486","T","CD4+ TEMRA","subset","f1",0.970099667774087
+"487","T","CD8+ EM T cell","full","precision",0.653595199842618
+"488","T","CD8+ EM T cell","full","recall",0.941726703673084
+"489","T","CD8+ EM T cell","full","f1",0.771641198842577
+"490","T","CD8+ EM T cell","subset","precision",0.95333667837431
+"491","T","CD8+ EM T cell","subset","recall",0.95
+"492","T","CD8+ EM T cell","subset","f1",0.951665414475332
+"493","T","CD8+ TE T cell","full","precision",0.152361431377573
+"494","T","CD8+ TE T cell","full","recall",0.932079414838036
+"495","T","CD8+ TE T cell","full","f1",0.261910005138369
+"496","T","CD8+ TE T cell","subset","precision",0.982920110192837
+"497","T","CD8+ TE T cell","subset","recall",0.932079414838036
+"498","T","CD8+ TE T cell","subset","f1",0.956824886028426
+"499","T","CD8+ TRM T cell","full","precision",0.175939700485966
+"500","T","CD8+ TRM T cell","full","recall",0.979569298729983
+"501","T","CD8+ TRM T cell","full","f1",0.298301664704893
+"502","T","CD8+ TRM T cell","subset","precision",0.980110497237569
+"503","T","CD8+ TRM T cell","subset","recall",0.979569298729983
+"504","T","CD8+ TRM T cell","subset","f1",0.979839823253245
+"505","T","Double negative T cell","full","precision",0.307354981959478
+"506","T","Double negative T cell","full","recall",0.93168433451119
+"507","T","Double negative T cell","full","f1",0.462225561399115
+"508","T","Double negative T cell","subset","precision",0.977662337662338
+"509","T","Double negative T cell","subset","recall",0.941
+"510","T","Double negative T cell","subset","f1",0.958980891719745
+"511","T","Double positive T cell","full","precision",0.030290594783144
+"512","T","Double positive T cell","full","recall",0.919781931464174
+"513","T","Double positive T cell","full","f1",0.0586497156904129
+"514","T","Double positive T cell","subset","precision",0.848526703499079
+"515","T","Double positive T cell","subset","recall",0.9215
+"516","T","Double positive T cell","subset","f1",0.883509108341323
+"517","T","NK cell","full","precision",0.784855053476573
+"518","T","NK cell","full","recall",0.955403485371299
+"519","T","NK cell","full","f1",0.861772244599048
+"520","T","NK cell","subset","precision",0.979497693490518
+"521","T","NK cell","subset","recall",0.9555
+"522","T","NK cell","subset","f1",0.967350037965072
+"523","T","Naive CD4+ T cell","full","precision",0.527054763958711
+"524","T","Naive CD4+ T cell","full","recall",0.936518843490671
+"525","T","Naive CD4+ T cell","full","f1",0.67450890817725
+"526","T","Naive CD4+ T cell","subset","precision",0.959276018099548
+"527","T","Naive CD4+ T cell","subset","recall",0.954
+"528","T","Naive CD4+ T cell","subset","f1",0.95663073451993
+"529","T","Naive CD8+ T cell","full","precision",0.809535886380928
+"530","T","Naive CD8+ T cell","full","recall",0.972190333388
+"531","T","Naive CD8+ T cell","full","f1",0.883438717506547
+"532","T","Naive CD8+ T cell","subset","precision",0.976535197204194
+"533","T","Naive CD8+ T cell","subset","recall",0.978
+"534","T","Naive CD8+ T cell","subset","f1",0.977267049712715
+"535","T","CD4+ TRM T cell","full","precision",0.221491228070175
+"536","T","CD4+ TRM T cell","full","recall",0.996710526315789
+"537","T","CD4+ TRM T cell","full","f1",0.36244019138756
+"538","T","CD4+ TRM T cell","subset","precision",0.997804610318331
+"539","T","CD4+ TRM T cell","subset","recall",0.996710526315789
+"540","T","CD4+ TRM T cell","subset","f1",0.997257268239166
+"541","T","CD8+ CM T cell","full","precision",0.103981526835071
+"542","T","CD8+ CM T cell","full","recall",0.966608846487424
+"543","T","CD8+ CM T cell","full","f1",0.187764557228598
+"544","T","CD8+ CM T cell","subset","precision",0.929389312977099
+"545","T","CD8+ CM T cell","subset","recall",0.974
+"546","T","CD8+ CM T cell","subset","f1",0.951171875
+"547","U","CD4+ CM T cell","full","precision",0.791529701185502
+"548","U","CD4+ CM T cell","full","recall",0.941905362776025
+"549","U","CD4+ CM T cell","full","f1",0.860194980294545
+"550","U","CD4+ CM T cell","subset","precision",0.928640776699029
+"551","U","CD4+ CM T cell","subset","recall",0.9565
+"552","U","CD4+ CM T cell","subset","f1",0.942364532019704
+"553","U","CD4+ EM T cell","full","precision",0.0867610699033491
+"554","U","CD4+ EM T cell","full","recall",0.943765281173594
+"555","U","CD4+ EM T cell","full","f1",0.158913132976534
+"556","U","CD4+ EM T cell","subset","precision",0.869724770642202
+"557","U","CD4+ EM T cell","subset","recall",0.948
+"558","U","CD4+ EM T cell","subset","f1",0.907177033492823
+"559","U","CD4+ TEMRA","full","precision",0.0254609306409131
+"560","U","CD4+ TEMRA","full","recall",0.857988165680473
+"561","U","CD4+ TEMRA","full","f1",0.0494542974079127
+"562","U","CD4+ TEMRA","subset","precision",0.97972972972973
+"563","U","CD4+ TEMRA","subset","recall",0.857988165680473
+"564","U","CD4+ TEMRA","subset","f1",0.914826498422713
+"565","U","CD8+ EM T cell","full","precision",0.531213345497198
+"566","U","CD8+ EM T cell","full","recall",0.931657142857143
+"567","U","CD8+ EM T cell","full","f1",0.676626826029216
+"568","U","CD8+ EM T cell","subset","precision",0.950279046169457
+"569","U","CD8+ EM T cell","subset","recall",0.9365
+"570","U","CD8+ EM T cell","subset","f1",0.943339209267187
+"571","U","CD8+ TE T cell","full","precision",0.30343300110742
+"572","U","CD8+ TE T cell","full","recall",0.947004608294931
+"573","U","CD8+ TE T cell","full","f1",0.459603019289908
+"574","U","CD8+ TE T cell","subset","precision",0.997572815533981
+"575","U","CD8+ TE T cell","subset","recall",0.947004608294931
+"576","U","CD8+ TE T cell","subset","f1",0.971631205673759
+"577","U","CD8+ TRM T cell","full","precision",0.105703819989534
+"578","U","CD8+ TRM T cell","full","recall",0.982968369829684
+"579","U","CD8+ TRM T cell","full","f1",0.190881171745807
+"580","U","CD8+ TRM T cell","subset","precision",0.992628992628993
+"581","U","CD8+ TRM T cell","subset","recall",0.982968369829684
+"582","U","CD8+ TRM T cell","subset","f1",0.987775061124694
+"583","U","Double negative T cell","full","precision",0.238083164300203
+"584","U","Double negative T cell","full","recall",0.962090163934426
+"585","U","Double negative T cell","full","f1",0.381707317073171
+"586","U","Double negative T cell","subset","precision",0.980167014613779
+"587","U","Double negative T cell","subset","recall",0.962090163934426
+"588","U","Double negative T cell","subset","f1",0.971044467425026
+"589","U","Double positive T cell","full","precision",0.253401797175866
+"590","U","Double positive T cell","full","recall",0.941793893129771
+"591","U","Double positive T cell","full","f1",0.399352619866478
+"592","U","Double positive T cell","subset","precision",0.988977955911824
+"593","U","Double positive T cell","subset","recall",0.941793893129771
+"594","U","Double positive T cell","subset","f1",0.964809384164223
+"595","U","NK cell","full","precision",0.784486373165618
+"596","U","NK cell","full","recall",0.943995963673057
+"597","U","NK cell","full","f1",0.856881154110373
+"598","U","NK cell","subset","precision",0.992134242265338
+"599","U","NK cell","subset","recall",0.946
+"600","U","NK cell","subset","f1",0.968518044535449
+"601","U","Naive CD4+ T cell","full","precision",0.61878453038674
+"602","U","Naive CD4+ T cell","full","recall",0.937653144568473
+"603","U","Naive CD4+ T cell","full","f1",0.745555405222568
+"604","U","Naive CD4+ T cell","subset","precision",0.950223992035839
+"605","U","Naive CD4+ T cell","subset","recall",0.9545
+"606","U","Naive CD4+ T cell","subset","f1",0.952357196308306
+"607","U","Naive CD8+ T cell","full","precision",0.782073380940655
+"608","U","Naive CD8+ T cell","full","recall",0.981231173244767
+"609","U","Naive CD8+ T cell","full","f1",0.87040526189579
+"610","U","Naive CD8+ T cell","subset","precision",0.983016983016983
+"611","U","Naive CD8+ T cell","subset","recall",0.984
+"612","U","Naive CD8+ T cell","subset","f1",0.983508245877061
+"613","U","CD4+ TRM T cell","full","precision",0.261377174172028
+"614","U","CD4+ TRM T cell","full","recall",0.990072202166065
+"615","U","CD4+ TRM T cell","full","f1",0.413572101790763
+"616","U","CD4+ TRM T cell","subset","precision",0.983856502242152
+"617","U","CD4+ TRM T cell","subset","recall",0.990072202166065
+"618","U","CD4+ TRM T cell","subset","f1",0.986954565901934
+"619","U","CD8+ CM T cell","full","precision",0.153298204527713
+"620","U","CD8+ CM T cell","full","recall",0.977598008711886
+"621","U","CD8+ CM T cell","full","f1",0.265035849852383
+"622","U","CD8+ CM T cell","subset","precision",0.949244712990937
+"623","U","CD8+ CM T cell","subset","recall",0.977598008711886
+"624","U","CD8+ CM T cell","subset","f1",0.963212752912324
