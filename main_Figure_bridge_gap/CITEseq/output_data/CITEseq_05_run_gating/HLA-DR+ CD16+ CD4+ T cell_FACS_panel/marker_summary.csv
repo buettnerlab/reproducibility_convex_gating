@@ -1,0 +1,5 @@
+marker,hierarchy,cluster
+AB_CD3,1,HLA-DR+ CD16+ CD4+ T cell
+AB_CD4,1,HLA-DR+ CD16+ CD4+ T cell
+AB_CD16,2,HLA-DR+ CD16+ CD4+ T cell
+AB_HLA-DR,2,HLA-DR+ CD16+ CD4+ T cell

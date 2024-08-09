@@ -1,0 +1,2 @@
+cluster,f1,recall,precision,hierarchy
+HLA-DR+ CD16+ CD4+ T cell,0.957179,0.959596,0.954774,3
