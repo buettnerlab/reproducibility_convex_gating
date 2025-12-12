@@ -1,0 +1,1951 @@
+,dataset_celltypekey,celltype,model,set,score_type,score_value
+0,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,precision,0.956689868522815
+1,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,precision,0.761475409836066
+2,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,precision,0.88385269121813
+3,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,precision,0.957277335264301
+4,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,precision,0.989583333333333
+5,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,precision,0.980165289256198
+6,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,precision,0.707964601769911
+7,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,precision,0.755720053835801
+8,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,precision,0.905882352941176
+9,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,precision,0.98877245508982
+10,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,precision,0.892519970951343
+11,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,precision,0.627703398558187
+12,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,precision,0.753389283408651
+13,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,precision,0.795232273838631
+14,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,precision,0.986821705426357
+15,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,precision,0.990243902439024
+16,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,precision,0.781990521327014
+17,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,precision,0.992885375494071
+18,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,precision,0.994736842105263
+19,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,precision,0.951951951951952
+20,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,precision,0.911064425770308
+21,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,precision,0.967213114754098
+22,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,precision,0.977777777777778
+23,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,precision,0.99622641509434
+24,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,precision,0.956689868522815
+25,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,precision,0.977973568281938
+26,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,precision,0.855983772819473
+27,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,precision,0.676438653637351
+28,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,precision,0.233225458468177
+29,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,precision,0.0435643564356436
+30,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,precision,0.957277335264301
+31,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,precision,0.688586956521739
+32,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,precision,0.738023044269254
+33,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,precision,0.765466297322253
+34,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,precision,0.60752688172043
+35,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,precision,0.980165289256198
+36,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,precision,0.954612005856515
+37,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,precision,0.634245187436677
+38,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,precision,0.845507433742728
+39,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,precision,0.396155649320206
+40,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,precision,0.328460038986355
+41,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,precision,0.905882352941176
+42,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,precision,0.740318906605923
+43,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,precision,0.373544480670703
+44,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,precision,0.733567046450482
+45,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,precision,0.836158192090395
+46,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,precision,0.892519970951343
+47,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,precision,0.904761904761905
+48,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,precision,0.544890162368672
+49,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,precision,0.642892277422528
+50,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,precision,0.218521527213647
+51,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,precision,0.252762430939227
+52,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,precision,0.795232273838631
+53,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,precision,0.689138576779026
+54,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,precision,0.170871925902268
+55,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,precision,0.667235494880546
+56,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,precision,0.831758034026465
+57,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,precision,0.990243902439024
+58,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,precision,0.959824689554419
+59,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,precision,0.989385898407885
+60,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,precision,0.161458333333333
+61,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,precision,0.170940170940171
+62,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,precision,0.994736842105263
+63,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,precision,0.79608938547486
+64,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,precision,0.0817805383022774
+65,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,precision,0.798798798798799
+66,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,precision,0.72972972972973
+67,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,precision,0.951951951951952
+68,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,precision,0.99037037037037
+69,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,precision,0.785982478097622
+70,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,precision,0.848920863309353
+71,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,precision,0.31437125748503
+72,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,precision,0.0502793296089385
+73,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,precision,0.977777777777778
+74,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,precision,0.870838881491345
+75,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,precision,0.649491525423729
+76,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,precision,0.891335227272727
+77,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,precision,0.58
+78,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.693787795492029
+79,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.85752508361204
+80,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.497274143302181
+81,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.734304932735426
+82,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.741302972802024
+83,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.888809182209469
+84,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.674775251189847
+85,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.877397260273973
+86,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.659214830970556
+87,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.836482084690554
+88,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.420544639779386
+89,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.711506392440245
+90,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.495210329029571
+91,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.748803827751196
+92,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,precision,0.898488120950324
+93,Oetjen_cell_type_lvl2,T cell,Hypergate,test,precision,0.987841945288754
+94,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.562582927908005
+95,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.748364069006544
+96,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.0517241379310345
+97,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.313046402151984
+98,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.693787795492029
+99,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.678459937565036
+100,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.475270479134467
+101,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.155372598691155
+102,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.258905299739357
+103,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.497274143302181
+104,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.819066147859922
+105,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.825920245398773
+106,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.117933723196881
+107,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.145896656534954
+108,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.741302972802024
+109,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.557405036278276
+110,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.403694834074581
+111,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.355397951142632
+112,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.0809407153356198
+113,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.674775251189847
+114,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.800123762376238
+115,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.736627906976744
+116,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.222737819025522
+117,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.366494845360825
+118,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.659214830970556
+119,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.548372911169745
+120,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.394825268817204
+121,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.187548638132296
+122,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.0512721912452733
+123,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.420544639779386
+124,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.790595611285266
+125,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.71875
+126,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.481324278438031
+127,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.316270566727605
+128,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.495210329029571
+129,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,precision,0.962765957446808
+130,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,precision,0.927023121387283
+131,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,precision,0.283533260632497
+132,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,precision,0.24694589877836
+133,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,precision,0.898488120950324
+134,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.502859656841179
+135,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.441445363517632
+136,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.225936367297624
+137,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.667604049493813
+138,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.0517241379310345
+139,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.313046402151984
+140,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.693787795492029
+141,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.388205613371176
+142,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.390823844608171
+143,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.185468895078923
+144,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.225581395348837
+145,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.155372598691155
+146,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.258905299739357
+147,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.497274143302181
+148,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.582259663032706
+149,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.571428571428571
+150,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.737213403880071
+151,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.484603735487128
+152,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.117933723196881
+153,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.145896656534954
+154,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.741302972802024
+155,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.347926935343578
+156,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.466376582278481
+157,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.136127017178553
+158,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.233848161844681
+159,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.355397951142632
+160,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.0809407153356198
+161,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.674775251189847
+162,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.694398225180255
+163,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.481070745697897
+164,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.126589077887198
+165,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.332809553739786
+166,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.222737819025522
+167,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.366494845360825
+168,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.659214830970556
+169,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.249835490239088
+170,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.372831423895254
+171,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.0975995534052847
+172,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.180849396646294
+173,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.187548638132296
+174,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.0512721912452733
+175,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.420544639779386
+176,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.410667661320403
+177,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.454648956356736
+178,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.292800453514739
+179,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.248648648648649
+180,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.481324278438031
+181,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.316270566727605
+182,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.495210329029571
+183,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,precision,0.854838709677419
+184,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,precision,0.822826808228268
+185,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,precision,0.515989628349179
+186,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,precision,0.630994152046784
+187,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,precision,0.283533260632497
+188,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,precision,0.24694589877836
+189,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,precision,0.898488120950324
+190,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.131470713373989
+191,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.387231089521166
+192,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.691860465116279
+193,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.377321603128055
+194,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.158707579760211
+195,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.176810972996142
+196,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.1428130783467
+197,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.0876494023904383
+198,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.0517241379310345
+199,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.313046402151984
+200,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.693787795492029
+201,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.377352035579884
+202,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.483994266602962
+203,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.109007763479741
+204,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.0605501880669666
+205,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.0405643738977072
+206,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.146730462519936
+207,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.141638225255973
+208,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.179767715872749
+209,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.267543859649123
+210,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.0085903943771964
+211,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.155372598691155
+212,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.258905299739357
+213,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.497274143302181
+214,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.224297059454819
+215,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.338833570412518
+216,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.268201284796574
+217,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.186918063314711
+218,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.864145658263305
+219,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.243128964059197
+220,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.286198547215496
+221,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.372340425531915
+222,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.555611985779584
+223,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.224390243902439
+224,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.117933723196881
+225,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.145896656534954
+226,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.741302972802024
+227,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.379823008849557
+228,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.561580882352941
+229,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.0992199391171994
+230,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.0988741044012282
+231,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.423375706214689
+232,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.165230423379543
+233,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.161059018201875
+234,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.106719367588933
+235,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.117308135515096
+236,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.305897193314412
+237,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.355397951142632
+238,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.0809407153356198
+239,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.674775251189847
+240,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.331012474615608
+241,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.436715668698458
+242,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.151865147494927
+243,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.0889767671774592
+244,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.0161290322580645
+245,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.128717698683569
+246,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.163475699558174
+247,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.285457348406989
+248,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.421717171717172
+249,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.071849234393404
+250,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.222737819025522
+251,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.366494845360825
+252,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.659214830970556
+253,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.303030303030303
+254,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.539335664335664
+255,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.097028613352898
+256,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.126935380678183
+257,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.379045177827619
+258,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.178632478632479
+259,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.1199207135778
+260,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.12416825095057
+261,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.396513470681458
+262,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.192244675040961
+263,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.187548638132296
+264,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.0512721912452733
+265,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.420544639779386
+266,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.149539541002777
+267,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.391288825419493
+268,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.193711601011926
+269,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.295149355987942
+270,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.0053426676492262
+271,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.19017094017094
+272,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.164639226795534
+273,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.201556131900704
+274,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.326451612903226
+275,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.171029668411867
+276,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.481324278438031
+277,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.316270566727605
+278,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.495210329029571
+279,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.293783783783784
+280,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.416465725111953
+281,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,precision,0.508221225710015
+282,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,precision,0.15553925165077
+283,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,precision,0.0715563506261181
+284,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,precision,0.246861924686192
+285,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,precision,0.198421052631579
+286,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,precision,0.5069573283859
+287,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,precision,0.255972696245734
+288,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,precision,0.0953630796150481
+289,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,precision,0.283533260632497
+290,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,precision,0.24694589877836
+291,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,precision,0.898488120950324
+292,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,precision,0.505531505531505
+293,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,precision,0.820254862508384
+294,small DC_cell_types,B cell,Hypergate,test,precision,0.970717423133236
+295,small DC_cell_types,dendritic cell,Hypergate,test,precision,0.620722433460076
+296,small DC_cell_types,monocyte,Hypergate,test,precision,0.773496789258611
+297,small DC_cell_types,B cell,Hypergate,test,precision,0.900742741390952
+298,small DC_cell_types,dendritic cell,Hypergate,test,precision,0.488074957410562
+299,small DC_cell_types,monocyte,Hypergate,test,precision,0.851536952256377
+300,small DC_cell_types,B cell,Hypergate,test,precision,0.99109131403118
+301,small DC_cell_types,dendritic cell,Hypergate,test,precision,0.742605915267786
+302,small DC_cell_types,monocyte,Hypergate,test,precision,0.675204918032787
+303,small DC_cell_types_lvl2,B cell,Hypergate,test,precision,0.970717423133236
+304,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,precision,0.242666666666667
+305,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,precision,0.212647671994441
+306,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,precision,0.350531107738998
+307,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,precision,0.873910127431254
+308,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,precision,0.415760869565217
+309,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,precision,0.484403669724771
+310,small DC_cell_types_lvl2,B cell,Hypergate,test,precision,0.900742741390952
+311,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,precision,0.304668304668305
+312,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,precision,0.280193236714976
+313,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,precision,0.114975845410628
+314,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,precision,0.842875318066158
+315,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,precision,0.382113821138211
+316,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,precision,0.495348837209302
+317,small DC_cell_types_lvl2,B cell,Hypergate,test,precision,0.99109131403118
+318,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,precision,0.406369426751592
+319,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,precision,0.314741035856574
+320,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,precision,0.25066430469442
+321,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,precision,0.789505068574836
+322,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,precision,0.42466765140325
+323,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,precision,0.705217859064013
+324,small DC_cell_types,B cell,ConvexGating,test,precision,0.979529946929492
+325,small DC_cell_types,monocyte,ConvexGating,test,precision,0.9670411985018726
+326,small DC_cell_types,dendritic cell,ConvexGating,test,precision,0.8415697674418605
+327,small DC_cell_types,B cell,ConvexGating,test,precision,0.9211822660098522
+328,small DC_cell_types,monocyte,ConvexGating,test,precision,0.9447761194029852
+329,small DC_cell_types,dendritic cell,ConvexGating,test,precision,0.6685236768802229
+330,small DC_cell_types,B cell,ConvexGating,test,precision,0.9777448071216616
+331,small DC_cell_types,monocyte,ConvexGating,test,precision,0.9108187134502924
+332,small DC_cell_types,dendritic cell,ConvexGating,test,precision,0.8647242455775234
+333,small DC_cell_types_lvl2,B cell,ConvexGating,test,precision,0.9760479041916168
+334,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,precision,0.9186046511627908
+335,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,precision,0.6371527777777778
+336,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,precision,0.6094827586206897
+337,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,precision,0.4358974358974359
+338,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,precision,0.2248243559718969
+339,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,precision,0.4834123222748815
+340,small DC_cell_types_lvl2,B cell,ConvexGating,test,precision,0.8865771812080537
+341,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,precision,0.958974358974359
+342,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,precision,0.6498940677966102
+343,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,precision,0.5988083416087389
+344,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,precision,0.2511013215859031
+345,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,precision,0.4575471698113207
+346,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,precision,0.1558028616852146
+347,small DC_cell_types_lvl2,B cell,ConvexGating,test,precision,0.9784706755753526
+348,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,precision,0.9202633504023408
+349,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,precision,0.7949194547707559
+350,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,precision,0.5349322210636079
+351,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,precision,0.5
+352,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,precision,0.5159235668789809
+353,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,precision,0.45625
+354,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.9740143369175628
+355,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.9395313681027968
+356,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.8534072900158478
+357,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.8743718592964824
+358,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.865414710485133
+359,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.8764970059880239
+360,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.8226950354609929
+361,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.8671931083991385
+362,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.9047151277013752
+363,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.8976377952755905
+364,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.7834586466165413
+365,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.7445168938944873
+366,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.6330769230769231
+367,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.7469135802469136
+368,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,precision,0.9823356231599608
+369,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,precision,0.9944400317712472
+370,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.6499171728326891
+371,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.9188163884673748
+372,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.2338129496402877
+373,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.168679716784673
+374,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.97632058287796
+375,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.7955974842767296
+376,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.6887068461088356
+377,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.2006437768240343
+378,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.1392071848869619
+379,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.890728476821192
+380,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.8766832034018427
+381,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.8913234005258545
+382,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.1823406478578892
+383,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.070037779715199
+384,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.885547201336675
+385,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.7609929078014185
+386,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.3631266490765171
+387,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.4632867132867133
+388,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.3396459448332647
+389,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.8558282208588958
+390,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.9046711153479504
+391,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.800655737704918
+392,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.1102165995783017
+393,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.4087089381207028
+394,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.9251769464105156
+395,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.5486848177203507
+396,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.5669943093636834
+397,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.6529360210341806
+398,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.1701899919721702
+399,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.8603839441535777
+400,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.859504132231405
+401,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.8393162393162393
+402,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.6320261437908496
+403,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.4001782531194296
+404,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.7097288676236044
+405,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,precision,0.9844644317252658
+406,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,precision,0.9761513157894736
+407,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,precision,0.4571428571428571
+408,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,precision,0.2239043824701195
+409,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,precision,0.984930032292788
+410,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.776803118908382
+411,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.6681887366818874
+412,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.2681510164569216
+413,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.8495222929936306
+414,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.0346756152125279
+415,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.221255776026094
+416,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.9835315645013724
+417,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.4145644930985245
+418,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.3283803863298662
+419,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.1318104906937394
+420,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.3365090166723375
+421,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.1929824561403508
+422,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.2082652346486108
+423,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.8946058091286307
+424,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.6308871851040526
+425,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.6646452395391146
+426,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.839835728952772
+427,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.4359122401847575
+428,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.2083578575632725
+429,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.1514973576042278
+430,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.892707460184409
+431,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.2590120160213618
+432,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.5683890577507599
+433,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.1322659743256887
+434,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.2173815907059874
+435,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.6746781115879829
+436,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.3790160642570281
+437,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.8682634730538922
+438,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.8191387559808613
+439,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.4144897248345524
+440,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.079368658399098
+441,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.1136619039974313
+442,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.1242263483642794
+443,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.4407374890254609
+444,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.9133466135458168
+445,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.0293454303142139
+446,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.4346217105263157
+447,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.163479666038244
+448,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.2929200850805226
+449,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.4590072504182934
+450,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.1427956062890372
+451,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.718705035971223
+452,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.3477115574580178
+453,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.4930875576036866
+454,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.2319978343259339
+455,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.2236526946107784
+456,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.5875533862111043
+457,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.4550102249488753
+458,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.3668275559455902
+459,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,precision,0.7190812720848057
+460,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,precision,0.8712871287128713
+461,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,precision,0.1951629156869331
+462,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,precision,0.5644729802033173
+463,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,precision,0.4464692482915717
+464,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,precision,0.2260659694288012
+465,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,precision,0.981981981981982
+466,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.0436028836966907
+467,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.2573606729758149
+468,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.8457446808510638
+469,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.1236159563173062
+470,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.2048224008296603
+471,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.2711864406779661
+472,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.1926910299003322
+473,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.1782845296708992
+474,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.9430324276950044
+475,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.51010101010101
+476,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.7307692307692307
+477,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.3777777777777777
+478,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.0944654768343248
+479,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.0778033855201462
+480,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.0456078889321396
+481,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.0420594633792603
+482,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.1091482649842271
+483,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.1886503067484662
+484,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.0402298850574712
+485,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.1622013034033309
+486,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.2401960784313725
+487,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.766368022053756
+488,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.0748917381336503
+489,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.3355263157894737
+490,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.1136561954624781
+491,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.0943377250326863
+492,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.1464899229000406
+493,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.1873015873015873
+494,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.9146341463414634
+495,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.1325301204819277
+496,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.6220472440944882
+497,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.3521367521367521
+498,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.1535508637236084
+499,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.2219917012448132
+500,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.915038232795242
+501,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.196795843256116
+502,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.6552941176470588
+503,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.2405731523378582
+504,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.2309050772626931
+505,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.0913032054650551
+506,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.0835289514866979
+507,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.5910973084886129
+508,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.0818975162228686
+509,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.1330845771144278
+510,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.3663265306122449
+511,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.7460510328068044
+512,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.2354694485842026
+513,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.7757009345794392
+514,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.2470489038785834
+515,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.5919212843086483
+516,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.246879334257975
+517,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.1322882288228823
+518,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.069712140175219
+519,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.0736497545008183
+520,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.0862068965517241
+521,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.3454091193004372
+522,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.4723067559342666
+523,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.0783532536520584
+524,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.1119449656035021
+525,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.3939774153074027
+526,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.5650953984287318
+527,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.2640539672341792
+528,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.3774204135214966
+529,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.1177215189873417
+530,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.1143843498273878
+531,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.0789658564001686
+532,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.1445637119113573
+533,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.3669849931787176
+534,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.1628201074928865
+535,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.775211701308699
+536,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.1442660550458715
+537,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.4624697336561743
+538,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.1247108712413261
+539,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.7023346303501945
+540,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.1026497970876104
+541,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.4044943820224719
+542,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.2079127977392006
+543,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.078927773641102
+544,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.1300527240773286
+545,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.3501082251082251
+546,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.0094086021505376
+547,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.1372155287817938
+548,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.3179347826086957
+549,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.3204508856682769
+550,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.5862068965517241
+551,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.5052023121387283
+552,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.4517587939698492
+553,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.1661061285500747
+554,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.6035879629629629
+555,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.2379576107899807
+556,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.0843971631205673
+557,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,precision,0.2251366120218579
+558,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,precision,0.1483720930232558
+559,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,precision,0.0733333333333333
+560,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,precision,0.4443950177935943
+561,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,precision,0.2690815006468305
+562,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,precision,0.0977198697068403
+563,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,precision,0.429193899782135
+564,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,precision,0.2397959183673469
+565,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,precision,0.988421052631579
+566,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,precision,0.4870689655172414
+567,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,precision,0.7937356760886173
+568,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,precision,0.2944297082228116
+569,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,precision,0.1316239316239316
+570,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,precision,0.8830769230769231
+571,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,precision,0.8887043189368771
+572,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,precision,0.9090909090909092
+573,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,precision,0.977635782747604
+574,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,precision,0.9969742813918304
+575,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,precision,0.9789739276703112
+576,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,precision,0.8736196319018404
+577,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,precision,0.8860232945091514
+578,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,precision,0.9865196078431372
+579,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,precision,0.9954093343534812
+580,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,precision,0.9775910364145658
+581,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,precision,0.577710386656558
+582,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,precision,0.668581275129236
+583,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,precision,0.886518771331058
+584,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,precision,0.9933712121212122
+585,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,precision,0.9974293059125964
+586,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,precision,0.9759615384615384
+587,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,precision,0.9959415584415584
+588,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,precision,0.999031945788964
+589,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,precision,1.0
+590,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,precision,0.9966329966329966
+591,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,precision,0.892436974789916
+592,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,precision,0.9665158371040724
+593,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,precision,0.9990942028985508
+594,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,precision,0.9946646341463414
+595,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,precision,0.8835370237239396
+596,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,precision,0.9425531914893616
+597,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,precision,0.9652605459057072
+598,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,precision,0.0244845360824742
+599,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,precision,0.986088379705401
+600,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,precision,0.832408435072142
+601,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,precision,0.8389955686853766
+602,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,precision,0.8717948717948718
+603,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,precision,0.536501079913607
+604,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,precision,0.2939166097060834
+605,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,precision,0.670028818443804
+606,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,precision,0.9775561097256856
+607,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,precision,0.9366249078850404
+608,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,precision,0.9535984848484848
+609,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,precision,0.8620689655172413
+610,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,precision,0.6492346938775511
+611,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,precision,0.1006317689530685
+612,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,precision,0.9505582137161084
+613,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,precision,0.9528985507246376
+614,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,precision,0.8571428571428571
+615,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,precision,0.4390406395736176
+616,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,precision,0.821071752951862
+617,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,precision,0.972922502334267
+618,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,precision,0.9434654919236416
+619,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,precision,0.6438442211055276
+620,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,precision,0.7434402332361516
+621,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,precision,0.8451816745655608
+622,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,precision,0.1371336996336996
+623,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,precision,0.951530612244898
+624,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,precision,0.9787735849056604
+625,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,precision,0.7052631578947368
+626,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,precision,0.3154150197628458
+627,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,precision,0.8845836768342952
+628,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,precision,0.9948849104859336
+629,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,precision,1.0
+630,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,precision,0.9427899686520376
+631,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,precision,0.3888888888888889
+632,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,precision,0.9971830985915492
+633,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,precision,0.2439024390243902
+634,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,precision,0.9178743961352656
+635,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,precision,0.8983050847457628
+636,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,precision,0.9855951478392722
+637,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,precision,0.2704918032786885
+638,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,precision,0.8595505617977528
+639,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,precision,1.0
+640,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,precision,0.9871114480667172
+641,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,precision,0.6180773249738767
+642,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,precision,0.2
+643,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,precision,1.0
+644,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,precision,0.8496659242761693
+645,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,precision,0.989522700814901
+646,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,precision,0.82
+647,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,precision,0.8881766381766382
+648,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,precision,0.3591370558375634
+649,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,precision,0.9228346456692912
+650,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,recall,0.923134328358209
+651,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,recall,0.963692946058091
+652,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,recall,0.93134328358209
+653,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,recall,0.986567164179105
+654,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,recall,0.992537313432836
+655,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,recall,0.885074626865672
+656,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,recall,0.96551724137931
+657,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,recall,0.838059701492537
+658,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,recall,0.976865671641791
+659,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,recall,0.985820895522388
+660,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,recall,0.917164179104478
+661,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,recall,0.909701492537313
+662,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,recall,0.87089552238806
+663,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,recall,0.97089552238806
+664,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,recall,0.95
+665,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,recall,0.900221729490022
+666,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,recall,0.982142857142857
+667,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,recall,0.937313432835821
+668,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,recall,0.987313432835821
+669,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,recall,0.786600496277916
+670,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,recall,0.97089552238806
+671,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,recall,0.836567164179104
+672,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,recall,0.985074626865672
+673,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,recall,0.985074626865672
+674,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,recall,0.923134328358209
+675,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,recall,0.994029850746269
+676,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,recall,0.944776119402985
+677,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,recall,0.929850746268657
+678,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,recall,0.806716417910448
+679,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,recall,0.733333333333333
+680,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,recall,0.986567164179105
+681,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,recall,0.945522388059701
+682,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,recall,0.908208955223881
+683,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,recall,0.973004694835681
+684,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,recall,1.0
+685,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,recall,0.885074626865672
+686,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,recall,0.973134328358209
+687,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,recall,0.934328358208955
+688,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,recall,0.976119402985075
+689,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,recall,0.942028985507246
+690,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,recall,0.946629213483146
+691,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,recall,0.976865671641791
+692,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,recall,0.970149253731343
+693,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,recall,0.598507462686567
+694,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,recall,0.969872537659328
+695,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,recall,0.996632996632997
+696,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,recall,0.917164179104478
+697,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,recall,0.978358208955224
+698,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,recall,0.851492537313433
+699,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,recall,0.975373134328358
+700,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,recall,0.892205638474295
+701,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,recall,0.940874035989717
+702,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,recall,0.97089552238806
+703,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,recall,0.961194029850746
+704,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,recall,0.798507462686567
+705,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,recall,0.972636815920398
+706,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,recall,0.990990990990991
+707,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,recall,0.900221729490022
+708,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,recall,0.980597014925373
+709,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,recall,0.973880597014925
+710,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,recall,0.794871794871795
+711,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,recall,0.740740740740741
+712,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,recall,0.987313432835821
+713,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,recall,0.989583333333333
+714,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,recall,0.782178217821782
+715,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,recall,0.967272727272727
+716,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,recall,0.870967741935484
+717,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,recall,0.786600496277916
+718,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,recall,0.997761194029851
+719,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,recall,0.937313432835821
+720,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,recall,0.96865671641791
+721,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,recall,0.853658536585366
+722,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,recall,0.771428571428571
+723,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,recall,0.985074626865672
+724,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,recall,0.976119402985075
+725,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,recall,0.714925373134328
+726,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,recall,0.971362229102167
+727,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,recall,0.988636363636364
+728,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.941791044776119
+729,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.956716417910448
+730,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.952985074626866
+731,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.977611940298508
+732,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.874626865671642
+733,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.924626865671642
+734,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.952238805970149
+735,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.955970149253731
+736,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.902238805970149
+737,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.958208955223881
+738,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.91044776119403
+739,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.955223880597015
+740,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.887313432835821
+741,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.934328358208955
+742,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,recall,0.93134328358209
+743,Oetjen_cell_type_lvl2,T cell,Hypergate,test,recall,0.970149253731343
+744,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.949253731343284
+745,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.938805970149254
+746,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.838509316770186
+747,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.694776119402985
+748,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.941791044776119
+749,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.973134328358209
+750,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.917910447761194
+751,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.880382775119617
+752,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.667164179104478
+753,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.952985074626866
+754,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.942537313432836
+755,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.803731343283582
+756,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.858156028368794
+757,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.743034055727554
+758,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.874626865671642
+759,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.974626865671642
+760,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.880597014925373
+761,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.673134328358209
+762,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.616417910447761
+763,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.952238805970149
+764,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.964925373134328
+765,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.945522388059701
+766,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.894409937888199
+767,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.779605263157895
+768,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.902238805970149
+769,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.930597014925373
+770,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.876865671641791
+771,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.899253731343284
+772,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.597014925373134
+773,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.91044776119403
+774,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.941044776119403
+775,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.823880597014925
+776,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.846268656716418
+777,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.673151750972763
+778,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.887313432835821
+779,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,recall,0.945522388059701
+780,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,recall,0.957462686567164
+781,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,recall,0.887372013651877
+782,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,recall,0.898412698412698
+783,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,recall,0.93134328358209
+784,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.852985074626866
+785,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.756716417910448
+786,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.837313432835821
+787,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.885820895522388
+788,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.838509316770186
+789,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.694776119402985
+790,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.941791044776119
+791,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.91865671641791
+792,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.87089552238806
+793,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.596268656716418
+794,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.86865671641791
+795,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.880382775119617
+796,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.667164179104478
+797,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.952985074626866
+798,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.876865671641791
+799,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.880597014925373
+800,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.623880597014925
+801,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.716417910447761
+802,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.858156028368794
+803,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.743034055727554
+804,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.874626865671642
+805,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.895522388059702
+806,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.879850746268657
+807,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.780597014925373
+808,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.802238805970149
+809,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.673134328358209
+810,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.616417910447761
+811,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.952238805970149
+812,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.934328358208955
+813,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.938805970149254
+814,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.636936936936937
+815,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.790298507462687
+816,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.894409937888199
+817,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.779605263157895
+818,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.902238805970149
+819,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.85
+820,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.85
+821,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.782835820895522
+822,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.861194029850746
+823,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.899253731343284
+824,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.597014925373134
+825,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.91044776119403
+826,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.821641791044776
+827,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.894029850746269
+828,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.77089552238806
+829,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.78955223880597
+830,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.846268656716418
+831,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.673151750972763
+832,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.887313432835821
+833,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,recall,0.870149253731343
+834,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,recall,0.925373134328358
+835,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,recall,0.533035714285714
+836,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,recall,0.805223880597015
+837,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,recall,0.887372013651877
+838,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,recall,0.898412698412698
+839,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,recall,0.93134328358209
+840,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.691791044776119
+841,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.832835820895522
+842,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.888059701492537
+843,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.939172749391727
+844,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.785714285714286
+845,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.615671641791045
+846,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.691044776119403
+847,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.854368932038835
+848,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.838509316770186
+849,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.694776119402985
+850,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.941791044776119
+851,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.823134328358209
+852,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.755970149253731
+853,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.764925373134328
+854,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.612686567164179
+855,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.831325301204819
+856,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.946826758147513
+857,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.867164179104478
+858,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.797014925373134
+859,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.91044776119403
+860,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.830188679245283
+861,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.880382775119617
+862,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.667164179104478
+863,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.952985074626866
+864,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.779850746268657
+865,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.888805970149254
+866,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.747761194029851
+867,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.693436960276338
+868,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.92089552238806
+869,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.922459893048128
+870,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.876854599406528
+871,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.783582089552239
+872,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.816417910447761
+873,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.871212121212121
+874,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.858156028368794
+875,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.743034055727554
+876,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.874626865671642
+877,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.800746268656716
+878,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.911940298507463
+879,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.778358208955224
+880,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.72089552238806
+881,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.894776119402985
+882,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.967105263157895
+883,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.871641791044776
+884,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.785820895522388
+885,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.759701492537313
+886,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.92911877394636
+887,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.673134328358209
+888,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.616417910447761
+889,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.952238805970149
+890,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.851492537313433
+891,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.908955223880597
+892,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.726119402985075
+893,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.680100755667506
+894,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.868421052631579
+895,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.946236559139785
+896,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.875164257555848
+897,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.82910447761194
+898,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.883597883597884
+899,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.824324324324324
+900,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.894409937888199
+901,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.779605263157895
+902,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.902238805970149
+903,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.813432835820896
+904,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.92089552238806
+905,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.78955223880597
+906,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.740298507462687
+907,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.882835820895522
+908,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.95
+909,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.812686567164179
+910,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.779850746268657
+911,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.933582089552239
+912,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.901408450704225
+913,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.899253731343284
+914,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.597014925373134
+915,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.91044776119403
+916,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.763432835820895
+917,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.817910447761194
+918,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.8
+919,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.803731343283582
+920,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.630434782608696
+921,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.974452554744526
+922,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.737313432835821
+923,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.811940298507463
+924,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.88
+925,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.900735294117647
+926,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.846268656716418
+927,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.673151750972763
+928,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.887313432835821
+929,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.811194029850746
+930,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.902238805970149
+931,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,recall,0.761194029850746
+932,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,recall,0.575305291723202
+933,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,recall,0.784313725490196
+934,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,recall,0.885885885885886
+935,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,recall,0.780538302277433
+936,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,recall,0.815671641791045
+937,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,recall,0.862068965517241
+938,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,recall,0.879032258064516
+939,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,recall,0.887372013651877
+940,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,recall,0.898412698412698
+941,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,recall,0.93134328358209
+942,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,recall,0.784328358208955
+943,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,recall,0.912686567164179
+944,small DC_cell_types,B cell,Hypergate,test,recall,0.98955223880597
+945,small DC_cell_types,dendritic cell,Hypergate,test,recall,0.989393939393939
+946,small DC_cell_types,monocyte,Hypergate,test,recall,0.988805970149254
+947,small DC_cell_types,B cell,Hypergate,test,recall,0.995522388059702
+948,small DC_cell_types,dendritic cell,Hypergate,test,recall,0.996521739130435
+949,small DC_cell_types,monocyte,Hypergate,test,recall,0.971641791044776
+950,small DC_cell_types,B cell,Hypergate,test,recall,0.996268656716418
+951,small DC_cell_types,dendritic cell,Hypergate,test,recall,0.985153764581124
+952,small DC_cell_types,monocyte,Hypergate,test,recall,0.983582089552239
+953,small DC_cell_types_lvl2,B cell,Hypergate,test,recall,0.98955223880597
+954,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,recall,0.973262032085562
+955,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,recall,0.968354430379747
+956,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,recall,0.991416309012876
+957,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,recall,0.972388059701493
+958,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,recall,0.985824742268041
+959,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,recall,0.962332928311057
+960,small DC_cell_types_lvl2,B cell,Hypergate,test,recall,0.995522388059702
+961,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,recall,0.984126984126984
+962,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,recall,0.985436893203884
+963,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,recall,0.975409836065574
+964,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,recall,0.988805970149254
+965,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,recall,0.997171145685997
+966,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,recall,0.953731343283582
+967,small DC_cell_types_lvl2,B cell,Hypergate,test,recall,0.996268656716418
+968,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,recall,0.975535168195719
+969,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,recall,0.938242280285036
+970,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,recall,0.989510489510489
+971,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,recall,0.988059701492537
+972,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,recall,0.98122866894198
+973,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,recall,0.978358208955224
+974,small DC_cell_types,B cell,ConvexGating,test,recall,0.964179104477612
+975,small DC_cell_types,monocyte,ConvexGating,test,recall,0.9634328358208956
+976,small DC_cell_types,dendritic cell,ConvexGating,test,recall,0.8772727272727273
+977,small DC_cell_types,B cell,ConvexGating,test,recall,0.9768656716417912
+978,small DC_cell_types,monocyte,ConvexGating,test,recall,0.9447761194029852
+979,small DC_cell_types,dendritic cell,ConvexGating,test,recall,0.8347826086956521
+980,small DC_cell_types,B cell,ConvexGating,test,recall,0.9835820895522388
+981,small DC_cell_types,monocyte,ConvexGating,test,recall,0.9298507462686568
+982,small DC_cell_types,dendritic cell,ConvexGating,test,recall,0.8812301166489925
+983,small DC_cell_types_lvl2,B cell,ConvexGating,test,recall,0.9731343283582088
+984,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,recall,0.9432835820895522
+985,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,recall,0.8918590522478737
+986,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,recall,0.911082474226804
+987,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,recall,0.8181818181818182
+988,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,recall,0.9113924050632912
+989,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,recall,0.8755364806866953
+990,small DC_cell_types_lvl2,B cell,ConvexGating,test,recall,0.985820895522388
+991,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,recall,0.9768656716417912
+992,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,recall,0.9156716417910448
+993,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,recall,0.8528995756718529
+994,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,recall,0.9047619047619048
+995,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,recall,0.7063106796116505
+996,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,recall,0.8032786885245902
+997,small DC_cell_types_lvl2,B cell,ConvexGating,test,recall,0.9835820895522388
+998,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,recall,0.9388059701492536
+999,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,recall,0.9574626865671642
+1000,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,recall,0.8754266211604096
+1001,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,recall,0.8195718654434251
+1002,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,recall,0.7695961995249406
+1003,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,recall,0.7657342657342657
+1004,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.8111940298507463
+1005,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.9276119402985076
+1006,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.8037313432835821
+1007,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.908955223880597
+1008,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.8253731343283582
+1009,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.8738805970149254
+1010,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.6925373134328359
+1011,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.9014925373134328
+1012,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.6873134328358209
+1013,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.935820895522388
+1014,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.7776119402985074
+1015,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.9373134328358208
+1016,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.6141791044776119
+1017,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.8126865671641791
+1018,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,recall,0.7470149253731343
+1019,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,recall,0.9343283582089552
+1020,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.8783582089552239
+1021,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.903731343283582
+1022,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.4037267080745341
+1023,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.3022388059701492
+1024,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.8
+1025,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.9440298507462688
+1026,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.8783582089552239
+1027,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.4473684210526316
+1028,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.6708955223880597
+1029,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.8029850746268656
+1030,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.923134328358209
+1031,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.758955223880597
+1032,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.8250591016548463
+1033,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.7461300309597523
+1034,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.7910447761194029
+1035,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.8007462686567164
+1036,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.8216417910447761
+1037,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.5932835820895522
+1038,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.6156716417910447
+1039,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.6246268656716418
+1040,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.7082089552238806
+1041,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.9111940298507464
+1042,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.8928571428571429
+1043,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.5866228070175439
+1044,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.6828358208955224
+1045,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.8873134328358209
+1046,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.817910447761194
+1047,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.5559701492537313
+1048,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.4746268656716418
+1049,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.735820895522388
+1050,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.9313432835820896
+1051,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.7328358208955223
+1052,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.7216417910447761
+1053,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.582360570687419
+1054,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.664179104477612
+1055,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,recall,0.8985074626865671
+1056,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,recall,0.8858208955223881
+1057,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,recall,0.6552901023890785
+1058,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,recall,0.8920634920634921
+1059,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,recall,0.6828358208955224
+1060,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.594776119402985
+1061,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.655223880597015
+1062,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.6201492537313433
+1063,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.7962686567164179
+1064,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.3850931677018633
+1065,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.6074626865671642
+1066,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.8022388059701493
+1067,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.65
+1068,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.8246268656716418
+1069,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.5813432835820895
+1070,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.7380597014925373
+1071,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.4736842105263157
+1072,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.6656716417910448
+1073,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.8044776119402985
+1074,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.8597014925373134
+1075,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.817910447761194
+1076,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.6104477611940299
+1077,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.5634328358208955
+1078,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.8368794326241135
+1079,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.7987616099071208
+1080,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.7947761194029851
+1081,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.8686567164179104
+1082,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.8373134328358209
+1083,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.6843283582089552
+1084,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.7261194029850746
+1085,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.5865671641791045
+1086,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.5634328358208955
+1087,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.6492537313432836
+1088,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.6388059701492538
+1089,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.8880597014925373
+1090,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.6342342342342342
+1091,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.5283582089552239
+1092,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.8726708074534162
+1093,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.5504385964912281
+1094,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.6843283582089552
+1095,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.8544776119402985
+1096,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.7888059701492537
+1097,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.4529850746268656
+1098,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.7194029850746269
+1099,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.6141791044776119
+1100,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.494776119402985
+1101,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.7455223880597015
+1102,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.7880597014925373
+1103,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.7186567164179104
+1104,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.6395522388059701
+1105,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.5574626865671641
+1106,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.7186567164179104
+1107,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.5771725032425421
+1108,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.6238805970149254
+1109,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,recall,0.6074626865671642
+1110,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,recall,0.7880597014925373
+1111,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,recall,0.51875
+1112,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,recall,0.7873134328358209
+1113,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,recall,0.6689419795221843
+1114,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,recall,0.8920634920634921
+1115,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,recall,0.732089552238806
+1116,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.3746268656716418
+1117,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.7305970149253731
+1118,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.8305970149253732
+1119,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.6082089552238806
+1120,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.5895522388059702
+1121,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.6990291262135923
+1122,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.3602484472049689
+1123,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.5134328358208955
+1124,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.8029850746268656
+1125,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6783582089552239
+1126,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.6664179104477612
+1127,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.5790754257907542
+1128,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.5271629778672032
+1129,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.7305970149253731
+1130,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.5246268656716417
+1131,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.6987951807228916
+1132,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.6455223880597015
+1133,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.8261194029850746
+1134,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.3962264150943396
+1135,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.5358851674641149
+1136,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.6216417910447761
+1137,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.8298507462686567
+1138,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6582089552238806
+1139,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.7992537313432836
+1140,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.8936535162950258
+1141,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.7
+1142,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.8082089552238806
+1143,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.3566493955094991
+1144,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.8955223880597015
+1145,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.591044776119403
+1146,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.7074626865671642
+1147,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.7803030303030303
+1148,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.7565011820330969
+1149,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.6625386996904025
+1150,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.8037313432835821
+1151,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6783582089552239
+1152,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.8313432835820895
+1153,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.8529411764705882
+1154,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.7759643916913946
+1155,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.5186567164179104
+1156,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.6373134328358209
+1157,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.8522388059701492
+1158,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.5462686567164179
+1159,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.558955223880597
+1160,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.6877394636015326
+1161,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.4582089552238806
+1162,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.5895522388059702
+1163,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.5574626865671641
+1164,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6559701492537313
+1165,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.8529850746268657
+1166,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.7807017543859649
+1167,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.7179104477611941
+1168,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.4156716417910447
+1169,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.4534005037783375
+1170,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.131578947368421
+1171,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.4126865671641791
+1172,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.8211640211640212
+1173,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.7972972972972973
+1174,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.8338509316770186
+1175,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.3442982456140351
+1176,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.7514925373134328
+1177,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6134328358208955
+1178,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.8582089552238806
+1179,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.6666666666666666
+1180,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.6530880420499343
+1181,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.4194029850746268
+1182,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.6231343283582089
+1183,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.6022388059701492
+1184,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.3843283582089552
+1185,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.7514925373134328
+1186,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.8053777208706786
+1187,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.5701492537313433
+1188,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.4828358208955224
+1189,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.8082089552238806
+1190,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6417910447761194
+1191,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.7253731343283583
+1192,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.7803030303030303
+1193,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.6328358208955224
+1194,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.8283582089552238
+1195,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.4828358208955224
+1196,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.3043478260869565
+1197,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.7649253731343284
+1198,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.8139130434782609
+1199,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.7316176470588235
+1200,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.7611940298507462
+1201,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.5667963683527886
+1202,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.6708955223880597
+1203,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.6634328358208955
+1204,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.7783582089552239
+1205,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.9014598540145984
+1206,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.7104477611940299
+1207,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,recall,0.6149253731343284
+1208,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,recall,0.4328358208955223
+1209,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,recall,0.6470588235294118
+1210,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,recall,0.7455223880597015
+1211,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,recall,0.7969348659003831
+1212,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,recall,0.7258064516129032
+1213,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,recall,0.6723549488054608
+1214,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,recall,0.8952380952380953
+1215,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,recall,0.7007462686567164
+1216,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,recall,0.5059701492537313
+1217,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,recall,0.7753731343283582
+1218,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,recall,0.6666666666666666
+1219,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,recall,0.6376811594202898
+1220,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,recall,0.8567164179104477
+1221,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,recall,0.5549792531120332
+1222,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,recall,0.9104477611940298
+1223,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,recall,0.9134328358208956
+1224,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,recall,0.9835820895522388
+1225,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,recall,0.8686567164179104
+1226,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,recall,0.6137931034482759
+1227,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,recall,0.7947761194029851
+1228,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,recall,0.6007462686567164
+1229,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,recall,0.9708955223880597
+1230,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,recall,0.7813432835820896
+1231,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,recall,0.5686567164179105
+1232,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,recall,0.8686567164179104
+1233,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,recall,0.7753731343283582
+1234,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,recall,0.7828358208955224
+1235,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,recall,0.8603104212860311
+1236,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,recall,0.6041666666666666
+1237,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,recall,0.9156716417910448
+1238,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,recall,0.7701492537313432
+1239,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,recall,0.9865671641791044
+1240,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,recall,0.7344913151364765
+1241,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,recall,0.7925373134328358
+1242,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,recall,0.7970149253731343
+1243,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,recall,0.823134328358209
+1244,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,recall,0.9738805970149254
+1245,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,recall,0.9171641791044776
+1246,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,recall,0.9917910447761196
+1247,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,recall,0.8708955223880597
+1248,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,recall,0.6333333333333333
+1249,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,recall,0.8992537313432836
+1250,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,recall,0.5597014925373134
+1251,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,recall,0.6666666666666666
+1252,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,recall,0.9026548672566372
+1253,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,recall,0.926865671641791
+1254,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,recall,0.6417910447761194
+1255,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,recall,0.6940298507462687
+1256,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,recall,0.8776119402985074
+1257,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,recall,0.9485074626865672
+1258,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,recall,0.7514925373134328
+1259,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,recall,0.5617977528089888
+1260,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,recall,0.7597014925373134
+1261,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,recall,0.4992537313432836
+1262,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,recall,0.6906141367323291
+1263,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,recall,0.8855218855218855
+1264,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,recall,0.926865671641791
+1265,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,recall,0.7346711259754738
+1266,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,recall,0.6746268656716418
+1267,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,recall,0.7776119402985074
+1268,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,recall,0.9589552238805972
+1269,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,recall,0.7649253731343284
+1270,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,recall,0.6555269922879178
+1271,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,recall,0.7985074626865671
+1272,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,recall,0.4470149253731343
+1273,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,recall,0.6185737976782753
+1274,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,recall,0.9346846846846848
+1275,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,recall,0.95
+1276,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,recall,0.6616915422885572
+1277,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,recall,0.8007462686567164
+1278,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,recall,0.8625277161862528
+1279,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,recall,0.978358208955224
+1280,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,recall,0.8977611940298508
+1281,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,recall,0.2592592592592592
+1282,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,recall,0.7925373134328358
+1283,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,recall,0.297029702970297
+1284,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,recall,0.6909090909090909
+1285,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,recall,0.8548387096774194
+1286,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,recall,0.9701492537313432
+1287,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,recall,0.5641025641025641
+1288,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,recall,0.53125
+1289,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,recall,0.7419354838709677
+1290,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,recall,0.971641791044776
+1291,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,recall,0.8828358208955224
+1292,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,recall,0.2285714285714285
+1293,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,recall,0.8820895522388059
+1294,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,recall,0.5694029850746268
+1295,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,recall,0.6578947368421053
+1296,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,recall,0.9318181818181818
+1297,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,recall,0.9305970149253732
+1298,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,recall,0.4601626016260162
+1299,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,recall,0.8746268656716418
+1300,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,f1,0.939612609191037
+1301,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,f1,0.850732600732601
+1302,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,f1,0.906976744186046
+1303,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,f1,0.97170158030136
+1304,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,f1,0.991058122205663
+1305,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,f1,0.930196078431373
+1306,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,f1,0.816921954777535
+1307,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,f1,0.794762915782024
+1308,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,f1,0.940035906642729
+1309,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,f1,0.98729446935725
+1310,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,f1,0.904674273095326
+1311,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,f1,0.74283973187081
+1312,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,f1,0.807892004153686
+1313,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,f1,0.874327956989247
+1314,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,f1,0.968060836501901
+1315,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,f1,0.943089430894309
+1316,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,f1,0.870712401055409
+1317,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,f1,0.964299424184261
+1318,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,f1,0.991011235955056
+1319,large PBMC_cluster cell_type_lvl_1,B cell,Hypergate,test,f1,0.861413043478261
+1320,large PBMC_cluster cell_type_lvl_1,Dendritic cell,Hypergate,test,f1,0.940028901734104
+1321,large PBMC_cluster cell_type_lvl_1,Monocyte,Hypergate,test,f1,0.897158863545418
+1322,large PBMC_cluster cell_type_lvl_1,NK cell,Hypergate,test,f1,0.981412639405204
+1323,large PBMC_cluster cell_type_lvl_1,T cell,Hypergate,test,f1,0.9906191369606
+1324,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,f1,0.939612609191037
+1325,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,f1,0.985936343449297
+1326,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,f1,0.898190847818375
+1327,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,f1,0.783155248271527
+1328,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,f1,0.3618410041841
+1329,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,f1,0.0822429906542056
+1330,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,f1,0.97170158030136
+1331,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,f1,0.79685534591195
+1332,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,f1,0.814319170291067
+1333,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,f1,0.856847545219638
+1334,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,f1,0.755852842809365
+1335,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,f1,0.930196078431373
+1336,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,f1,0.963784183296378
+1337,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,f1,0.755582377791189
+1338,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,f1,0.906130931763076
+1339,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,f1,0.557755775577558
+1340,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,f1,0.487698986975398
+1341,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,f1,0.940035906642729
+1342,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,f1,0.839793281653747
+1343,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,f1,0.459994264410668
+1344,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,f1,0.835329341317365
+1345,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,f1,0.90937019969278
+1346,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,f1,0.904674273095326
+1347,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,f1,0.940121907493725
+1348,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,f1,0.664531158998253
+1349,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,f1,0.774977764601245
+1350,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,f1,0.351060358890701
+1351,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,f1,0.398475775721285
+1352,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,f1,0.874327956989247
+1353,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,f1,0.802742287316921
+1354,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,f1,0.281504867140226
+1355,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,f1,0.791497975708502
+1356,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,f1,0.904419321685509
+1357,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,f1,0.943089430894309
+1358,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,f1,0.970099667774086
+1359,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,f1,0.981572019556224
+1360,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,f1,0.268398268398268
+1361,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,f1,0.277777777777778
+1362,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,f1,0.991011235955056
+1363,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,f1,0.882352941176471
+1364,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,f1,0.148078725398313
+1365,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,f1,0.875
+1366,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,f1,0.794117647058823
+1367,large PBMC_cluster cell_type_lvl_2,B cell,Hypergate,test,f1,0.861413043478261
+1368,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,Hypergate,test,f1,0.994052044609665
+1369,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,Hypergate,test,f1,0.85500340367597
+1370,large PBMC_cluster cell_type_lvl_2,Classical monocyte,Hypergate,test,f1,0.904844893691181
+1371,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,Hypergate,test,f1,0.459518599562363
+1372,large PBMC_cluster cell_type_lvl_2,NK T cell,Hypergate,test,f1,0.0944055944055944
+1373,large PBMC_cluster cell_type_lvl_2,NK cell,Hypergate,test,f1,0.981412639405204
+1374,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,Hypergate,test,f1,0.920478536242083
+1375,large PBMC_cluster cell_type_lvl_2,T cell,Hypergate,test,f1,0.680639431616341
+1376,large PBMC_cluster cell_type_lvl_2,cDC,Hypergate,test,f1,0.92962962962963
+1377,large PBMC_cluster cell_type_lvl_2,pDC,Hypergate,test,f1,0.73109243697479
+1378,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.798987021209243
+1379,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.904409171075838
+1380,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.65353121801433
+1381,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.838668373879641
+1382,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.802464909277645
+1383,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.906364301389905
+1384,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.789848344165893
+1385,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.915
+1386,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.761814744801512
+1387,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.893217391304348
+1388,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.575336005659043
+1389,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.81554635234151
+1390,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.635658914728682
+1391,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.831341301460823
+1392,Oetjen_cell_type_lvl2,NK cell,Hypergate,test,f1,0.914620740197875
+1393,Oetjen_cell_type_lvl2,T cell,Hypergate,test,f1,0.978915662650602
+1394,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.706470424881977
+1395,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.832836809003641
+1396,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.0974377481053771
+1397,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.431617987946222
+1398,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.798987021209243
+1399,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.799509503372164
+1400,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.626272912423625
+1401,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.264130629822358
+1402,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.37304402253286
+1403,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.65353121801433
+1404,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.8764746703678
+1405,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.814674735249622
+1406,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.207369323050557
+1407,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.24390243902439
+1408,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.802464909277645
+1409,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.709204452891664
+1410,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.553600750645086
+1411,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.465188241361527
+1412,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.143092247726288
+1413,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.789848344165893
+1414,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.874830852503383
+1415,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.828104575163399
+1416,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.356656346749226
+1417,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.49859747545582
+1418,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.761814744801512
+1419,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.690094078583287
+1420,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.544485634847081
+1421,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.310367031551835
+1422,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.0944342796435106
+1423,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.575336005659043
+1424,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.859284497444634
+1425,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.767732962447844
+1426,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.613636363636364
+1427,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.430348258706468
+1428,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.635658914728682
+1429,Oetjen_cell_type_lvl3,CD4+ T cell,Hypergate,test,f1,0.954066265060241
+1430,Oetjen_cell_type_lvl3,CD8+ T cell,Hypergate,test,f1,0.941997063142437
+1431,Oetjen_cell_type_lvl3,Double negative T cell,Hypergate,test,f1,0.429752066115702
+1432,Oetjen_cell_type_lvl3,Double positive T cell,Hypergate,test,f1,0.387405886379192
+1433,Oetjen_cell_type_lvl3,NK cell,Hypergate,test,f1,0.914620740197875
+1434,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.632715195128702
+1435,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.557602419576574
+1436,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.355851569933397
+1437,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.761385503527902
+1438,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.0974377481053771
+1439,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.431617987946222
+1440,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.798987021209243
+1441,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.545776989581024
+1442,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.539528432732316
+1443,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.282932011331445
+1444,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.358153846153846
+1445,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.264130629822358
+1446,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.37304402253286
+1447,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.65353121801433
+1448,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.699821322215604
+1449,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.693098384728341
+1450,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.675828617623282
+1451,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.578139114724481
+1452,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.207369323050557
+1453,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.24390243902439
+1454,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.802464909277645
+1455,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.501148465232825
+1456,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.609617373319545
+1457,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.231826241134752
+1458,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.362135758800741
+1459,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.465188241361527
+1460,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.143092247726288
+1461,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.789848344165893
+1462,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.796691059497296
+1463,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.636156763590392
+1464,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.211202389843167
+1465,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.468376824413976
+1466,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.356656346749226
+1467,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.49859747545582
+1468,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.761814744801512
+1469,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.386167146974063
+1470,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.518316268486917
+1471,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.17356055592323
+1472,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.298925009713768
+1473,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.310367031551835
+1474,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.0944342796435106
+1475,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.575336005659043
+1476,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.547624968913206
+1477,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.602767295597484
+1478,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.424404272801972
+1479,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.378194816800715
+1480,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.613636363636364
+1481,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.430348258706468
+1482,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.635658914728682
+1483,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,Hypergate,test,f1,0.862426035502959
+1484,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,Hypergate,test,f1,0.871092377941693
+1485,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,Hypergate,test,f1,0.52437417654809
+1486,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,Hypergate,test,f1,0.707540983606557
+1487,Oetjen_cell_type_lvl4,Double negative T cell,Hypergate,test,f1,0.429752066115702
+1488,Oetjen_cell_type_lvl4,Double positive T cell,Hypergate,test,f1,0.387405886379192
+1489,Oetjen_cell_type_lvl4,NK cell,Hypergate,test,f1,0.914620740197875
+1490,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.220951018948874
+1491,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.52865940312648
+1492,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.777777777777778
+1493,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.538354253835425
+1494,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.26407438715131
+1495,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.274725274725275
+1496,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.236707566462168
+1497,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.158988256549232
+1498,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.0974377481053771
+1499,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.431617987946222
+1500,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.798987021209243
+1501,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.517475955899601
+1502,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.590154383920769
+1503,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.190821930559434
+1504,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.110208738841533
+1505,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.0773542600896861
+1506,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.254085155350978
+1507,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.243503772003353
+1508,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.293366295838484
+1509,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.413559322033898
+1510,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.0170048309178744
+1511,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.264130629822358
+1512,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.37304402253286
+1513,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.65353121801433
+1514,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.348391398566428
+1515,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.490628218331617
+1516,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.394799054373522
+1517,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.294462779611294
+1518,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.891618497109827
+1519,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.384829894032348
+1520,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.431544359255203
+1521,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.504807692307692
+1522,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.661226956784527
+1523,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.356865787432118
+1524,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.207369323050557
+1525,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.24390243902439
+1526,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.802464909277645
+1527,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.515246098439376
+1528,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.695108077360637
+1529,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.176004049949376
+1530,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.173897389738974
+1531,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.574784276126558
+1532,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.28224
+1533,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.271880819366853
+1534,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.187918265369858
+1535,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.203234178478738
+1536,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.460260972716489
+1537,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.465188241361527
+1538,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.143092247726288
+1539,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.789848344165893
+1540,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.476707750156674
+1541,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.589973359166869
+1542,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.251194010584742
+1543,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.157365583564039
+1544,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.0316698656429942
+1545,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.226609442060086
+1546,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.275491209927611
+1547,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.424694189602447
+1548,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.570940170940171
+1549,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.132177681473456
+1550,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.356656346749226
+1551,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.49859747545582
+1552,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.761814744801512
+1553,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.441563702653433
+1554,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.68026460859978
+1555,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.17281934008494
+1556,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.216712179137084
+1557,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.530374355525667
+1558,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.300719424460432
+1559,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.209001055560887
+1560,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.214227142271423
+1561,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.556618464961068
+1562,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.316902993472879
+1563,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.310367031551835
+1564,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.0944342796435106
+1565,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.575336005659043
+1566,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.25009167583425
+1567,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.529340738951944
+1568,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.311899912714577
+1569,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.431749849669272
+1570,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.010595542564852
+1571,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.31823599523242
+1572,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.269173137174772
+1573,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.322944493915108
+1574,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.476235294117647
+1575,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.287474332648871
+1576,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.613636363636364
+1577,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.430348258706468
+1578,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.635658914728682
+1579,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.431349206349206
+1580,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.569879802026868
+1581,Oetjen_cell_type_lvl5,CD4+ CM T cell,Hypergate,test,f1,0.609501045712578
+1582,Oetjen_cell_type_lvl5,CD4+ EM T cell,Hypergate,test,f1,0.244874386370199
+1583,Oetjen_cell_type_lvl5,CD4+ TEMRA,Hypergate,test,f1,0.131147540983607
+1584,Oetjen_cell_type_lvl5,CD4+ TRM T cell,Hypergate,test,f1,0.386125654450262
+1585,Oetjen_cell_type_lvl5,CD8+ CM T cell,Hypergate,test,f1,0.316407889215275
+1586,Oetjen_cell_type_lvl5,CD8+ EM T cell,Hypergate,test,f1,0.625286041189931
+1587,Oetjen_cell_type_lvl5,CD8+ TE T cell,Hypergate,test,f1,0.394736842105263
+1588,Oetjen_cell_type_lvl5,CD8+ TRM T cell,Hypergate,test,f1,0.17205998421468
+1589,Oetjen_cell_type_lvl5,Double negative T cell,Hypergate,test,f1,0.429752066115702
+1590,Oetjen_cell_type_lvl5,Double positive T cell,Hypergate,test,f1,0.387405886379192
+1591,Oetjen_cell_type_lvl5,NK cell,Hypergate,test,f1,0.914620740197875
+1592,Oetjen_cell_type_lvl5,Naive CD4+ T cell,Hypergate,test,f1,0.614799649020181
+1593,Oetjen_cell_type_lvl5,Naive CD8+ T cell,Hypergate,test,f1,0.864005651713176
+1594,small DC_cell_types,B cell,Hypergate,test,f1,0.980044345898004
+1595,small DC_cell_types,dendritic cell,Hypergate,test,f1,0.76285046728972
+1596,small DC_cell_types,monocyte,Hypergate,test,f1,0.867998689813299
+1597,small DC_cell_types,B cell,Hypergate,test,f1,0.945763913505849
+1598,small DC_cell_types,dendritic cell,Hypergate,test,f1,0.655231560891938
+1599,small DC_cell_types,monocyte,Hypergate,test,f1,0.907633321714883
+1600,small DC_cell_types,B cell,Hypergate,test,f1,0.993673241533308
+1601,small DC_cell_types,dendritic cell,Hypergate,test,f1,0.846855059252507
+1602,small DC_cell_types,monocyte,Hypergate,test,f1,0.800729040097205
+1603,small DC_cell_types_lvl2,B cell,Hypergate,test,f1,0.980044345898004
+1604,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,f1,0.388473852721451
+1605,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,f1,0.348717948717949
+1606,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,f1,0.517937219730942
+1607,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,f1,0.920522783468739
+1608,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,f1,0.584862385321101
+1609,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,f1,0.644426362896664
+1610,small DC_cell_types_lvl2,B cell,Hypergate,test,f1,0.945763913505849
+1611,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,f1,0.465290806754221
+1612,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,f1,0.436324556689952
+1613,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,f1,0.205704407951599
+1614,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,f1,0.910027472527473
+1615,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,f1,0.552507836990596
+1616,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,f1,0.652040816326531
+1617,small DC_cell_types_lvl2,B cell,Hypergate,test,f1,0.993673241533308
+1618,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",Hypergate,test,f1,0.573741007194245
+1619,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",Hypergate,test,f1,0.471360381861575
+1620,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",Hypergate,test,f1,0.4
+1621,small DC_cell_types_lvl2,classical monocyte,Hypergate,test,f1,0.877693072588664
+1622,small DC_cell_types_lvl2,intermediate monocyte,Hypergate,test,f1,0.592783505154639
+1623,small DC_cell_types_lvl2,non-classical monocyte,Hypergate,test,f1,0.819631134729603
+1624,small DC_cell_types,B cell,ConvexGating,test,f1,0.9717939074840164
+1625,small DC_cell_types,monocyte,ConvexGating,test,f1,0.9652336448598132
+1626,small DC_cell_types,dendritic cell,ConvexGating,test,f1,0.8590504451038576
+1627,small DC_cell_types,B cell,ConvexGating,test,f1,0.948207171314741
+1628,small DC_cell_types,monocyte,ConvexGating,test,f1,0.9447761194029852
+1629,small DC_cell_types,dendritic cell,ConvexGating,test,f1,0.7424593967517402
+1630,small DC_cell_types,B cell,ConvexGating,test,f1,0.980654761904762
+1631,small DC_cell_types,monocyte,ConvexGating,test,f1,0.9202363367799112
+1632,small DC_cell_types,dendritic cell,ConvexGating,test,f1,0.8728991596638654
+1633,small DC_cell_types_lvl2,B cell,ConvexGating,test,f1,0.9745889387144994
+1634,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,f1,0.930780559646539
+1635,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,f1,0.7432911392405063
+1636,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,f1,0.7303719008264464
+1637,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,f1,0.5687732342007435
+1638,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,f1,0.3606762680025047
+1639,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,f1,0.6229007633587786
+1640,small DC_cell_types_lvl2,B cell,ConvexGating,test,f1,0.9335689045936396
+1641,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,f1,0.9678373382624768
+1642,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,f1,0.7602230483271375
+1643,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,f1,0.7036172695449241
+1644,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,f1,0.393103448275862
+1645,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,f1,0.5553435114503816
+1646,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,f1,0.2609853528628495
+1647,small DC_cell_types_lvl2,B cell,ConvexGating,test,f1,0.9810197245999256
+1648,small DC_cell_types_lvl2,classical monocyte,ConvexGating,test,f1,0.9294421869227928
+1649,small DC_cell_types_lvl2,non-classical monocyte,ConvexGating,test,f1,0.8686526743398781
+1650,small DC_cell_types_lvl2,intermediate monocyte,ConvexGating,test,f1,0.6640776699029125
+1651,small DC_cell_types_lvl2,"DC Q1(CD14-, CD5+)",ConvexGating,test,f1,0.6210892236384704
+1652,small DC_cell_types_lvl2,"DC Q3(CD14+, CD5-)",ConvexGating,test,f1,0.6177311725452812
+1653,small DC_cell_types_lvl2,"DC Q4(CD14-, CD5-)",ConvexGating,test,f1,0.5718015665796344
+1654,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.8851791530944626
+1655,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.933533608711979
+1656,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.8278247501921597
+1657,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.8913282107574095
+1658,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.8449197860962567
+1659,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.875186846038864
+1660,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.7520259319286873
+1661,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.8840102451518477
+1662,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.7811704834605598
+1663,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.9163317500913408
+1664,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.7805243445692884
+1665,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.8298645523620747
+1666,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.6234848484848485
+1667,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.7784131522516082
+1668,Oetjen_cell_type_lvl2,NK cell,ConvexGating,test,f1,0.8486646884272996
+1669,Oetjen_cell_type_lvl2,T cell,ConvexGating,test,f1,0.9634474797999232
+1670,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.7470644239923833
+1671,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.9112114371708052
+1672,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.296127562642369
+1673,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.2165196471531676
+1674,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.8794093519278098
+1675,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.8634812286689421
+1676,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.7720564119383404
+1677,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.277037037037037
+1678,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.2305719415234675
+1679,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.8445839874411303
+1680,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.8993093420574337
+1681,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.8198307134220071
+1682,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.2986735130509199
+1683,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.1280552603613177
+1684,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.8356326369728023
+1685,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.7803636363636364
+1686,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.5036596523330283
+1687,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.5202879581151832
+1688,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.4377819050145927
+1689,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.722174288179465
+1690,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.7944746755964838
+1691,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.8523560209424085
+1692,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.1962122504692032
+1693,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.4817649707339036
+1694,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.785744954916273
+1695,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.6780724265754207
+1696,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.6697219676138099
+1697,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.6005642885933091
+1698,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.2505416584597202
+1699,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.7932421560740145
+1700,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.8939828080229225
+1701,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.7824701195219124
+1702,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.6738675958188154
+1703,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.4743792921288959
+1704,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.6861989205859677
+1705,Oetjen_cell_type_lvl3,CD4+ T cell,ConvexGating,test,f1,0.9395239953179868
+1706,Oetjen_cell_type_lvl3,CD8+ T cell,ConvexGating,test,f1,0.9287949921752738
+1707,Oetjen_cell_type_lvl3,Double negative T cell,ConvexGating,test,f1,0.5385694249649369
+1708,Oetjen_cell_type_lvl3,Double positive T cell,ConvexGating,test,f1,0.3579617834394904
+1709,Oetjen_cell_type_lvl3,NK cell,ConvexGating,test,f1,0.8065226972234465
+1710,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.6737109044801352
+1711,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.6616428033157498
+1712,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.3744086505969812
+1713,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.8220338983050847
+1714,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.0636223704463827
+1715,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.3243674038653118
+1716,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.8836826962597616
+1717,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.5062481836675384
+1718,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.4697130712008501
+1719,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.2148965517241379
+1720,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.4622575368076653
+1721,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.2742382271468144
+1722,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.3172683620842966
+1723,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.8471512770137524
+1724,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.7277321541377133
+1725,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.7333556373369019
+1726,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.7070008643042351
+1727,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.4915364583333333
+1728,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.3336475023562677
+1729,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.2546890424481737
+1730,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.8409001184366365
+1731,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.3990401097017483
+1732,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.6771273385636692
+1733,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.2216849993956243
+1734,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.3345942228335625
+1735,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.6275449101796408
+1736,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.4531812725090036
+1737,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.7429547395388555
+1738,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.7178197064989519
+1739,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.5651864165281406
+1740,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.1410821643286573
+1741,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.1870788743559255
+1742,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.2174922600619195
+1743,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.4895173086299366
+1744,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.7824232081911263
+1745,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.0567421576886862
+1746,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.5604453870625662
+1747,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.2402533148624579
+1748,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.4163247678687108
+1749,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.5253750398978615
+1750,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.2216279458465652
+1751,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.7318681318681318
+1752,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.4825222755311857
+1753,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.584877011843304
+1754,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.3404847040127136
+1755,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.3192307692307692
+1756,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.6465256797583081
+1757,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.5088622069754145
+1758,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.4620060790273556
+1759,Oetjen_cell_type_lvl4,CCR7+ CD4+ T cell,ConvexGating,test,f1,0.6585760517799353
+1760,Oetjen_cell_type_lvl4,CCR7+ CD8+ T cell,ConvexGating,test,f1,0.8275862068965517
+1761,Oetjen_cell_type_lvl4,CCR7- CD4+ T cell,ConvexGating,test,f1,0.2836221625579692
+1762,Oetjen_cell_type_lvl4,CCR7- CD8+ T cell,ConvexGating,test,f1,0.6575257089435961
+1763,Oetjen_cell_type_lvl4,Double negative T cell,ConvexGating,test,f1,0.53551912568306
+1764,Oetjen_cell_type_lvl4,Double positive T cell,ConvexGating,test,f1,0.3607188703465981
+1765,Oetjen_cell_type_lvl4,NK cell,ConvexGating,test,f1,0.8388200085506626
+1766,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.0781140589745584
+1767,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.380637636080871
+1768,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.8381024096385543
+1769,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.2054708181016009
+1770,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.304021550894747
+1771,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.3907734056987788
+1772,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.2510822510822511
+1773,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.2646662819773033
+1774,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.8673921805723499
+1775,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.5823190262652146
+1776,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.697111631537861
+1777,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.457252641690682
+1778,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.1602201498241859
+1779,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.1406306112188465
+1780,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.0839202578488719
+1781,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.0793433652530779
+1782,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.1867242309767944
+1783,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.3071587125416204
+1784,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.0730434782608695
+1785,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.2490272373540856
+1786,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.3465058236272878
+1787,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.7968470082407738
+1788,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.1344819699626439
+1789,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.4726390114739628
+1790,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.2016644087478227
+1791,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.1662678365682885
+1792,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.2480247337684644
+1793,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.2456140350877193
+1794,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.9049773755656108
+1795,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.2165117550574084
+1796,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.6620111731843575
+1797,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.4852767962308598
+1798,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.2552852014359792
+1799,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.3325563325563325
+1800,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.8557806912991657
+1801,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.3050847457627119
+1802,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.7328947368421052
+1803,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.3752941176470589
+1804,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.3559033684926845
+1805,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.155272564789991
+1806,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.1476997578692494
+1807,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.6980440097799512
+1808,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.1424401634559252
+1809,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.2149827784156142
+1810,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.4780292942743008
+1811,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.5677300046232084
+1812,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.3365282215122471
+1813,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.6487190620929223
+1814,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.3589220089832584
+1815,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.6988688474472639
+1816,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.375131717597471
+1817,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.2234091964700418
+1818,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.1193997856377277
+1819,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.1267159450897571
+1820,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.1041666666666666
+1821,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.3760625637538252
+1822,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.5996908809891808
+1823,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.1426844014510278
+1824,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.1973901856276419
+1825,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.3674663545933294
+1826,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.6450992953235105
+1827,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.369189310577139
+1828,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.5242762708000912
+1829,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.2001075847229693
+1830,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.1946729338033686
+1831,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.1329076504670687
+1832,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.2346824058459809
+1833,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.4560610341904492
+1834,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.2287363979569175
+1835,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.7631678666161423
+1836,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.2446994748103482
+1837,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.5106951871657754
+1838,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.1982230392156863
+1839,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.751561415683553
+1840,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.1769911504424778
+1841,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.5193694897141331
+1842,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.3283391775581766
+1843,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.1403508771929824
+1844,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.2248101265822784
+1845,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.4058971141781681
+1846,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.0182529335071707
+1847,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.2326901248581157
+1848,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.4572545188080117
+1849,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.4456886898096304
+1850,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.6623376623376623
+1851,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.5342298288508558
+1852,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.5399399399399399
+1853,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.2656903765690376
+1854,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.679921773142112
+1855,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.3765243902439024
+1856,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.1508716323296355
+1857,Oetjen_cell_type_lvl5,CD4+ CM T cell,ConvexGating,test,f1,0.3295999999999999
+1858,Oetjen_cell_type_lvl5,CD4+ EM T cell,ConvexGating,test,f1,0.2209906477312088
+1859,Oetjen_cell_type_lvl5,CD4+ TEMRA,ConvexGating,test,f1,0.1317365269461078
+1860,Oetjen_cell_type_lvl5,CD8+ EM T cell,ConvexGating,test,f1,0.55685618729097
+1861,Oetjen_cell_type_lvl5,CD8+ TE T cell,ConvexGating,test,f1,0.402321083172147
+1862,Oetjen_cell_type_lvl5,CD8+ TRM T cell,ConvexGating,test,f1,0.1722488038277511
+1863,Oetjen_cell_type_lvl5,Double negative T cell,ConvexGating,test,f1,0.5239361702127658
+1864,Oetjen_cell_type_lvl5,Double positive T cell,ConvexGating,test,f1,0.3782696177062374
+1865,Oetjen_cell_type_lvl5,NK cell,ConvexGating,test,f1,0.8200873362445416
+1866,Oetjen_cell_type_lvl5,Naive CD4+ T cell,ConvexGating,test,f1,0.4963396778916544
+1867,Oetjen_cell_type_lvl5,Naive CD8+ T cell,ConvexGating,test,f1,0.7844469611174028
+1868,Oetjen_cell_type_lvl5,CD4+ TRM T cell,ConvexGating,test,f1,0.4084636614535418
+1869,Oetjen_cell_type_lvl5,CD8+ CM T cell,ConvexGating,test,f1,0.2182075805880269
+1870,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,f1,0.8696969696969696
+1871,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,f1,0.6832694763729247
+1872,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,f1,0.9097688292319164
+1873,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,f1,0.9444444444444444
+1874,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,f1,0.9902329075882796
+1875,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,f1,0.9205219454329776
+1876,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,f1,0.7210126582278481
+1877,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,f1,0.8379228953579859
+1878,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,f1,0.7467532467532467
+1879,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,f1,0.982999622213827
+1880,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,f1,0.8685192866030692
+1881,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,f1,0.5731477999247838
+1882,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,f1,0.7555988315481986
+1883,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,f1,0.8272292993630573
+1884,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,f1,0.8756260434056762
+1885,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,f1,0.923809523809524
+1886,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,f1,0.7463235294117646
+1887,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,f1,0.9541213063763608
+1888,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,f1,0.8697850821744626
+1889,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,f1,0.9932381667918858
+1890,large PBMC_cluster cell_type_lvl_1,B cell,ConvexGating,test,f1,0.8457142857142856
+1891,large PBMC_cluster cell_type_lvl_1,Dendritic cell,ConvexGating,test,f1,0.8395256916996047
+1892,large PBMC_cluster cell_type_lvl_1,Monocyte,ConvexGating,test,f1,0.8736196319018406
+1893,large PBMC_cluster cell_type_lvl_1,NK cell,ConvexGating,test,f1,0.9026186579378068
+1894,large PBMC_cluster cell_type_lvl_1,T cell,ConvexGating,test,f1,0.984162895927602
+1895,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,f1,0.9000366166239472
+1896,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,f1,0.9665454545454546
+1897,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,f1,0.9156531973322872
+1898,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,f1,0.0471464019851116
+1899,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,f1,0.940671350507416
+1900,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,f1,0.6693440428380186
+1901,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,f1,0.7429692609548725
+1902,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,f1,0.8869565217391303
+1903,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,f1,0.6796169630642955
+1904,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,f1,0.403187998124707
+1905,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,f1,0.6818181818181818
+1906,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,f1,0.9248918600078648
+1907,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,f1,0.942528735632184
+1908,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,f1,0.8405676126878131
+1909,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,f1,0.6802721088435374
+1910,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,f1,0.7001375515818432
+1911,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,f1,0.1675012518778167
+1912,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,f1,0.8000000000000002
+1913,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,f1,0.9179755671902268
+1914,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,f1,0.8906418070993187
+1915,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,f1,0.5496246872393662
+1916,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,f1,0.7406800491601803
+1917,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,f1,0.8643716300290336
+1918,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,f1,0.9511472982975574
+1919,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,f1,0.699181446111869
+1920,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,f1,0.6967213114754098
+1921,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,f1,0.8211818879508825
+1922,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,f1,0.2098808689558514
+1923,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,f1,0.7497487437185929
+1924,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,f1,0.956221198156682
+1925,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,f1,0.8095389507154213
+1926,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,f1,0.4271948608137045
+1927,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,f1,0.8405797101449276
+1928,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,f1,0.9239904988123516
+1929,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,f1,0.989060731799321
+1930,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,f1,0.9197247706422016
+1931,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,f1,0.3111111111111111
+1932,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,f1,0.8831600831600831
+1933,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,f1,0.2678571428571428
+1934,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,f1,0.7883817427385892
+1935,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,f1,0.8760330578512397
+1936,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,f1,0.9778112072207596
+1937,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,f1,0.3656509695290859
+1938,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,f1,0.6566523605150215
+1939,large PBMC_cluster cell_type_lvl_2,B cell,ConvexGating,test,f1,0.8518518518518519
+1940,large PBMC_cluster cell_type_lvl_2,CD4+ T cell,ConvexGating,test,f1,0.9793155321549454
+1941,large PBMC_cluster cell_type_lvl_2,CD8+ T cell,ConvexGating,test,f1,0.7271051014136448
+1942,large PBMC_cluster cell_type_lvl_2,NK T cell,ConvexGating,test,f1,0.2133333333333333
+1943,large PBMC_cluster cell_type_lvl_2,NK cell,ConvexGating,test,f1,0.9373513084853292
+1944,large PBMC_cluster cell_type_lvl_2,T cell,ConvexGating,test,f1,0.6818588025022341
+1945,large PBMC_cluster cell_type_lvl_2,cDC,ConvexGating,test,f1,0.790330079033008
+1946,large PBMC_cluster cell_type_lvl_2,pDC,ConvexGating,test,f1,0.8723404255319149
+1947,large PBMC_cluster cell_type_lvl_2,Classical monocyte,ConvexGating,test,f1,0.9088921282798834
+1948,large PBMC_cluster cell_type_lvl_2,Intermediate monocyte,ConvexGating,test,f1,0.4034212401995723
+1949,large PBMC_cluster cell_type_lvl_2,Non-classical monocyte,ConvexGating,test,f1,0.8980842911877395
