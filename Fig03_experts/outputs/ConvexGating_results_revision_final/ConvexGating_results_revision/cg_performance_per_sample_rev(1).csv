@@ -1,0 +1,1111 @@
+,metric,sample,value,cell_type_level,cell_type,hierarchy
+0,precision,NL01,0.9441624365482234,cell_type_level_1,B cell,final_gate_1
+1,precision,NL03,0.9726651480637813,cell_type_level_1,B cell,final_gate_1
+2,precision,NL05,0.9835820895522388,cell_type_level_1,B cell,final_gate_1
+3,precision,NL07,0.9622641509433962,cell_type_level_1,B cell,final_gate_1
+4,precision,NL09,0.9722222222222222,cell_type_level_1,B cell,final_gate_1
+5,recall,NL01,0.8378378378378378,cell_type_level_1,B cell,final_gate_1
+6,recall,NL03,0.8422090729783037,cell_type_level_1,B cell,final_gate_1
+7,recall,NL05,0.7930204572803851,cell_type_level_1,B cell,final_gate_1
+8,recall,NL07,0.8360655737704918,cell_type_level_1,B cell,final_gate_1
+9,recall,NL09,0.6862745098039216,cell_type_level_1,B cell,final_gate_1
+10,f1score,NL01,0.8878281622911695,cell_type_level_1,B cell,final_gate_1
+11,f1score,NL03,0.9027484143763213,cell_type_level_1,B cell,final_gate_1
+12,f1score,NL05,0.8780812791472351,cell_type_level_1,B cell,final_gate_1
+13,f1score,NL07,0.8947368421052632,cell_type_level_1,B cell,final_gate_1
+14,f1score,NL09,0.8045977011494253,cell_type_level_1,B cell,final_gate_1
+0,precision,NL01,0.9629629629629629,cell_type_level_1,B cell,final_gate_2
+1,precision,NL03,0.9815668202764977,cell_type_level_1,B cell,final_gate_2
+2,precision,NL05,0.9909365558912386,cell_type_level_1,B cell,final_gate_2
+3,precision,NL07,0.9622641509433962,cell_type_level_1,B cell,final_gate_2
+4,precision,NL09,0.9722222222222222,cell_type_level_1,B cell,final_gate_2
+5,recall,NL01,0.8198198198198198,cell_type_level_1,B cell,final_gate_2
+6,recall,NL03,0.8402366863905325,cell_type_level_1,B cell,final_gate_2
+7,recall,NL05,0.789410348977136,cell_type_level_1,B cell,final_gate_2
+8,recall,NL07,0.8360655737704918,cell_type_level_1,B cell,final_gate_2
+9,recall,NL09,0.6862745098039216,cell_type_level_1,B cell,final_gate_2
+10,f1score,NL01,0.8856447688564476,cell_type_level_1,B cell,final_gate_2
+11,f1score,NL03,0.9054197662061636,cell_type_level_1,B cell,final_gate_2
+12,f1score,NL05,0.8787675820495646,cell_type_level_1,B cell,final_gate_2
+13,f1score,NL07,0.8947368421052632,cell_type_level_1,B cell,final_gate_2
+14,f1score,NL09,0.8045977011494253,cell_type_level_1,B cell,final_gate_2
+0,precision,NL01,0.978494623655914,cell_type_level_1,B cell,final_gate_3
+1,precision,NL03,0.9883449883449883,cell_type_level_1,B cell,final_gate_3
+2,precision,NL05,0.9924357034795764,cell_type_level_1,B cell,final_gate_3
+3,precision,NL07,1.0,cell_type_level_1,B cell,final_gate_3
+4,precision,NL09,0.9722222222222222,cell_type_level_1,B cell,final_gate_3
+5,recall,NL01,0.8198198198198198,cell_type_level_1,B cell,final_gate_3
+6,recall,NL03,0.8362919132149902,cell_type_level_1,B cell,final_gate_3
+7,recall,NL05,0.789410348977136,cell_type_level_1,B cell,final_gate_3
+8,recall,NL07,0.8360655737704918,cell_type_level_1,B cell,final_gate_3
+9,recall,NL09,0.6862745098039216,cell_type_level_1,B cell,final_gate_3
+10,f1score,NL01,0.892156862745098,cell_type_level_1,B cell,final_gate_3
+11,f1score,NL03,0.9059829059829059,cell_type_level_1,B cell,final_gate_3
+12,f1score,NL05,0.8793565683646113,cell_type_level_1,B cell,final_gate_3
+13,f1score,NL07,0.9107142857142857,cell_type_level_1,B cell,final_gate_3
+14,f1score,NL09,0.8045977011494253,cell_type_level_1,B cell,final_gate_3
+0,precision,NL01,0.9945054945054945,cell_type_level_1,B cell,final_gate_4
+1,precision,NL03,0.9953051643192489,cell_type_level_1,B cell,final_gate_4
+2,precision,NL05,0.993920972644377,cell_type_level_1,B cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_1,B cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_1,B cell,final_gate_4
+5,recall,NL01,0.8153153153153153,cell_type_level_1,B cell,final_gate_4
+6,recall,NL03,0.8362919132149902,cell_type_level_1,B cell,final_gate_4
+7,recall,NL05,0.7870036101083032,cell_type_level_1,B cell,final_gate_4
+8,recall,NL07,0.819672131147541,cell_type_level_1,B cell,final_gate_4
+9,recall,NL09,0.6862745098039216,cell_type_level_1,B cell,final_gate_4
+10,f1score,NL01,0.8960396039603961,cell_type_level_1,B cell,final_gate_4
+11,f1score,NL03,0.9088960342979637,cell_type_level_1,B cell,final_gate_4
+12,f1score,NL05,0.8784419073203492,cell_type_level_1,B cell,final_gate_4
+13,f1score,NL07,0.9009009009009009,cell_type_level_1,B cell,final_gate_4
+14,f1score,NL09,0.813953488372093,cell_type_level_1,B cell,final_gate_4
+0,precision,NL01,1.0,cell_type_level_1,B cell,final_gate_5
+1,precision,NL03,1.0,cell_type_level_1,B cell,final_gate_5
+2,precision,NL05,0.9969465648854962,cell_type_level_1,B cell,final_gate_5
+3,precision,NL07,1.0,cell_type_level_1,B cell,final_gate_5
+4,precision,NL09,1.0,cell_type_level_1,B cell,final_gate_5
+5,recall,NL01,0.8153153153153153,cell_type_level_1,B cell,final_gate_5
+6,recall,NL03,0.8362919132149902,cell_type_level_1,B cell,final_gate_5
+7,recall,NL05,0.7858002406738869,cell_type_level_1,B cell,final_gate_5
+8,recall,NL07,0.819672131147541,cell_type_level_1,B cell,final_gate_5
+9,recall,NL09,0.6666666666666666,cell_type_level_1,B cell,final_gate_5
+10,f1score,NL01,0.8982630272952854,cell_type_level_1,B cell,final_gate_5
+11,f1score,NL03,0.9108485499462944,cell_type_level_1,B cell,final_gate_5
+12,f1score,NL05,0.8788694481830416,cell_type_level_1,B cell,final_gate_5
+13,f1score,NL07,0.9009009009009009,cell_type_level_1,B cell,final_gate_5
+14,f1score,NL09,0.8,cell_type_level_1,B cell,final_gate_5
+0,precision,NL01,0.12797074954296161,cell_type_level_1,Dendritic cell,final_gate_1
+1,precision,NL03,0.116600790513834,cell_type_level_1,Dendritic cell,final_gate_1
+2,precision,NL05,0.22193877551020408,cell_type_level_1,Dendritic cell,final_gate_1
+3,precision,NL07,0.0851063829787234,cell_type_level_1,Dendritic cell,final_gate_1
+4,precision,NL09,0.16666666666666666,cell_type_level_1,Dendritic cell,final_gate_1
+5,recall,NL01,0.41420118343195267,cell_type_level_1,Dendritic cell,final_gate_1
+6,recall,NL03,0.4041095890410959,cell_type_level_1,Dendritic cell,final_gate_1
+7,recall,NL05,0.33984375,cell_type_level_1,Dendritic cell,final_gate_1
+8,recall,NL07,0.3137254901960784,cell_type_level_1,Dendritic cell,final_gate_1
+9,recall,NL09,0.4411764705882353,cell_type_level_1,Dendritic cell,final_gate_1
+10,f1score,NL01,0.19553072625698326,cell_type_level_1,Dendritic cell,final_gate_1
+11,f1score,NL03,0.18098159509202452,cell_type_level_1,Dendritic cell,final_gate_1
+12,f1score,NL05,0.26851851851851855,cell_type_level_1,Dendritic cell,final_gate_1
+13,f1score,NL07,0.13389121338912133,cell_type_level_1,Dendritic cell,final_gate_1
+14,f1score,NL09,0.24193548387096772,cell_type_level_1,Dendritic cell,final_gate_1
+0,precision,NL01,0.9857142857142858,cell_type_level_1,Dendritic cell,final_gate_2
+1,precision,NL03,0.6746987951807228,cell_type_level_1,Dendritic cell,final_gate_2
+2,precision,NL05,0.9101123595505618,cell_type_level_1,Dendritic cell,final_gate_2
+3,precision,NL07,0.8333333333333334,cell_type_level_1,Dendritic cell,final_gate_2
+4,precision,NL09,0.8365384615384616,cell_type_level_1,Dendritic cell,final_gate_2
+5,recall,NL01,0.40828402366863903,cell_type_level_1,Dendritic cell,final_gate_2
+6,recall,NL03,0.3835616438356164,cell_type_level_1,Dendritic cell,final_gate_2
+7,recall,NL05,0.31640625,cell_type_level_1,Dendritic cell,final_gate_2
+8,recall,NL07,0.29411764705882354,cell_type_level_1,Dendritic cell,final_gate_2
+9,recall,NL09,0.4264705882352941,cell_type_level_1,Dendritic cell,final_gate_2
+10,f1score,NL01,0.5774058577405857,cell_type_level_1,Dendritic cell,final_gate_2
+11,f1score,NL03,0.4890829694323144,cell_type_level_1,Dendritic cell,final_gate_2
+12,f1score,NL05,0.46956521739130436,cell_type_level_1,Dendritic cell,final_gate_2
+13,f1score,NL07,0.4347826086956522,cell_type_level_1,Dendritic cell,final_gate_2
+14,f1score,NL09,0.564935064935065,cell_type_level_1,Dendritic cell,final_gate_2
+0,precision,NL01,1.0,cell_type_level_1,Dendritic cell,final_gate_3
+1,precision,NL03,0.9122807017543859,cell_type_level_1,Dendritic cell,final_gate_3
+2,precision,NL05,0.9855072463768116,cell_type_level_1,Dendritic cell,final_gate_3
+3,precision,NL07,0.8666666666666667,cell_type_level_1,Dendritic cell,final_gate_3
+4,precision,NL09,0.9310344827586207,cell_type_level_1,Dendritic cell,final_gate_3
+5,recall,NL01,0.3727810650887574,cell_type_level_1,Dendritic cell,final_gate_3
+6,recall,NL03,0.3561643835616438,cell_type_level_1,Dendritic cell,final_gate_3
+7,recall,NL05,0.265625,cell_type_level_1,Dendritic cell,final_gate_3
+8,recall,NL07,0.2549019607843137,cell_type_level_1,Dendritic cell,final_gate_3
+9,recall,NL09,0.39705882352941174,cell_type_level_1,Dendritic cell,final_gate_3
+10,f1score,NL01,0.5431034482758621,cell_type_level_1,Dendritic cell,final_gate_3
+11,f1score,NL03,0.5123152709359606,cell_type_level_1,Dendritic cell,final_gate_3
+12,f1score,NL05,0.4184615384615385,cell_type_level_1,Dendritic cell,final_gate_3
+13,f1score,NL07,0.3939393939393939,cell_type_level_1,Dendritic cell,final_gate_3
+14,f1score,NL09,0.5567010309278351,cell_type_level_1,Dendritic cell,final_gate_3
+0,precision,NL01,1.0,cell_type_level_1,Dendritic cell,final_gate_4
+1,precision,NL03,1.0,cell_type_level_1,Dendritic cell,final_gate_4
+2,precision,NL05,1.0,cell_type_level_1,Dendritic cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_1,Dendritic cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_1,Dendritic cell,final_gate_4
+5,recall,NL01,0.3609467455621302,cell_type_level_1,Dendritic cell,final_gate_4
+6,recall,NL03,0.3493150684931507,cell_type_level_1,Dendritic cell,final_gate_4
+7,recall,NL05,0.265625,cell_type_level_1,Dendritic cell,final_gate_4
+8,recall,NL07,0.2549019607843137,cell_type_level_1,Dendritic cell,final_gate_4
+9,recall,NL09,0.3872549019607843,cell_type_level_1,Dendritic cell,final_gate_4
+10,f1score,NL01,0.5304347826086956,cell_type_level_1,Dendritic cell,final_gate_4
+11,f1score,NL03,0.5177664974619289,cell_type_level_1,Dendritic cell,final_gate_4
+12,f1score,NL05,0.41975308641975306,cell_type_level_1,Dendritic cell,final_gate_4
+13,f1score,NL07,0.40625,cell_type_level_1,Dendritic cell,final_gate_4
+14,f1score,NL09,0.5583038869257951,cell_type_level_1,Dendritic cell,final_gate_4
+0,precision,NL01,0.9884819846426461,cell_type_level_1,Monocyte,final_gate_1
+1,precision,NL03,0.968793024323084,cell_type_level_1,Monocyte,final_gate_1
+2,precision,NL05,0.9167552249380092,cell_type_level_1,Monocyte,final_gate_1
+3,precision,NL07,0.9665071770334929,cell_type_level_1,Monocyte,final_gate_1
+4,precision,NL09,0.9697590978985136,cell_type_level_1,Monocyte,final_gate_1
+5,recall,NL01,0.9524758110415481,cell_type_level_1,Monocyte,final_gate_1
+6,recall,NL03,0.8488138319260152,cell_type_level_1,Monocyte,final_gate_1
+7,recall,NL05,0.8872128899554337,cell_type_level_1,Monocyte,final_gate_1
+8,recall,NL07,0.9513343799058085,cell_type_level_1,Monocyte,final_gate_1
+9,recall,NL09,0.8568840579710145,cell_type_level_1,Monocyte,final_gate_1
+10,f1score,NL01,0.9701449275362319,cell_type_level_1,Monocyte,final_gate_1
+11,f1score,NL03,0.9048435490784398,cell_type_level_1,Monocyte,final_gate_1
+12,f1score,NL05,0.9017421602787457,cell_type_level_1,Monocyte,final_gate_1
+13,f1score,NL07,0.9588607594936709,cell_type_level_1,Monocyte,final_gate_1
+14,f1score,NL09,0.9098340947343111,cell_type_level_1,Monocyte,final_gate_1
+0,precision,NL01,0.9899259259259259,cell_type_level_1,Monocyte,final_gate_2
+1,precision,NL03,0.9817927170868347,cell_type_level_1,Monocyte,final_gate_2
+2,precision,NL05,0.9699135013162843,cell_type_level_1,Monocyte,final_gate_2
+3,precision,NL07,0.9725363489499192,cell_type_level_1,Monocyte,final_gate_2
+4,precision,NL09,0.9786569495054659,cell_type_level_1,Monocyte,final_gate_2
+5,recall,NL01,0.9507683551508253,cell_type_level_1,Monocyte,final_gate_2
+6,recall,NL03,0.8455971049457177,cell_type_level_1,Monocyte,final_gate_2
+7,recall,NL05,0.884127528282482,cell_type_level_1,Monocyte,final_gate_2
+8,recall,NL07,0.945054945054945,cell_type_level_1,Monocyte,final_gate_2
+9,recall,NL09,0.8514492753623188,cell_type_level_1,Monocyte,final_gate_2
+10,f1score,NL01,0.9699520975468137,cell_type_level_1,Monocyte,final_gate_2
+11,f1score,NL03,0.9086195722618277,cell_type_level_1,Monocyte,final_gate_2
+12,f1score,NL05,0.9250358680057389,cell_type_level_1,Monocyte,final_gate_2
+13,f1score,NL07,0.9585987261146497,cell_type_level_1,Monocyte,final_gate_2
+14,f1score,NL09,0.9106321143133931,cell_type_level_1,Monocyte,final_gate_2
+0,precision,NL01,0.9898688915375446,cell_type_level_1,Monocyte,final_gate_3
+1,precision,NL03,0.9813218390804598,cell_type_level_1,Monocyte,final_gate_3
+2,precision,NL05,0.9696509863429439,cell_type_level_1,Monocyte,final_gate_3
+3,precision,NL07,0.9717607973421927,cell_type_level_1,Monocyte,final_gate_3
+4,precision,NL09,0.9780160857908847,cell_type_level_1,Monocyte,final_gate_3
+5,recall,NL01,0.9453614114968697,cell_type_level_1,Monocyte,final_gate_3
+6,recall,NL03,0.8238841978287093,cell_type_level_1,Monocyte,final_gate_3
+7,recall,NL05,0.8762427151182722,cell_type_level_1,Monocyte,final_gate_3
+8,recall,NL07,0.9183673469387755,cell_type_level_1,Monocyte,final_gate_3
+9,recall,NL09,0.8260869565217391,cell_type_level_1,Monocyte,final_gate_3
+10,f1score,NL01,0.9671033478893741,cell_type_level_1,Monocyte,final_gate_3
+11,f1score,NL03,0.8957377049180327,cell_type_level_1,Monocyte,final_gate_3
+12,f1score,NL05,0.920583468395462,cell_type_level_1,Monocyte,final_gate_3
+13,f1score,NL07,0.9443099273607748,cell_type_level_1,Monocyte,final_gate_3
+14,f1score,NL09,0.8956543088632457,cell_type_level_1,Monocyte,final_gate_3
+0,precision,NL01,0.9906794948887553,cell_type_level_1,Monocyte,final_gate_4
+1,precision,NL03,0.9888077858880778,cell_type_level_1,Monocyte,final_gate_4
+2,precision,NL05,0.9721161191749427,cell_type_level_1,Monocyte,final_gate_4
+3,precision,NL07,0.9881756756756757,cell_type_level_1,Monocyte,final_gate_4
+4,precision,NL09,0.9811422413793104,cell_type_level_1,Monocyte,final_gate_4
+5,recall,NL01,0.937677859988617,cell_type_level_1,Monocyte,final_gate_4
+6,recall,NL03,0.817048652995577,cell_type_level_1,Monocyte,final_gate_4
+7,recall,NL05,0.8724717175179979,cell_type_level_1,Monocyte,final_gate_4
+8,recall,NL07,0.9183673469387755,cell_type_level_1,Monocyte,final_gate_4
+9,recall,NL09,0.8247282608695652,cell_type_level_1,Monocyte,final_gate_4
+10,f1score,NL01,0.9634502923976608,cell_type_level_1,Monocyte,final_gate_4
+11,f1score,NL03,0.8947600176133862,cell_type_level_1,Monocyte,final_gate_4
+12,f1score,NL05,0.919602529358627,cell_type_level_1,Monocyte,final_gate_4
+13,f1score,NL07,0.951993490642799,cell_type_level_1,Monocyte,final_gate_4
+14,f1score,NL09,0.8961614173228347,cell_type_level_1,Monocyte,final_gate_4
+0,precision,NL01,0.9924448473859172,cell_type_level_1,Monocyte,final_gate_5
+1,precision,NL03,0.9902439024390244,cell_type_level_1,Monocyte,final_gate_5
+2,precision,NL05,0.9747029513223457,cell_type_level_1,Monocyte,final_gate_5
+3,precision,NL07,0.988155668358714,cell_type_level_1,Monocyte,final_gate_5
+4,precision,NL09,0.9869918699186991,cell_type_level_1,Monocyte,final_gate_5
+5,recall,NL01,0.9345475241889585,cell_type_level_1,Monocyte,final_gate_5
+6,recall,NL03,0.8162444712505026,cell_type_level_1,Monocyte,final_gate_5
+7,recall,NL05,0.8717860815906754,cell_type_level_1,Monocyte,final_gate_5
+8,recall,NL07,0.9167974882260597,cell_type_level_1,Monocyte,final_gate_5
+9,recall,NL09,0.8247282608695652,cell_type_level_1,Monocyte,final_gate_5
+10,f1score,NL01,0.9626264106697934,cell_type_level_1,Monocyte,final_gate_5
+11,f1score,NL03,0.8948644478730439,cell_type_level_1,Monocyte,final_gate_5
+12,f1score,NL05,0.920376402461093,cell_type_level_1,Monocyte,final_gate_5
+13,f1score,NL07,0.9511400651465798,cell_type_level_1,Monocyte,final_gate_5
+14,f1score,NL09,0.8985936343449297,cell_type_level_1,Monocyte,final_gate_5
+0,precision,NL01,0.6187538556446638,cell_type_level_1,NK cell,final_gate_1
+1,precision,NL03,0.7283950617283951,cell_type_level_1,NK cell,final_gate_1
+2,precision,NL05,0.5661648177496038,cell_type_level_1,NK cell,final_gate_1
+3,precision,NL07,0.6820175438596491,cell_type_level_1,NK cell,final_gate_1
+4,precision,NL09,0.7862426035502958,cell_type_level_1,NK cell,final_gate_1
+5,recall,NL01,0.8141233766233766,cell_type_level_1,NK cell,final_gate_1
+6,recall,NL03,0.8058194774346793,cell_type_level_1,NK cell,final_gate_1
+7,recall,NL05,0.8156392694063926,cell_type_level_1,NK cell,final_gate_1
+8,recall,NL07,0.929745889387145,cell_type_level_1,NK cell,final_gate_1
+9,recall,NL09,0.9407079646017699,cell_type_level_1,NK cell,final_gate_1
+10,f1score,NL01,0.7031195233087979,cell_type_level_1,NK cell,final_gate_1
+11,f1score,NL03,0.765153650972653,cell_type_level_1,NK cell,final_gate_1
+12,f1score,NL05,0.6683816651075771,cell_type_level_1,NK cell,final_gate_1
+13,f1score,NL07,0.7868437697659708,cell_type_level_1,NK cell,final_gate_1
+14,f1score,NL09,0.8565672844480258,cell_type_level_1,NK cell,final_gate_1
+0,precision,NL01,0.6837972876516774,cell_type_level_1,NK cell,final_gate_2
+1,precision,NL03,0.9612167300380228,cell_type_level_1,NK cell,final_gate_2
+2,precision,NL05,0.8072590738423029,cell_type_level_1,NK cell,final_gate_2
+3,precision,NL07,0.9812606473594548,cell_type_level_1,NK cell,final_gate_2
+4,precision,NL09,0.9123809523809524,cell_type_level_1,NK cell,final_gate_2
+5,recall,NL01,0.7775974025974026,cell_type_level_1,NK cell,final_gate_2
+6,recall,NL03,0.7505938242280285,cell_type_level_1,NK cell,final_gate_2
+7,recall,NL05,0.7363013698630136,cell_type_level_1,NK cell,final_gate_2
+8,recall,NL07,0.8609865470852018,cell_type_level_1,NK cell,final_gate_2
+9,recall,NL09,0.8477876106194691,cell_type_level_1,NK cell,final_gate_2
+10,f1score,NL01,0.7276870489935435,cell_type_level_1,NK cell,final_gate_2
+11,f1score,NL03,0.8429476492164055,cell_type_level_1,NK cell,final_gate_2
+12,f1score,NL05,0.7701492537313432,cell_type_level_1,NK cell,final_gate_2
+13,f1score,NL07,0.9171974522292994,cell_type_level_1,NK cell,final_gate_2
+14,f1score,NL09,0.8788990825688073,cell_type_level_1,NK cell,final_gate_2
+0,precision,NL01,0.9989561586638831,cell_type_level_1,NK cell,final_gate_3
+1,precision,NL03,1.0,cell_type_level_1,NK cell,final_gate_3
+2,precision,NL05,0.9992229992229992,cell_type_level_1,NK cell,final_gate_3
+3,precision,NL07,1.0,cell_type_level_1,NK cell,final_gate_3
+4,precision,NL09,1.0,cell_type_level_1,NK cell,final_gate_3
+5,recall,NL01,0.7767857142857143,cell_type_level_1,NK cell,final_gate_3
+6,recall,NL03,0.747624703087886,cell_type_level_1,NK cell,final_gate_3
+7,recall,NL05,0.7340182648401826,cell_type_level_1,NK cell,final_gate_3
+8,recall,NL07,0.8579970104633782,cell_type_level_1,NK cell,final_gate_3
+9,recall,NL09,0.8433628318584071,cell_type_level_1,NK cell,final_gate_3
+10,f1score,NL01,0.873972602739726,cell_type_level_1,NK cell,final_gate_3
+11,f1score,NL03,0.8555895344886171,cell_type_level_1,NK cell,final_gate_3
+12,f1score,NL05,0.8463310299440605,cell_type_level_1,NK cell,final_gate_3
+13,f1score,NL07,0.9235720032180209,cell_type_level_1,NK cell,final_gate_3
+14,f1score,NL09,0.9150264042246761,cell_type_level_1,NK cell,final_gate_3
+0,precision,NL01,1.0,cell_type_level_1,NK cell,final_gate_4
+1,precision,NL03,1.0,cell_type_level_1,NK cell,final_gate_4
+2,precision,NL05,0.9992125984251968,cell_type_level_1,NK cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_1,NK cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_1,NK cell,final_gate_4
+5,recall,NL01,0.7573051948051948,cell_type_level_1,NK cell,final_gate_4
+6,recall,NL03,0.732185273159145,cell_type_level_1,NK cell,final_gate_4
+7,recall,NL05,0.7243150684931506,cell_type_level_1,NK cell,final_gate_4
+8,recall,NL07,0.8460388639760837,cell_type_level_1,NK cell,final_gate_4
+9,recall,NL09,0.8309734513274336,cell_type_level_1,NK cell,final_gate_4
+10,f1score,NL01,0.8618937644341801,cell_type_level_1,NK cell,final_gate_4
+11,f1score,NL03,0.8453890983887556,cell_type_level_1,NK cell,final_gate_4
+12,f1score,NL05,0.8398411647915287,cell_type_level_1,NK cell,final_gate_4
+13,f1score,NL07,0.9165991902834009,cell_type_level_1,NK cell,final_gate_4
+14,f1score,NL09,0.9076848719188013,cell_type_level_1,NK cell,final_gate_4
+0,precision,NL01,1.0,cell_type_level_1,NK cell,final_gate_5
+1,precision,NL03,1.0,cell_type_level_1,NK cell,final_gate_5
+2,precision,NL05,0.9992082343626286,cell_type_level_1,NK cell,final_gate_5
+3,precision,NL07,1.0,cell_type_level_1,NK cell,final_gate_5
+4,precision,NL09,1.0,cell_type_level_1,NK cell,final_gate_5
+5,recall,NL01,0.7556818181818182,cell_type_level_1,NK cell,final_gate_5
+6,recall,NL03,0.7309976247030879,cell_type_level_1,NK cell,final_gate_5
+7,recall,NL05,0.7203196347031964,cell_type_level_1,NK cell,final_gate_5
+8,recall,NL07,0.8460388639760837,cell_type_level_1,NK cell,final_gate_5
+9,recall,NL09,0.8283185840707965,cell_type_level_1,NK cell,final_gate_5
+10,f1score,NL01,0.86084142394822,cell_type_level_1,NK cell,final_gate_5
+11,f1score,NL03,0.8445969125214409,cell_type_level_1,NK cell,final_gate_5
+12,f1score,NL05,0.8371475953565507,cell_type_level_1,NK cell,final_gate_5
+13,f1score,NL07,0.9165991902834009,cell_type_level_1,NK cell,final_gate_5
+14,f1score,NL09,0.9060987415295256,cell_type_level_1,NK cell,final_gate_5
+0,precision,NL01,0.9434306569343066,cell_type_level_1,T cell,final_gate_1
+1,precision,NL03,0.9323147222618877,cell_type_level_1,T cell,final_gate_1
+2,precision,NL05,0.9146059420032023,cell_type_level_1,T cell,final_gate_1
+3,precision,NL07,0.9295774647887324,cell_type_level_1,T cell,final_gate_1
+4,precision,NL09,0.9321793416572077,cell_type_level_1,T cell,final_gate_1
+5,recall,NL01,0.927429876060013,cell_type_level_1,T cell,final_gate_1
+6,recall,NL03,0.9859559045605557,cell_type_level_1,T cell,final_gate_1
+7,recall,NL05,0.9902725609168833,cell_type_level_1,T cell,final_gate_1
+8,recall,NL07,0.9856194690265486,cell_type_level_1,T cell,final_gate_1
+9,recall,NL09,0.9838274932614556,cell_type_level_1,T cell,final_gate_1
+10,f1score,NL01,0.9353618421052632,cell_type_level_1,T cell,final_gate_1
+11,f1score,NL03,0.9583853211009175,cell_type_level_1,T cell,final_gate_1
+12,f1score,NL05,0.9509364161849712,cell_type_level_1,T cell,final_gate_1
+13,f1score,NL07,0.9567785234899329,cell_type_level_1,T cell,final_gate_1
+14,f1score,NL09,0.9573073000145709,cell_type_level_1,T cell,final_gate_1
+0,precision,NL01,0.9994713656387665,cell_type_level_1,T cell,final_gate_2
+1,precision,NL03,0.9970849953973612,cell_type_level_1,T cell,final_gate_2
+2,precision,NL05,0.9962302598064188,cell_type_level_1,T cell,final_gate_2
+3,precision,NL07,0.9960740325294447,cell_type_level_1,T cell,final_gate_2
+4,precision,NL09,0.9963470319634703,cell_type_level_1,T cell,final_gate_2
+5,recall,NL01,0.9249836921069797,cell_type_level_1,T cell,final_gate_2
+6,recall,NL03,0.981425551192993,cell_type_level_1,T cell,final_gate_2
+7,recall,NL05,0.9417316767793509,cell_type_level_1,T cell,final_gate_2
+8,recall,NL07,0.9823008849557522,cell_type_level_1,T cell,final_gate_2
+9,recall,NL09,0.9802336028751123,cell_type_level_1,T cell,final_gate_2
+10,f1score,NL01,0.9607859744219531,cell_type_level_1,T cell,final_gate_2
+11,f1score,NL03,0.9891933028919329,cell_type_level_1,T cell,final_gate_2
+12,f1score,NL05,0.9682146747202693,cell_type_level_1,T cell,final_gate_2
+13,f1score,NL07,0.9891395154553049,cell_type_level_1,T cell,final_gate_2
+14,f1score,NL09,0.9882246376811594,cell_type_level_1,T cell,final_gate_2
+0,precision,NL01,0.9996467679265277,cell_type_level_1,T cell,final_gate_3
+1,precision,NL03,0.9990750732233699,cell_type_level_1,T cell,final_gate_3
+2,precision,NL05,0.9991796554552912,cell_type_level_1,T cell,final_gate_3
+3,precision,NL07,0.9994353472614342,cell_type_level_1,T cell,final_gate_3
+4,precision,NL09,1.0,cell_type_level_1,T cell,final_gate_3
+5,recall,NL01,0.9230267449445532,cell_type_level_1,T cell,final_gate_3
+6,recall,NL03,0.9787073391724554,cell_type_level_1,T cell,final_gate_3
+7,recall,NL05,0.9384570933256284,cell_type_level_1,T cell,final_gate_3
+8,recall,NL07,0.9789823008849557,cell_type_level_1,T cell,final_gate_3
+9,recall,NL09,0.9754417490266547,cell_type_level_1,T cell,final_gate_3
+10,f1score,NL01,0.9598100729184331,cell_type_level_1,T cell,final_gate_3
+11,f1score,NL03,0.9887863300022884,cell_type_level_1,T cell,final_gate_3
+12,f1score,NL05,0.96786689843556,cell_type_level_1,T cell,final_gate_3
+13,f1score,NL07,0.989103101424979,cell_type_level_1,T cell,final_gate_3
+14,f1score,NL09,0.9875682231655549,cell_type_level_1,T cell,final_gate_3
+0,precision,NL01,0.9997753313862053,cell_type_level_1,T cell,final_gate_4
+1,precision,NL03,0.9993676889029403,cell_type_level_1,T cell,final_gate_4
+2,precision,NL05,0.9995638901003053,cell_type_level_1,T cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_1,T cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_1,T cell,final_gate_4
+5,recall,NL01,0.7257012393998695,cell_type_level_1,T cell,final_gate_4
+6,recall,NL03,0.9546964663243733,cell_type_level_1,T cell,final_gate_4
+7,recall,NL05,0.8829817971684484,cell_type_level_1,T cell,final_gate_4
+8,recall,NL07,0.9673672566371682,cell_type_level_1,T cell,final_gate_4
+9,recall,NL09,0.9604672057502246,cell_type_level_1,T cell,final_gate_4
+10,f1score,NL01,0.840971369176982,cell_type_level_1,T cell,final_gate_4
+11,f1score,NL03,0.9765214704973741,cell_type_level_1,T cell,final_gate_4
+12,f1score,NL05,0.9376630017898234,cell_type_level_1,T cell,final_gate_4
+13,f1score,NL07,0.9834129884734326,cell_type_level_1,T cell,final_gate_4
+14,f1score,NL09,0.9798350137488543,cell_type_level_1,T cell,final_gate_4
+0,precision,NL01,0.9997753313862053,cell_type_level_1,T cell,final_gate_5
+1,precision,NL03,0.9993676889029403,cell_type_level_1,T cell,final_gate_5
+2,precision,NL05,0.9995638901003053,cell_type_level_1,T cell,final_gate_5
+3,precision,NL07,1.0,cell_type_level_1,T cell,final_gate_5
+4,precision,NL09,1.0,cell_type_level_1,T cell,final_gate_5
+5,recall,NL01,0.7257012393998695,cell_type_level_1,T cell,final_gate_5
+6,recall,NL03,0.9546964663243733,cell_type_level_1,T cell,final_gate_5
+7,recall,NL05,0.8829817971684484,cell_type_level_1,T cell,final_gate_5
+8,recall,NL07,0.9673672566371682,cell_type_level_1,T cell,final_gate_5
+9,recall,NL09,0.9604672057502246,cell_type_level_1,T cell,final_gate_5
+10,f1score,NL01,0.840971369176982,cell_type_level_1,T cell,final_gate_5
+11,f1score,NL03,0.9765214704973741,cell_type_level_1,T cell,final_gate_5
+12,f1score,NL05,0.9376630017898234,cell_type_level_1,T cell,final_gate_5
+13,f1score,NL07,0.9834129884734326,cell_type_level_1,T cell,final_gate_5
+14,f1score,NL09,0.9798350137488543,cell_type_level_1,T cell,final_gate_5
+0,precision,NL01,0.9441624365482234,cell_type_level_2,B cell,final_gate_1
+1,precision,NL03,0.9726651480637813,cell_type_level_2,B cell,final_gate_1
+2,precision,NL05,0.9835820895522388,cell_type_level_2,B cell,final_gate_1
+3,precision,NL07,0.9622641509433962,cell_type_level_2,B cell,final_gate_1
+4,precision,NL09,0.9722222222222222,cell_type_level_2,B cell,final_gate_1
+5,recall,NL01,0.8378378378378378,cell_type_level_2,B cell,final_gate_1
+6,recall,NL03,0.8422090729783037,cell_type_level_2,B cell,final_gate_1
+7,recall,NL05,0.7930204572803851,cell_type_level_2,B cell,final_gate_1
+8,recall,NL07,0.8360655737704918,cell_type_level_2,B cell,final_gate_1
+9,recall,NL09,0.6862745098039216,cell_type_level_2,B cell,final_gate_1
+10,f1score,NL01,0.8878281622911695,cell_type_level_2,B cell,final_gate_1
+11,f1score,NL03,0.9027484143763213,cell_type_level_2,B cell,final_gate_1
+12,f1score,NL05,0.8780812791472351,cell_type_level_2,B cell,final_gate_1
+13,f1score,NL07,0.8947368421052632,cell_type_level_2,B cell,final_gate_1
+14,f1score,NL09,0.8045977011494253,cell_type_level_2,B cell,final_gate_1
+0,precision,NL01,0.9629629629629629,cell_type_level_2,B cell,final_gate_2
+1,precision,NL03,0.9815668202764977,cell_type_level_2,B cell,final_gate_2
+2,precision,NL05,0.9909365558912386,cell_type_level_2,B cell,final_gate_2
+3,precision,NL07,0.9622641509433962,cell_type_level_2,B cell,final_gate_2
+4,precision,NL09,0.9722222222222222,cell_type_level_2,B cell,final_gate_2
+5,recall,NL01,0.8198198198198198,cell_type_level_2,B cell,final_gate_2
+6,recall,NL03,0.8402366863905325,cell_type_level_2,B cell,final_gate_2
+7,recall,NL05,0.789410348977136,cell_type_level_2,B cell,final_gate_2
+8,recall,NL07,0.8360655737704918,cell_type_level_2,B cell,final_gate_2
+9,recall,NL09,0.6862745098039216,cell_type_level_2,B cell,final_gate_2
+10,f1score,NL01,0.8856447688564476,cell_type_level_2,B cell,final_gate_2
+11,f1score,NL03,0.9054197662061636,cell_type_level_2,B cell,final_gate_2
+12,f1score,NL05,0.8787675820495646,cell_type_level_2,B cell,final_gate_2
+13,f1score,NL07,0.8947368421052632,cell_type_level_2,B cell,final_gate_2
+14,f1score,NL09,0.8045977011494253,cell_type_level_2,B cell,final_gate_2
+0,precision,NL01,0.978494623655914,cell_type_level_2,B cell,final_gate_3
+1,precision,NL03,0.9883449883449883,cell_type_level_2,B cell,final_gate_3
+2,precision,NL05,0.9924357034795764,cell_type_level_2,B cell,final_gate_3
+3,precision,NL07,1.0,cell_type_level_2,B cell,final_gate_3
+4,precision,NL09,0.9722222222222222,cell_type_level_2,B cell,final_gate_3
+5,recall,NL01,0.8198198198198198,cell_type_level_2,B cell,final_gate_3
+6,recall,NL03,0.8362919132149902,cell_type_level_2,B cell,final_gate_3
+7,recall,NL05,0.789410348977136,cell_type_level_2,B cell,final_gate_3
+8,recall,NL07,0.8360655737704918,cell_type_level_2,B cell,final_gate_3
+9,recall,NL09,0.6862745098039216,cell_type_level_2,B cell,final_gate_3
+10,f1score,NL01,0.892156862745098,cell_type_level_2,B cell,final_gate_3
+11,f1score,NL03,0.9059829059829059,cell_type_level_2,B cell,final_gate_3
+12,f1score,NL05,0.8793565683646113,cell_type_level_2,B cell,final_gate_3
+13,f1score,NL07,0.9107142857142857,cell_type_level_2,B cell,final_gate_3
+14,f1score,NL09,0.8045977011494253,cell_type_level_2,B cell,final_gate_3
+0,precision,NL01,0.9945054945054945,cell_type_level_2,B cell,final_gate_4
+1,precision,NL03,0.9953051643192489,cell_type_level_2,B cell,final_gate_4
+2,precision,NL05,0.993920972644377,cell_type_level_2,B cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_2,B cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_2,B cell,final_gate_4
+5,recall,NL01,0.8153153153153153,cell_type_level_2,B cell,final_gate_4
+6,recall,NL03,0.8362919132149902,cell_type_level_2,B cell,final_gate_4
+7,recall,NL05,0.7870036101083032,cell_type_level_2,B cell,final_gate_4
+8,recall,NL07,0.819672131147541,cell_type_level_2,B cell,final_gate_4
+9,recall,NL09,0.6862745098039216,cell_type_level_2,B cell,final_gate_4
+10,f1score,NL01,0.8960396039603961,cell_type_level_2,B cell,final_gate_4
+11,f1score,NL03,0.9088960342979637,cell_type_level_2,B cell,final_gate_4
+12,f1score,NL05,0.8784419073203492,cell_type_level_2,B cell,final_gate_4
+13,f1score,NL07,0.9009009009009009,cell_type_level_2,B cell,final_gate_4
+14,f1score,NL09,0.813953488372093,cell_type_level_2,B cell,final_gate_4
+0,precision,NL01,1.0,cell_type_level_2,B cell,final_gate_5
+1,precision,NL03,1.0,cell_type_level_2,B cell,final_gate_5
+2,precision,NL05,0.9969465648854962,cell_type_level_2,B cell,final_gate_5
+3,precision,NL07,1.0,cell_type_level_2,B cell,final_gate_5
+4,precision,NL09,1.0,cell_type_level_2,B cell,final_gate_5
+5,recall,NL01,0.8153153153153153,cell_type_level_2,B cell,final_gate_5
+6,recall,NL03,0.8362919132149902,cell_type_level_2,B cell,final_gate_5
+7,recall,NL05,0.7858002406738869,cell_type_level_2,B cell,final_gate_5
+8,recall,NL07,0.819672131147541,cell_type_level_2,B cell,final_gate_5
+9,recall,NL09,0.6666666666666666,cell_type_level_2,B cell,final_gate_5
+10,f1score,NL01,0.8982630272952854,cell_type_level_2,B cell,final_gate_5
+11,f1score,NL03,0.9108485499462944,cell_type_level_2,B cell,final_gate_5
+12,f1score,NL05,0.8788694481830416,cell_type_level_2,B cell,final_gate_5
+13,f1score,NL07,0.9009009009009009,cell_type_level_2,B cell,final_gate_5
+14,f1score,NL09,0.8,cell_type_level_2,B cell,final_gate_5
+0,precision,NL01,0.9965543644716692,cell_type_level_2,CD4+ T cell,final_gate_1
+1,precision,NL03,0.9900486510393631,cell_type_level_2,CD4+ T cell,final_gate_1
+2,precision,NL05,0.9903288201160542,cell_type_level_2,CD4+ T cell,final_gate_1
+3,precision,NL07,0.9919177075679647,cell_type_level_2,CD4+ T cell,final_gate_1
+4,precision,NL09,0.9975816203143894,cell_type_level_2,CD4+ T cell,final_gate_1
+5,recall,NL01,0.9969360398314822,cell_type_level_2,CD4+ T cell,final_gate_1
+6,recall,NL03,0.9931233362910381,cell_type_level_2,CD4+ T cell,final_gate_1
+7,recall,NL05,0.9955806964822344,cell_type_level_2,CD4+ T cell,final_gate_1
+8,recall,NL07,0.9977827050997783,cell_type_level_2,CD4+ T cell,final_gate_1
+9,recall,NL09,0.995575221238938,cell_type_level_2,CD4+ T cell,final_gate_1
+10,f1score,NL01,0.996745165613632,cell_type_level_2,CD4+ T cell,final_gate_1
+11,f1score,NL03,0.9915836101882614,cell_type_level_2,CD4+ T cell,final_gate_1
+12,f1score,NL05,0.9929478138222849,cell_type_level_2,CD4+ T cell,final_gate_1
+13,f1score,NL07,0.9948415622697125,cell_type_level_2,CD4+ T cell,final_gate_1
+14,f1score,NL09,0.9965774109120192,cell_type_level_2,CD4+ T cell,final_gate_1
+0,precision,NL01,0.9969348659003832,cell_type_level_2,CD4+ T cell,final_gate_2
+1,precision,NL03,0.9907059083868113,cell_type_level_2,CD4+ T cell,final_gate_2
+2,precision,NL05,0.991374757965147,cell_type_level_2,CD4+ T cell,final_gate_2
+3,precision,NL07,0.9926470588235294,cell_type_level_2,CD4+ T cell,final_gate_2
+4,precision,NL09,0.9979838709677419,cell_type_level_2,CD4+ T cell,final_gate_2
+5,recall,NL01,0.9965530448104175,cell_type_level_2,CD4+ T cell,final_gate_2
+6,recall,NL03,0.9931233362910381,cell_type_level_2,CD4+ T cell,final_gate_2
+7,recall,NL05,0.9955806964822344,cell_type_level_2,CD4+ T cell,final_gate_2
+8,recall,NL07,0.9977827050997783,cell_type_level_2,CD4+ T cell,final_gate_2
+9,recall,NL09,0.995575221238938,cell_type_level_2,CD4+ T cell,final_gate_2
+10,f1score,NL01,0.996743918789504,cell_type_level_2,CD4+ T cell,final_gate_2
+11,f1score,NL03,0.9919131494405671,cell_type_level_2,CD4+ T cell,final_gate_2
+12,f1score,NL05,0.9934732757100017,cell_type_level_2,CD4+ T cell,final_gate_2
+13,f1score,NL07,0.9952082565425728,cell_type_level_2,CD4+ T cell,final_gate_2
+14,f1score,NL09,0.9967780910189288,cell_type_level_2,CD4+ T cell,final_gate_2
+0,precision,NL01,0.9980747015787447,cell_type_level_2,CD4+ T cell,final_gate_3
+1,precision,NL03,0.9982038616973506,cell_type_level_2,CD4+ T cell,final_gate_3
+2,precision,NL05,0.9967988618175351,cell_type_level_2,CD4+ T cell,final_gate_3
+3,precision,NL07,0.9955522609340252,cell_type_level_2,CD4+ T cell,final_gate_3
+4,precision,NL09,0.9991766158913133,cell_type_level_2,CD4+ T cell,final_gate_3
+5,recall,NL01,0.9927230945997702,cell_type_level_2,CD4+ T cell,final_gate_3
+6,recall,NL03,0.9862466725820763,cell_type_level_2,CD4+ T cell,final_gate_3
+7,recall,NL05,0.9908078486830475,cell_type_level_2,CD4+ T cell,final_gate_3
+8,recall,NL07,0.9926090169992609,cell_type_level_2,CD4+ T cell,final_gate_3
+9,recall,NL09,0.9762670957361222,cell_type_level_2,CD4+ T cell,final_gate_3
+10,f1score,NL01,0.9953917050691243,cell_type_level_2,CD4+ T cell,final_gate_3
+11,f1score,NL03,0.9921892434724392,cell_type_level_2,CD4+ T cell,final_gate_3
+12,f1score,NL05,0.9937943262411347,cell_type_level_2,CD4+ T cell,final_gate_3
+13,f1score,NL07,0.9940784603997039,cell_type_level_2,CD4+ T cell,final_gate_3
+14,f1score,NL09,0.9875890132248221,cell_type_level_2,CD4+ T cell,final_gate_3
+0,precision,NL01,0.9984538074990337,cell_type_level_2,CD4+ T cell,final_gate_4
+1,precision,NL03,0.9981920903954802,cell_type_level_2,CD4+ T cell,final_gate_4
+2,precision,NL05,0.9967862881628281,cell_type_level_2,CD4+ T cell,final_gate_4
+3,precision,NL07,0.9985063480209111,cell_type_level_2,CD4+ T cell,final_gate_4
+4,precision,NL09,0.9991725279271825,cell_type_level_2,CD4+ T cell,final_gate_4
+5,recall,NL01,0.9892761394101877,cell_type_level_2,CD4+ T cell,final_gate_4
+6,recall,NL03,0.9798136645962733,cell_type_level_2,CD4+ T cell,final_gate_4
+7,recall,NL05,0.9869188615874138,cell_type_level_2,CD4+ T cell,final_gate_4
+8,recall,NL07,0.9881744271988174,cell_type_level_2,CD4+ T cell,final_gate_4
+9,recall,NL09,0.9714400643604183,cell_type_level_2,CD4+ T cell,final_gate_4
+10,f1score,NL01,0.993843786071566,cell_type_level_2,CD4+ T cell,final_gate_4
+11,f1score,NL03,0.9889174969215268,cell_type_level_2,CD4+ T cell,final_gate_4
+12,f1score,NL05,0.9918280333984721,cell_type_level_2,CD4+ T cell,final_gate_4
+13,f1score,NL07,0.9933135215453194,cell_type_level_2,CD4+ T cell,final_gate_4
+14,f1score,NL09,0.9851111564348357,cell_type_level_2,CD4+ T cell,final_gate_4
+0,precision,NL01,0.9984177215189873,cell_type_level_2,CD4+ T cell,final_gate_5
+1,precision,NL03,0.998126024830171,cell_type_level_2,CD4+ T cell,final_gate_5
+2,precision,NL05,0.9968847352024922,cell_type_level_2,CD4+ T cell,final_gate_5
+3,precision,NL07,0.9984802431610942,cell_type_level_2,CD4+ T cell,final_gate_5
+4,precision,NL09,0.9991683991683992,cell_type_level_2,CD4+ T cell,final_gate_5
+5,recall,NL01,0.7250095748755266,cell_type_level_2,CD4+ T cell,final_gate_5
+6,recall,NL03,0.9452085181898846,cell_type_level_2,CD4+ T cell,final_gate_5
+7,recall,NL05,0.9616404454657946,cell_type_level_2,CD4+ T cell,final_gate_5
+8,recall,NL07,0.9711751662971175,cell_type_level_2,CD4+ T cell,final_gate_5
+9,recall,NL09,0.9666130329847143,cell_type_level_2,CD4+ T cell,final_gate_5
+10,f1score,NL01,0.8400266252496118,cell_type_level_2,CD4+ T cell,final_gate_5
+11,f1score,NL03,0.9709467927537881,cell_type_level_2,CD4+ T cell,final_gate_5
+12,f1score,NL05,0.9789454741767141,cell_type_level_2,CD4+ T cell,final_gate_5
+13,f1score,NL07,0.9846384413638066,cell_type_level_2,CD4+ T cell,final_gate_5
+14,f1score,NL09,0.9826211408709875,cell_type_level_2,CD4+ T cell,final_gate_5
+0,precision,NL01,0.928082191780822,cell_type_level_2,CD8+ T cell,final_gate_1
+1,precision,NL03,0.8938977460142936,cell_type_level_2,CD8+ T cell,final_gate_1
+2,precision,NL05,0.9588504245591117,cell_type_level_2,CD8+ T cell,final_gate_1
+3,precision,NL07,0.9675,cell_type_level_2,CD8+ T cell,final_gate_1
+4,precision,NL09,0.9374021909233177,cell_type_level_2,CD8+ T cell,final_gate_1
+5,recall,NL01,0.9606522509748316,cell_type_level_2,CD8+ T cell,final_gate_1
+6,recall,NL03,0.8672,cell_type_level_2,CD8+ T cell,final_gate_1
+7,recall,NL05,0.8785158587672053,cell_type_level_2,CD8+ T cell,final_gate_1
+8,recall,NL07,0.9063231850117096,cell_type_level_2,CD8+ T cell,final_gate_1
+9,recall,NL09,0.883480825958702,cell_type_level_2,CD8+ T cell,final_gate_1
+10,f1score,NL01,0.9440863960982407,cell_type_level_2,CD8+ T cell,final_gate_1
+11,f1score,NL03,0.8803465078505684,cell_type_level_2,CD8+ T cell,final_gate_1
+12,f1score,NL05,0.9169269206745785,cell_type_level_2,CD8+ T cell,final_gate_1
+13,f1score,NL07,0.9359129383313181,cell_type_level_2,CD8+ T cell,final_gate_1
+14,f1score,NL09,0.9096431283219438,cell_type_level_2,CD8+ T cell,final_gate_1
+0,precision,NL01,0.9865016872890888,cell_type_level_2,CD8+ T cell,final_gate_2
+1,precision,NL03,0.9956976029502151,cell_type_level_2,CD8+ T cell,final_gate_2
+2,precision,NL05,0.9774334792859549,cell_type_level_2,CD8+ T cell,final_gate_2
+3,precision,NL07,0.9947916666666666,cell_type_level_2,CD8+ T cell,final_gate_2
+4,precision,NL09,0.9476190476190476,cell_type_level_2,CD8+ T cell,final_gate_2
+5,recall,NL01,0.9326479971641262,cell_type_level_2,CD8+ T cell,final_gate_2
+6,recall,NL03,0.864,cell_type_level_2,CD8+ T cell,final_gate_2
+7,recall,NL05,0.8683423099940155,cell_type_level_2,CD8+ T cell,final_gate_2
+8,recall,NL07,0.8946135831381733,cell_type_level_2,CD8+ T cell,final_gate_2
+9,recall,NL09,0.8805309734513275,cell_type_level_2,CD8+ T cell,final_gate_2
+10,f1score,NL01,0.9588192419825072,cell_type_level_2,CD8+ T cell,final_gate_2
+11,f1score,NL03,0.925185608223872,cell_type_level_2,CD8+ T cell,final_gate_2
+12,f1score,NL05,0.919664078592933,cell_type_level_2,CD8+ T cell,final_gate_2
+13,f1score,NL07,0.9420468557336621,cell_type_level_2,CD8+ T cell,final_gate_2
+14,f1score,NL09,0.9128440366972477,cell_type_level_2,CD8+ T cell,final_gate_2
+0,precision,NL01,0.9866457187745483,cell_type_level_2,CD8+ T cell,final_gate_3
+1,precision,NL03,0.9962756052141527,cell_type_level_2,CD8+ T cell,final_gate_3
+2,precision,NL05,0.979381443298969,cell_type_level_2,CD8+ T cell,final_gate_3
+3,precision,NL07,0.9947643979057592,cell_type_level_2,CD8+ T cell,final_gate_3
+4,precision,NL09,0.952,cell_type_level_2,CD8+ T cell,final_gate_3
+5,recall,NL01,0.8904643743353421,cell_type_level_2,CD8+ T cell,final_gate_3
+6,recall,NL03,0.856,cell_type_level_2,CD8+ T cell,final_gate_3
+7,recall,NL05,0.8527827648114902,cell_type_level_2,CD8+ T cell,final_gate_3
+8,recall,NL07,0.8899297423887588,cell_type_level_2,CD8+ T cell,final_gate_3
+9,recall,NL09,0.8775811209439528,cell_type_level_2,CD8+ T cell,final_gate_3
+10,f1score,NL01,0.9360909260294391,cell_type_level_2,CD8+ T cell,final_gate_3
+11,f1score,NL03,0.9208261617900172,cell_type_level_2,CD8+ T cell,final_gate_3
+12,f1score,NL05,0.9117082533589251,cell_type_level_2,CD8+ T cell,final_gate_3
+13,f1score,NL07,0.9394313967861558,cell_type_level_2,CD8+ T cell,final_gate_3
+14,f1score,NL09,0.9132770529547198,cell_type_level_2,CD8+ T cell,final_gate_3
+0,precision,NL01,0.9866404715127701,cell_type_level_2,CD8+ T cell,final_gate_4
+1,precision,NL03,0.9962287869264613,cell_type_level_2,CD8+ T cell,final_gate_4
+2,precision,NL05,0.979288919571971,cell_type_level_2,CD8+ T cell,final_gate_4
+3,precision,NL07,0.9947643979057592,cell_type_level_2,CD8+ T cell,final_gate_4
+4,precision,NL09,0.9516129032258065,cell_type_level_2,CD8+ T cell,final_gate_4
+5,recall,NL01,0.8901098901098901,cell_type_level_2,CD8+ T cell,final_gate_4
+6,recall,NL03,0.8453333333333334,cell_type_level_2,CD8+ T cell,final_gate_4
+7,recall,NL05,0.8488928785158588,cell_type_level_2,CD8+ T cell,final_gate_4
+8,recall,NL07,0.8899297423887588,cell_type_level_2,CD8+ T cell,final_gate_4
+9,recall,NL09,0.8702064896755162,cell_type_level_2,CD8+ T cell,final_gate_4
+10,f1score,NL01,0.9358926574729779,cell_type_level_2,CD8+ T cell,final_gate_4
+11,f1score,NL03,0.914598961338719,cell_type_level_2,CD8+ T cell,final_gate_4
+12,f1score,NL05,0.9094406154832505,cell_type_level_2,CD8+ T cell,final_gate_4
+13,f1score,NL07,0.9394313967861558,cell_type_level_2,CD8+ T cell,final_gate_4
+14,f1score,NL09,0.9090909090909091,cell_type_level_2,CD8+ T cell,final_gate_4
+0,precision,NL01,0.9866404715127701,cell_type_level_2,CD8+ T cell,final_gate_5
+1,precision,NL03,0.9962264150943396,cell_type_level_2,CD8+ T cell,final_gate_5
+2,precision,NL05,0.979288919571971,cell_type_level_2,CD8+ T cell,final_gate_5
+3,precision,NL07,0.9947643979057592,cell_type_level_2,CD8+ T cell,final_gate_5
+4,precision,NL09,0.9516129032258065,cell_type_level_2,CD8+ T cell,final_gate_5
+5,recall,NL01,0.8901098901098901,cell_type_level_2,CD8+ T cell,final_gate_5
+6,recall,NL03,0.8448,cell_type_level_2,CD8+ T cell,final_gate_5
+7,recall,NL05,0.8488928785158588,cell_type_level_2,CD8+ T cell,final_gate_5
+8,recall,NL07,0.8899297423887588,cell_type_level_2,CD8+ T cell,final_gate_5
+9,recall,NL09,0.8702064896755162,cell_type_level_2,CD8+ T cell,final_gate_5
+10,f1score,NL01,0.9358926574729779,cell_type_level_2,CD8+ T cell,final_gate_5
+11,f1score,NL03,0.9142857142857144,cell_type_level_2,CD8+ T cell,final_gate_5
+12,f1score,NL05,0.9094406154832505,cell_type_level_2,CD8+ T cell,final_gate_5
+13,f1score,NL07,0.9394313967861558,cell_type_level_2,CD8+ T cell,final_gate_5
+14,f1score,NL09,0.9090909090909091,cell_type_level_2,CD8+ T cell,final_gate_5
+0,precision,NL01,0.6187538556446638,cell_type_level_2,NK cell,final_gate_1
+1,precision,NL03,0.7283950617283951,cell_type_level_2,NK cell,final_gate_1
+2,precision,NL05,0.5661648177496038,cell_type_level_2,NK cell,final_gate_1
+3,precision,NL07,0.6820175438596491,cell_type_level_2,NK cell,final_gate_1
+4,precision,NL09,0.7862426035502958,cell_type_level_2,NK cell,final_gate_1
+5,recall,NL01,0.8141233766233766,cell_type_level_2,NK cell,final_gate_1
+6,recall,NL03,0.8058194774346793,cell_type_level_2,NK cell,final_gate_1
+7,recall,NL05,0.8156392694063926,cell_type_level_2,NK cell,final_gate_1
+8,recall,NL07,0.929745889387145,cell_type_level_2,NK cell,final_gate_1
+9,recall,NL09,0.9407079646017699,cell_type_level_2,NK cell,final_gate_1
+10,f1score,NL01,0.7031195233087979,cell_type_level_2,NK cell,final_gate_1
+11,f1score,NL03,0.765153650972653,cell_type_level_2,NK cell,final_gate_1
+12,f1score,NL05,0.6683816651075771,cell_type_level_2,NK cell,final_gate_1
+13,f1score,NL07,0.7868437697659708,cell_type_level_2,NK cell,final_gate_1
+14,f1score,NL09,0.8565672844480258,cell_type_level_2,NK cell,final_gate_1
+0,precision,NL01,0.6837972876516774,cell_type_level_2,NK cell,final_gate_2
+1,precision,NL03,0.9612167300380228,cell_type_level_2,NK cell,final_gate_2
+2,precision,NL05,0.8072590738423029,cell_type_level_2,NK cell,final_gate_2
+3,precision,NL07,0.9812606473594548,cell_type_level_2,NK cell,final_gate_2
+4,precision,NL09,0.9123809523809524,cell_type_level_2,NK cell,final_gate_2
+5,recall,NL01,0.7775974025974026,cell_type_level_2,NK cell,final_gate_2
+6,recall,NL03,0.7505938242280285,cell_type_level_2,NK cell,final_gate_2
+7,recall,NL05,0.7363013698630136,cell_type_level_2,NK cell,final_gate_2
+8,recall,NL07,0.8609865470852018,cell_type_level_2,NK cell,final_gate_2
+9,recall,NL09,0.8477876106194691,cell_type_level_2,NK cell,final_gate_2
+10,f1score,NL01,0.7276870489935435,cell_type_level_2,NK cell,final_gate_2
+11,f1score,NL03,0.8429476492164055,cell_type_level_2,NK cell,final_gate_2
+12,f1score,NL05,0.7701492537313432,cell_type_level_2,NK cell,final_gate_2
+13,f1score,NL07,0.9171974522292994,cell_type_level_2,NK cell,final_gate_2
+14,f1score,NL09,0.8788990825688073,cell_type_level_2,NK cell,final_gate_2
+0,precision,NL01,0.9989561586638831,cell_type_level_2,NK cell,final_gate_3
+1,precision,NL03,1.0,cell_type_level_2,NK cell,final_gate_3
+2,precision,NL05,0.9992229992229992,cell_type_level_2,NK cell,final_gate_3
+3,precision,NL07,1.0,cell_type_level_2,NK cell,final_gate_3
+4,precision,NL09,1.0,cell_type_level_2,NK cell,final_gate_3
+5,recall,NL01,0.7767857142857143,cell_type_level_2,NK cell,final_gate_3
+6,recall,NL03,0.747624703087886,cell_type_level_2,NK cell,final_gate_3
+7,recall,NL05,0.7340182648401826,cell_type_level_2,NK cell,final_gate_3
+8,recall,NL07,0.8579970104633782,cell_type_level_2,NK cell,final_gate_3
+9,recall,NL09,0.8433628318584071,cell_type_level_2,NK cell,final_gate_3
+10,f1score,NL01,0.873972602739726,cell_type_level_2,NK cell,final_gate_3
+11,f1score,NL03,0.8555895344886171,cell_type_level_2,NK cell,final_gate_3
+12,f1score,NL05,0.8463310299440605,cell_type_level_2,NK cell,final_gate_3
+13,f1score,NL07,0.9235720032180209,cell_type_level_2,NK cell,final_gate_3
+14,f1score,NL09,0.9150264042246761,cell_type_level_2,NK cell,final_gate_3
+0,precision,NL01,1.0,cell_type_level_2,NK cell,final_gate_4
+1,precision,NL03,1.0,cell_type_level_2,NK cell,final_gate_4
+2,precision,NL05,0.9992125984251968,cell_type_level_2,NK cell,final_gate_4
+3,precision,NL07,1.0,cell_type_level_2,NK cell,final_gate_4
+4,precision,NL09,1.0,cell_type_level_2,NK cell,final_gate_4
+5,recall,NL01,0.7573051948051948,cell_type_level_2,NK cell,final_gate_4
+6,recall,NL03,0.732185273159145,cell_type_level_2,NK cell,final_gate_4
+7,recall,NL05,0.7243150684931506,cell_type_level_2,NK cell,final_gate_4
+8,recall,NL07,0.8460388639760837,cell_type_level_2,NK cell,final_gate_4
+9,recall,NL09,0.8309734513274336,cell_type_level_2,NK cell,final_gate_4
+10,f1score,NL01,0.8618937644341801,cell_type_level_2,NK cell,final_gate_4
+11,f1score,NL03,0.8453890983887556,cell_type_level_2,NK cell,final_gate_4
+12,f1score,NL05,0.8398411647915287,cell_type_level_2,NK cell,final_gate_4
+13,f1score,NL07,0.9165991902834009,cell_type_level_2,NK cell,final_gate_4
+14,f1score,NL09,0.9076848719188013,cell_type_level_2,NK cell,final_gate_4
+0,precision,NL01,1.0,cell_type_level_2,NK cell,final_gate_5
+1,precision,NL03,1.0,cell_type_level_2,NK cell,final_gate_5
+2,precision,NL05,0.9992082343626286,cell_type_level_2,NK cell,final_gate_5
+3,precision,NL07,1.0,cell_type_level_2,NK cell,final_gate_5
+4,precision,NL09,1.0,cell_type_level_2,NK cell,final_gate_5
+5,recall,NL01,0.7556818181818182,cell_type_level_2,NK cell,final_gate_5
+6,recall,NL03,0.7309976247030879,cell_type_level_2,NK cell,final_gate_5
+7,recall,NL05,0.7203196347031964,cell_type_level_2,NK cell,final_gate_5
+8,recall,NL07,0.8460388639760837,cell_type_level_2,NK cell,final_gate_5
+9,recall,NL09,0.8283185840707965,cell_type_level_2,NK cell,final_gate_5
+10,f1score,NL01,0.86084142394822,cell_type_level_2,NK cell,final_gate_5
+11,f1score,NL03,0.8445969125214409,cell_type_level_2,NK cell,final_gate_5
+12,f1score,NL05,0.8371475953565507,cell_type_level_2,NK cell,final_gate_5
+13,f1score,NL07,0.9165991902834009,cell_type_level_2,NK cell,final_gate_5
+14,f1score,NL09,0.9060987415295256,cell_type_level_2,NK cell,final_gate_5
+0,precision,NL01,0.1481149012567325,cell_type_level_2,T cell,final_gate_1
+1,precision,NL03,0.04149159663865546,cell_type_level_2,T cell,final_gate_1
+2,precision,NL05,0.22292809702570027,cell_type_level_2,T cell,final_gate_1
+3,precision,NL07,0.019801980198019802,cell_type_level_2,T cell,final_gate_1
+4,precision,NL09,0.06283422459893048,cell_type_level_2,T cell,final_gate_1
+5,recall,NL01,0.4755043227665706,cell_type_level_2,T cell,final_gate_1
+6,recall,NL03,0.4114583333333333,cell_type_level_2,T cell,final_gate_1
+7,recall,NL05,0.5774121166791324,cell_type_level_2,T cell,final_gate_1
+8,recall,NL07,0.38095238095238093,cell_type_level_2,T cell,final_gate_1
+9,recall,NL09,0.27325581395348836,cell_type_level_2,T cell,final_gate_1
+10,f1score,NL01,0.22587268993839835,cell_type_level_2,T cell,final_gate_1
+11,f1score,NL03,0.07538167938931296,cell_type_level_2,T cell,final_gate_1
+12,f1score,NL05,0.32166666666666666,cell_type_level_2,T cell,final_gate_1
+13,f1score,NL07,0.037647058823529415,cell_type_level_2,T cell,final_gate_1
+14,f1score,NL09,0.10217391304347827,cell_type_level_2,T cell,final_gate_1
+0,precision,NL01,0.22717149220489977,cell_type_level_2,T cell,final_gate_2
+1,precision,NL03,0.08634538152610442,cell_type_level_2,T cell,final_gate_2
+2,precision,NL05,0.4235382308845577,cell_type_level_2,T cell,final_gate_2
+3,precision,NL07,0.0784313725490196,cell_type_level_2,T cell,final_gate_2
+4,precision,NL09,0.26666666666666666,cell_type_level_2,T cell,final_gate_2
+5,recall,NL01,0.4409221902017291,cell_type_level_2,T cell,final_gate_2
+6,recall,NL03,0.22395833333333334,cell_type_level_2,T cell,final_gate_2
+7,recall,NL05,0.4225878833208676,cell_type_level_2,T cell,final_gate_2
+8,recall,NL07,0.19047619047619047,cell_type_level_2,T cell,final_gate_2
+9,recall,NL09,0.20930232558139536,cell_type_level_2,T cell,final_gate_2
+10,f1score,NL01,0.29985301322880936,cell_type_level_2,T cell,final_gate_2
+11,f1score,NL03,0.1246376811594203,cell_type_level_2,T cell,final_gate_2
+12,f1score,NL05,0.42306252339947586,cell_type_level_2,T cell,final_gate_2
+13,f1score,NL07,0.1111111111111111,cell_type_level_2,T cell,final_gate_2
+14,f1score,NL09,0.23452768729641693,cell_type_level_2,T cell,final_gate_2
+0,precision,NL01,0.5307557117750439,cell_type_level_2,T cell,final_gate_3
+1,precision,NL03,0.13815789473684212,cell_type_level_2,T cell,final_gate_3
+2,precision,NL05,0.6219239373601789,cell_type_level_2,T cell,final_gate_3
+3,precision,NL07,0.0967741935483871,cell_type_level_2,T cell,final_gate_3
+4,precision,NL09,0.3953488372093023,cell_type_level_2,T cell,final_gate_3
+5,recall,NL01,0.43515850144092216,cell_type_level_2,T cell,final_gate_3
+6,recall,NL03,0.21875,cell_type_level_2,T cell,final_gate_3
+7,recall,NL05,0.4158563949139865,cell_type_level_2,T cell,final_gate_3
+8,recall,NL07,0.14285714285714285,cell_type_level_2,T cell,final_gate_3
+9,recall,NL09,0.19767441860465115,cell_type_level_2,T cell,final_gate_3
+10,f1score,NL01,0.47822644497228817,cell_type_level_2,T cell,final_gate_3
+11,f1score,NL03,0.1693548387096774,cell_type_level_2,T cell,final_gate_3
+12,f1score,NL05,0.4984311967727476,cell_type_level_2,T cell,final_gate_3
+13,f1score,NL07,0.11538461538461538,cell_type_level_2,T cell,final_gate_3
+14,f1score,NL09,0.2635658914728682,cell_type_level_2,T cell,final_gate_3
+0,precision,NL01,0.5901287553648069,cell_type_level_2,T cell,final_gate_4
+1,precision,NL03,0.21768707482993196,cell_type_level_2,T cell,final_gate_4
+2,precision,NL05,0.6729776247848537,cell_type_level_2,T cell,final_gate_4
+3,precision,NL07,0.1111111111111111,cell_type_level_2,T cell,final_gate_4
+4,precision,NL09,0.5714285714285714,cell_type_level_2,T cell,final_gate_4
+5,recall,NL01,0.3962536023054755,cell_type_level_2,T cell,final_gate_4
+6,recall,NL03,0.16666666666666666,cell_type_level_2,T cell,final_gate_4
+7,recall,NL05,0.2924457741211668,cell_type_level_2,T cell,final_gate_4
+8,recall,NL07,0.09523809523809523,cell_type_level_2,T cell,final_gate_4
+9,recall,NL09,0.16279069767441862,cell_type_level_2,T cell,final_gate_4
+10,f1score,NL01,0.4741379310344828,cell_type_level_2,T cell,final_gate_4
+11,f1score,NL03,0.18879056047197637,cell_type_level_2,T cell,final_gate_4
+12,f1score,NL05,0.40771637122002086,cell_type_level_2,T cell,final_gate_4
+13,f1score,NL07,0.10256410256410256,cell_type_level_2,T cell,final_gate_4
+14,f1score,NL09,0.25339366515837103,cell_type_level_2,T cell,final_gate_4
+0,precision,NL01,0.9316546762589928,cell_type_level_2,T cell,final_gate_5
+1,precision,NL03,0.34782608695652173,cell_type_level_2,T cell,final_gate_5
+2,precision,NL05,0.7387914230019493,cell_type_level_2,T cell,final_gate_5
+3,precision,NL07,0.18181818181818182,cell_type_level_2,T cell,final_gate_5
+4,precision,NL09,0.6842105263157895,cell_type_level_2,T cell,final_gate_5
+5,recall,NL01,0.37319884726224783,cell_type_level_2,T cell,final_gate_5
+6,recall,NL03,0.16666666666666666,cell_type_level_2,T cell,final_gate_5
+7,recall,NL05,0.28347045624532535,cell_type_level_2,T cell,final_gate_5
+8,recall,NL07,0.09523809523809523,cell_type_level_2,T cell,final_gate_5
+9,recall,NL09,0.1511627906976744,cell_type_level_2,T cell,final_gate_5
+10,f1score,NL01,0.5329218106995884,cell_type_level_2,T cell,final_gate_5
+11,f1score,NL03,0.22535211267605634,cell_type_level_2,T cell,final_gate_5
+12,f1score,NL05,0.40972972972972976,cell_type_level_2,T cell,final_gate_5
+13,f1score,NL07,0.125,cell_type_level_2,T cell,final_gate_5
+14,f1score,NL09,0.24761904761904763,cell_type_level_2,T cell,final_gate_5
+0,precision,NL01,0.1147011308562197,cell_type_level_2,cDC,final_gate_1
+1,precision,NL03,0.1420345489443378,cell_type_level_2,cDC,final_gate_1
+2,precision,NL05,0.18586387434554974,cell_type_level_2,cDC,final_gate_1
+3,precision,NL07,0.14814814814814814,cell_type_level_2,cDC,final_gate_1
+4,precision,NL09,0.23053435114503817,cell_type_level_2,cDC,final_gate_1
+5,recall,NL01,0.4863013698630137,cell_type_level_2,cDC,final_gate_1
+6,recall,NL03,0.6324786324786325,cell_type_level_2,cDC,final_gate_1
+7,recall,NL05,0.4176470588235294,cell_type_level_2,cDC,final_gate_1
+8,recall,NL07,0.8205128205128205,cell_type_level_2,cDC,final_gate_1
+9,recall,NL09,0.7905759162303665,cell_type_level_2,cDC,final_gate_1
+10,f1score,NL01,0.18562091503267972,cell_type_level_2,cDC,final_gate_1
+11,f1score,NL03,0.23197492163009406,cell_type_level_2,cDC,final_gate_1
+12,f1score,NL05,0.25724637681159424,cell_type_level_2,cDC,final_gate_1
+13,f1score,NL07,0.25098039215686274,cell_type_level_2,cDC,final_gate_1
+14,f1score,NL09,0.35697399527186763,cell_type_level_2,cDC,final_gate_1
+0,precision,NL01,0.918918918918919,cell_type_level_2,cDC,final_gate_2
+1,precision,NL03,0.7640449438202247,cell_type_level_2,cDC,final_gate_2
+2,precision,NL05,0.788235294117647,cell_type_level_2,cDC,final_gate_2
+3,precision,NL07,0.7631578947368421,cell_type_level_2,cDC,final_gate_2
+4,precision,NL09,0.863905325443787,cell_type_level_2,cDC,final_gate_2
+5,recall,NL01,0.4657534246575342,cell_type_level_2,cDC,final_gate_2
+6,recall,NL03,0.5811965811965812,cell_type_level_2,cDC,final_gate_2
+7,recall,NL05,0.3941176470588235,cell_type_level_2,cDC,final_gate_2
+8,recall,NL07,0.7435897435897436,cell_type_level_2,cDC,final_gate_2
+9,recall,NL09,0.7643979057591623,cell_type_level_2,cDC,final_gate_2
+10,f1score,NL01,0.6181818181818182,cell_type_level_2,cDC,final_gate_2
+11,f1score,NL03,0.6601941747572816,cell_type_level_2,cDC,final_gate_2
+12,f1score,NL05,0.5254901960784313,cell_type_level_2,cDC,final_gate_2
+13,f1score,NL07,0.7532467532467534,cell_type_level_2,cDC,final_gate_2
+14,f1score,NL09,0.8111111111111111,cell_type_level_2,cDC,final_gate_2
+0,precision,NL01,0.9710144927536232,cell_type_level_2,cDC,final_gate_3
+1,precision,NL03,0.918918918918919,cell_type_level_2,cDC,final_gate_3
+2,precision,NL05,0.9705882352941176,cell_type_level_2,cDC,final_gate_3
+3,precision,NL07,0.90625,cell_type_level_2,cDC,final_gate_3
+4,precision,NL09,0.9731543624161074,cell_type_level_2,cDC,final_gate_3
+5,recall,NL01,0.4589041095890411,cell_type_level_2,cDC,final_gate_3
+6,recall,NL03,0.5811965811965812,cell_type_level_2,cDC,final_gate_3
+7,recall,NL05,0.38823529411764707,cell_type_level_2,cDC,final_gate_3
+8,recall,NL07,0.7435897435897436,cell_type_level_2,cDC,final_gate_3
+9,recall,NL09,0.7591623036649214,cell_type_level_2,cDC,final_gate_3
+10,f1score,NL01,0.6232558139534884,cell_type_level_2,cDC,final_gate_3
+11,f1score,NL03,0.712041884816754,cell_type_level_2,cDC,final_gate_3
+12,f1score,NL05,0.5546218487394958,cell_type_level_2,cDC,final_gate_3
+13,f1score,NL07,0.8169014084507042,cell_type_level_2,cDC,final_gate_3
+14,f1score,NL09,0.8529411764705881,cell_type_level_2,cDC,final_gate_3
+0,precision,NL01,0.9705882352941176,cell_type_level_2,cDC,final_gate_4
+1,precision,NL03,1.0,cell_type_level_2,cDC,final_gate_4
+2,precision,NL05,0.9850746268656716,cell_type_level_2,cDC,final_gate_4
+3,precision,NL07,1.0,cell_type_level_2,cDC,final_gate_4
+4,precision,NL09,1.0,cell_type_level_2,cDC,final_gate_4
+5,recall,NL01,0.4520547945205479,cell_type_level_2,cDC,final_gate_4
+6,recall,NL03,0.5726495726495726,cell_type_level_2,cDC,final_gate_4
+7,recall,NL05,0.38823529411764707,cell_type_level_2,cDC,final_gate_4
+8,recall,NL07,0.7435897435897436,cell_type_level_2,cDC,final_gate_4
+9,recall,NL09,0.7382198952879581,cell_type_level_2,cDC,final_gate_4
+10,f1score,NL01,0.616822429906542,cell_type_level_2,cDC,final_gate_4
+11,f1score,NL03,0.7282608695652174,cell_type_level_2,cDC,final_gate_4
+12,f1score,NL05,0.5569620253164558,cell_type_level_2,cDC,final_gate_4
+13,f1score,NL07,0.8529411764705882,cell_type_level_2,cDC,final_gate_4
+14,f1score,NL09,0.8493975903614458,cell_type_level_2,cDC,final_gate_4
+0,precision,NL01,0.984375,cell_type_level_2,cDC,final_gate_5
+1,precision,NL03,1.0,cell_type_level_2,cDC,final_gate_5
+2,precision,NL05,1.0,cell_type_level_2,cDC,final_gate_5
+3,precision,NL07,1.0,cell_type_level_2,cDC,final_gate_5
+4,precision,NL09,1.0,cell_type_level_2,cDC,final_gate_5
+5,recall,NL01,0.4315068493150685,cell_type_level_2,cDC,final_gate_5
+6,recall,NL03,0.5726495726495726,cell_type_level_2,cDC,final_gate_5
+7,recall,NL05,0.3764705882352941,cell_type_level_2,cDC,final_gate_5
+8,recall,NL07,0.7435897435897436,cell_type_level_2,cDC,final_gate_5
+9,recall,NL09,0.7277486910994765,cell_type_level_2,cDC,final_gate_5
+10,f1score,NL01,0.6000000000000001,cell_type_level_2,cDC,final_gate_5
+11,f1score,NL03,0.7282608695652174,cell_type_level_2,cDC,final_gate_5
+12,f1score,NL05,0.547008547008547,cell_type_level_2,cDC,final_gate_5
+13,f1score,NL07,0.8529411764705882,cell_type_level_2,cDC,final_gate_5
+14,f1score,NL09,0.8424242424242425,cell_type_level_2,cDC,final_gate_5
+0,precision,NL01,0.9285714285714286,cell_type_level_2,pDC,final_gate_1
+1,precision,NL03,0.7142857142857143,cell_type_level_2,pDC,final_gate_1
+2,precision,NL05,0.8888888888888888,cell_type_level_2,pDC,final_gate_1
+3,precision,NL07,0.75,cell_type_level_2,pDC,final_gate_1
+4,precision,NL09,0.45454545454545453,cell_type_level_2,pDC,final_gate_1
+5,recall,NL01,0.5652173913043478,cell_type_level_2,pDC,final_gate_1
+6,recall,NL03,0.6896551724137931,cell_type_level_2,pDC,final_gate_1
+7,recall,NL05,0.6511627906976745,cell_type_level_2,pDC,final_gate_1
+8,recall,NL07,0.5,cell_type_level_2,pDC,final_gate_1
+9,recall,NL09,0.38461538461538464,cell_type_level_2,pDC,final_gate_1
+10,f1score,NL01,0.7027027027027025,cell_type_level_2,pDC,final_gate_1
+11,f1score,NL03,0.7017543859649122,cell_type_level_2,pDC,final_gate_1
+12,f1score,NL05,0.7516778523489932,cell_type_level_2,pDC,final_gate_1
+13,f1score,NL07,0.6,cell_type_level_2,pDC,final_gate_1
+14,f1score,NL09,0.41666666666666663,cell_type_level_2,pDC,final_gate_1
+0,precision,NL01,1.0,cell_type_level_2,pDC,final_gate_2
+1,precision,NL03,1.0,cell_type_level_2,pDC,final_gate_2
+2,precision,NL05,1.0,cell_type_level_2,pDC,final_gate_2
+3,precision,NL07,1.0,cell_type_level_2,pDC,final_gate_2
+4,precision,NL09,0.8333333333333334,cell_type_level_2,pDC,final_gate_2
+5,recall,NL01,0.5652173913043478,cell_type_level_2,pDC,final_gate_2
+6,recall,NL03,0.6896551724137931,cell_type_level_2,pDC,final_gate_2
+7,recall,NL05,0.627906976744186,cell_type_level_2,pDC,final_gate_2
+8,recall,NL07,0.5,cell_type_level_2,pDC,final_gate_2
+9,recall,NL09,0.38461538461538464,cell_type_level_2,pDC,final_gate_2
+10,f1score,NL01,0.7222222222222222,cell_type_level_2,pDC,final_gate_2
+11,f1score,NL03,0.8163265306122449,cell_type_level_2,pDC,final_gate_2
+12,f1score,NL05,0.7714285714285715,cell_type_level_2,pDC,final_gate_2
+13,f1score,NL07,0.6666666666666666,cell_type_level_2,pDC,final_gate_2
+14,f1score,NL09,0.5263157894736842,cell_type_level_2,pDC,final_gate_2
+0,precision,NL01,1.0,cell_type_level_2,pDC,final_gate_3
+1,precision,NL03,1.0,cell_type_level_2,pDC,final_gate_3
+2,precision,NL05,1.0,cell_type_level_2,pDC,final_gate_3
+3,precision,NL07,1.0,cell_type_level_2,pDC,final_gate_3
+4,precision,NL09,0.8,cell_type_level_2,pDC,final_gate_3
+5,recall,NL01,0.5652173913043478,cell_type_level_2,pDC,final_gate_3
+6,recall,NL03,0.6896551724137931,cell_type_level_2,pDC,final_gate_3
+7,recall,NL05,0.6046511627906976,cell_type_level_2,pDC,final_gate_3
+8,recall,NL07,0.5,cell_type_level_2,pDC,final_gate_3
+9,recall,NL09,0.3076923076923077,cell_type_level_2,pDC,final_gate_3
+10,f1score,NL01,0.7222222222222222,cell_type_level_2,pDC,final_gate_3
+11,f1score,NL03,0.8163265306122449,cell_type_level_2,pDC,final_gate_3
+12,f1score,NL05,0.7536231884057971,cell_type_level_2,pDC,final_gate_3
+13,f1score,NL07,0.6666666666666666,cell_type_level_2,pDC,final_gate_3
+14,f1score,NL09,0.4444444444444444,cell_type_level_2,pDC,final_gate_3
+0,precision,NL01,1.0,cell_type_level_2,pDC,final_gate_4
+1,precision,NL03,1.0,cell_type_level_2,pDC,final_gate_4
+2,precision,NL05,1.0,cell_type_level_2,pDC,final_gate_4
+3,precision,NL07,1.0,cell_type_level_2,pDC,final_gate_4
+4,precision,NL09,0.75,cell_type_level_2,pDC,final_gate_4
+5,recall,NL01,0.5652173913043478,cell_type_level_2,pDC,final_gate_4
+6,recall,NL03,0.6896551724137931,cell_type_level_2,pDC,final_gate_4
+7,recall,NL05,0.6046511627906976,cell_type_level_2,pDC,final_gate_4
+8,recall,NL07,0.5,cell_type_level_2,pDC,final_gate_4
+9,recall,NL09,0.23076923076923078,cell_type_level_2,pDC,final_gate_4
+10,f1score,NL01,0.7222222222222222,cell_type_level_2,pDC,final_gate_4
+11,f1score,NL03,0.8163265306122449,cell_type_level_2,pDC,final_gate_4
+12,f1score,NL05,0.7536231884057971,cell_type_level_2,pDC,final_gate_4
+13,f1score,NL07,0.6666666666666666,cell_type_level_2,pDC,final_gate_4
+14,f1score,NL09,0.3529411764705882,cell_type_level_2,pDC,final_gate_4
+0,precision,NL01,1.0,cell_type_level_2,pDC,final_gate_5
+1,precision,NL03,1.0,cell_type_level_2,pDC,final_gate_5
+2,precision,NL05,1.0,cell_type_level_2,pDC,final_gate_5
+3,precision,NL07,1.0,cell_type_level_2,pDC,final_gate_5
+4,precision,NL09,0.75,cell_type_level_2,pDC,final_gate_5
+5,recall,NL01,0.5652173913043478,cell_type_level_2,pDC,final_gate_5
+6,recall,NL03,0.6896551724137931,cell_type_level_2,pDC,final_gate_5
+7,recall,NL05,0.6046511627906976,cell_type_level_2,pDC,final_gate_5
+8,recall,NL07,0.5,cell_type_level_2,pDC,final_gate_5
+9,recall,NL09,0.23076923076923078,cell_type_level_2,pDC,final_gate_5
+10,f1score,NL01,0.7222222222222222,cell_type_level_2,pDC,final_gate_5
+11,f1score,NL03,0.8163265306122449,cell_type_level_2,pDC,final_gate_5
+12,f1score,NL05,0.7536231884057971,cell_type_level_2,pDC,final_gate_5
+13,f1score,NL07,0.6666666666666666,cell_type_level_2,pDC,final_gate_5
+14,f1score,NL09,0.3529411764705882,cell_type_level_2,pDC,final_gate_5
+0,precision,NL01,0.9246849062403935,cell_type_level_2,Classical monocyte,final_gate_1
+1,precision,NL03,0.9398058252427185,cell_type_level_2,Classical monocyte,final_gate_1
+2,precision,NL05,0.9536163522012578,cell_type_level_2,Classical monocyte,final_gate_1
+3,precision,NL07,0.9588336192109777,cell_type_level_2,Classical monocyte,final_gate_1
+4,precision,NL09,0.9465357337697763,cell_type_level_2,Classical monocyte,final_gate_1
+5,recall,NL01,0.991430454845089,cell_type_level_2,Classical monocyte,final_gate_1
+6,recall,NL03,0.9907881269191402,cell_type_level_2,Classical monocyte,final_gate_1
+7,recall,NL05,0.9778315195485692,cell_type_level_2,Classical monocyte,final_gate_1
+8,recall,NL07,0.978984238178634,cell_type_level_2,Classical monocyte,final_gate_1
+9,recall,NL09,0.9863558840250142,cell_type_level_2,Classical monocyte,final_gate_1
+10,f1score,NL01,0.956895180531255,cell_type_level_2,Classical monocyte,final_gate_1
+11,f1score,NL03,0.9646238166417539,cell_type_level_2,Classical monocyte,final_gate_1
+12,f1score,NL05,0.9655721393034826,cell_type_level_2,Classical monocyte,final_gate_1
+13,f1score,NL07,0.9688041594454073,cell_type_level_2,Classical monocyte,final_gate_1
+14,f1score,NL09,0.9660356347438752,cell_type_level_2,Classical monocyte,final_gate_1
+0,precision,NL01,0.9610180412371134,cell_type_level_2,Classical monocyte,final_gate_2
+1,precision,NL03,0.9881748071979435,cell_type_level_2,Classical monocyte,final_gate_2
+2,precision,NL05,0.9828990228013029,cell_type_level_2,Classical monocyte,final_gate_2
+3,precision,NL07,0.9893428063943162,cell_type_level_2,Classical monocyte,final_gate_2
+4,precision,NL09,0.9868496283590623,cell_type_level_2,Classical monocyte,final_gate_2
+5,recall,NL01,0.9831905075807514,cell_type_level_2,Classical monocyte,final_gate_2
+6,recall,NL03,0.9836233367451381,cell_type_level_2,Classical monocyte,final_gate_2
+7,recall,NL05,0.9729947601773479,cell_type_level_2,Classical monocyte,final_gate_2
+8,recall,NL07,0.9754816112084063,cell_type_level_2,Classical monocyte,final_gate_2
+9,recall,NL09,0.9812393405343945,cell_type_level_2,Classical monocyte,final_gate_2
+10,f1score,NL01,0.9719778429455849,cell_type_level_2,Classical monocyte,final_gate_2
+11,f1score,NL03,0.9858938189279302,cell_type_level_2,Classical monocyte,final_gate_2
+12,f1score,NL05,0.9779218148673282,cell_type_level_2,Classical monocyte,final_gate_2
+13,f1score,NL07,0.982363315696649,cell_type_level_2,Classical monocyte,final_gate_2
+14,f1score,NL09,0.9840364880273661,cell_type_level_2,Classical monocyte,final_gate_2
+0,precision,NL01,0.962508080155139,cell_type_level_2,Classical monocyte,final_gate_3
+1,precision,NL03,0.9886831275720165,cell_type_level_2,Classical monocyte,final_gate_3
+2,precision,NL05,0.9836867862969005,cell_type_level_2,Classical monocyte,final_gate_3
+3,precision,NL07,0.9893238434163701,cell_type_level_2,Classical monocyte,final_gate_3
+4,precision,NL09,0.9868421052631579,cell_type_level_2,Classical monocyte,final_gate_3
+5,recall,NL01,0.981542518127884,cell_type_level_2,Classical monocyte,final_gate_3
+6,recall,NL03,0.9836233367451381,cell_type_level_2,Classical monocyte,final_gate_3
+7,recall,NL05,0.9721886336154776,cell_type_level_2,Classical monocyte,final_gate_3
+8,recall,NL07,0.9737302977232924,cell_type_level_2,Classical monocyte,final_gate_3
+9,recall,NL09,0.9806708357021034,cell_type_level_2,Classical monocyte,final_gate_3
+10,f1score,NL01,0.9719321148825066,cell_type_level_2,Classical monocyte,final_gate_3
+11,f1score,NL03,0.9861467419189328,cell_type_level_2,Classical monocyte,final_gate_3
+12,f1score,NL05,0.9779039124265154,cell_type_level_2,Classical monocyte,final_gate_3
+13,f1score,NL07,0.9814651368049426,cell_type_level_2,Classical monocyte,final_gate_3
+14,f1score,NL09,0.9837467921300256,cell_type_level_2,Classical monocyte,final_gate_3
+0,precision,NL01,0.962771123340887,cell_type_level_2,Classical monocyte,final_gate_4
+1,precision,NL03,0.9886831275720165,cell_type_level_2,Classical monocyte,final_gate_4
+2,precision,NL05,0.9836867862969005,cell_type_level_2,Classical monocyte,final_gate_4
+3,precision,NL07,0.9893238434163701,cell_type_level_2,Classical monocyte,final_gate_4
+4,precision,NL09,0.9868421052631579,cell_type_level_2,Classical monocyte,final_gate_4
+5,recall,NL01,0.98022412656559,cell_type_level_2,Classical monocyte,final_gate_4
+6,recall,NL03,0.9836233367451381,cell_type_level_2,Classical monocyte,final_gate_4
+7,recall,NL05,0.9721886336154776,cell_type_level_2,Classical monocyte,final_gate_4
+8,recall,NL07,0.9737302977232924,cell_type_level_2,Classical monocyte,final_gate_4
+9,recall,NL09,0.9806708357021034,cell_type_level_2,Classical monocyte,final_gate_4
+10,f1score,NL01,0.9714192389351625,cell_type_level_2,Classical monocyte,final_gate_4
+11,f1score,NL03,0.9861467419189328,cell_type_level_2,Classical monocyte,final_gate_4
+12,f1score,NL05,0.9779039124265154,cell_type_level_2,Classical monocyte,final_gate_4
+13,f1score,NL07,0.9814651368049426,cell_type_level_2,Classical monocyte,final_gate_4
+14,f1score,NL09,0.9837467921300256,cell_type_level_2,Classical monocyte,final_gate_4
+0,precision,NL01,0.962771123340887,cell_type_level_2,Classical monocyte,final_gate_5
+1,precision,NL03,0.9886714727085479,cell_type_level_2,Classical monocyte,final_gate_5
+2,precision,NL05,0.9836734693877551,cell_type_level_2,Classical monocyte,final_gate_5
+3,precision,NL07,0.9893238434163701,cell_type_level_2,Classical monocyte,final_gate_5
+4,precision,NL09,0.9868421052631579,cell_type_level_2,Classical monocyte,final_gate_5
+5,recall,NL01,0.98022412656559,cell_type_level_2,Classical monocyte,final_gate_5
+6,recall,NL03,0.9825997952917093,cell_type_level_2,Classical monocyte,final_gate_5
+7,recall,NL05,0.9713825070536074,cell_type_level_2,Classical monocyte,final_gate_5
+8,recall,NL07,0.9737302977232924,cell_type_level_2,Classical monocyte,final_gate_5
+9,recall,NL09,0.9806708357021034,cell_type_level_2,Classical monocyte,final_gate_5
+10,f1score,NL01,0.9714192389351625,cell_type_level_2,Classical monocyte,final_gate_5
+11,f1score,NL03,0.9856262833675564,cell_type_level_2,Classical monocyte,final_gate_5
+12,f1score,NL05,0.977489353072399,cell_type_level_2,Classical monocyte,final_gate_5
+13,f1score,NL07,0.9814651368049426,cell_type_level_2,Classical monocyte,final_gate_5
+14,f1score,NL09,0.9837467921300256,cell_type_level_2,Classical monocyte,final_gate_5
+0,precision,NL01,0.45364238410596025,cell_type_level_2,Intermediate monocyte,final_gate_1
+1,precision,NL03,0.25,cell_type_level_2,Intermediate monocyte,final_gate_1
+2,precision,NL05,0.30526315789473685,cell_type_level_2,Intermediate monocyte,final_gate_1
+3,precision,NL07,0.42857142857142855,cell_type_level_2,Intermediate monocyte,final_gate_1
+4,precision,NL09,0.19161676646706588,cell_type_level_2,Intermediate monocyte,final_gate_1
+5,recall,NL01,0.5169811320754717,cell_type_level_2,Intermediate monocyte,final_gate_1
+6,recall,NL03,0.45081967213114754,cell_type_level_2,Intermediate monocyte,final_gate_1
+7,recall,NL05,0.3333333333333333,cell_type_level_2,Intermediate monocyte,final_gate_1
+8,recall,NL07,0.42857142857142855,cell_type_level_2,Intermediate monocyte,final_gate_1
+9,recall,NL09,0.3950617283950617,cell_type_level_2,Intermediate monocyte,final_gate_1
+10,f1score,NL01,0.48324514991181655,cell_type_level_2,Intermediate monocyte,final_gate_1
+11,f1score,NL03,0.32163742690058483,cell_type_level_2,Intermediate monocyte,final_gate_1
+12,f1score,NL05,0.31868131868131866,cell_type_level_2,Intermediate monocyte,final_gate_1
+13,f1score,NL07,0.42857142857142855,cell_type_level_2,Intermediate monocyte,final_gate_1
+14,f1score,NL09,0.2580645161290323,cell_type_level_2,Intermediate monocyte,final_gate_1
+0,precision,NL01,0.5990566037735849,cell_type_level_2,Intermediate monocyte,final_gate_2
+1,precision,NL03,0.7611940298507462,cell_type_level_2,Intermediate monocyte,final_gate_2
+2,precision,NL05,0.6363636363636364,cell_type_level_2,Intermediate monocyte,final_gate_2
+3,precision,NL07,0.7272727272727273,cell_type_level_2,Intermediate monocyte,final_gate_2
+4,precision,NL09,0.5909090909090909,cell_type_level_2,Intermediate monocyte,final_gate_2
+5,recall,NL01,0.47924528301886793,cell_type_level_2,Intermediate monocyte,final_gate_2
+6,recall,NL03,0.4180327868852459,cell_type_level_2,Intermediate monocyte,final_gate_2
+7,recall,NL05,0.3218390804597701,cell_type_level_2,Intermediate monocyte,final_gate_2
+8,recall,NL07,0.38095238095238093,cell_type_level_2,Intermediate monocyte,final_gate_2
+9,recall,NL09,0.32098765432098764,cell_type_level_2,Intermediate monocyte,final_gate_2
+10,f1score,NL01,0.5324947589098532,cell_type_level_2,Intermediate monocyte,final_gate_2
+11,f1score,NL03,0.5396825396825398,cell_type_level_2,Intermediate monocyte,final_gate_2
+12,f1score,NL05,0.4274809160305344,cell_type_level_2,Intermediate monocyte,final_gate_2
+13,f1score,NL07,0.5,cell_type_level_2,Intermediate monocyte,final_gate_2
+14,f1score,NL09,0.416,cell_type_level_2,Intermediate monocyte,final_gate_2
+0,precision,NL01,0.6138613861386139,cell_type_level_2,Intermediate monocyte,final_gate_3
+1,precision,NL03,0.7777777777777778,cell_type_level_2,Intermediate monocyte,final_gate_3
+2,precision,NL05,0.6341463414634146,cell_type_level_2,Intermediate monocyte,final_gate_3
+3,precision,NL07,0.7,cell_type_level_2,Intermediate monocyte,final_gate_3
+4,precision,NL09,0.6756756756756757,cell_type_level_2,Intermediate monocyte,final_gate_3
+5,recall,NL01,0.4679245283018868,cell_type_level_2,Intermediate monocyte,final_gate_3
+6,recall,NL03,0.4016393442622951,cell_type_level_2,Intermediate monocyte,final_gate_3
+7,recall,NL05,0.2988505747126437,cell_type_level_2,Intermediate monocyte,final_gate_3
+8,recall,NL07,0.3333333333333333,cell_type_level_2,Intermediate monocyte,final_gate_3
+9,recall,NL09,0.30864197530864196,cell_type_level_2,Intermediate monocyte,final_gate_3
+10,f1score,NL01,0.5310492505353319,cell_type_level_2,Intermediate monocyte,final_gate_3
+11,f1score,NL03,0.5297297297297298,cell_type_level_2,Intermediate monocyte,final_gate_3
+12,f1score,NL05,0.40625000000000006,cell_type_level_2,Intermediate monocyte,final_gate_3
+13,f1score,NL07,0.45161290322580644,cell_type_level_2,Intermediate monocyte,final_gate_3
+14,f1score,NL09,0.423728813559322,cell_type_level_2,Intermediate monocyte,final_gate_3
+0,precision,NL01,0.6256410256410256,cell_type_level_2,Intermediate monocyte,final_gate_4
+1,precision,NL03,0.8135593220338984,cell_type_level_2,Intermediate monocyte,final_gate_4
+2,precision,NL05,0.7027027027027027,cell_type_level_2,Intermediate monocyte,final_gate_4
+3,precision,NL07,1.0,cell_type_level_2,Intermediate monocyte,final_gate_4
+4,precision,NL09,0.7058823529411765,cell_type_level_2,Intermediate monocyte,final_gate_4
+5,recall,NL01,0.46037735849056605,cell_type_level_2,Intermediate monocyte,final_gate_4
+6,recall,NL03,0.39344262295081966,cell_type_level_2,Intermediate monocyte,final_gate_4
+7,recall,NL05,0.2988505747126437,cell_type_level_2,Intermediate monocyte,final_gate_4
+8,recall,NL07,0.3333333333333333,cell_type_level_2,Intermediate monocyte,final_gate_4
+9,recall,NL09,0.2962962962962963,cell_type_level_2,Intermediate monocyte,final_gate_4
+10,f1score,NL01,0.5304347826086957,cell_type_level_2,Intermediate monocyte,final_gate_4
+11,f1score,NL03,0.5303867403314917,cell_type_level_2,Intermediate monocyte,final_gate_4
+12,f1score,NL05,0.4193548387096775,cell_type_level_2,Intermediate monocyte,final_gate_4
+13,f1score,NL07,0.5,cell_type_level_2,Intermediate monocyte,final_gate_4
+14,f1score,NL09,0.41739130434782606,cell_type_level_2,Intermediate monocyte,final_gate_4
+0,precision,NL01,0.6182795698924731,cell_type_level_2,Intermediate monocyte,final_gate_5
+1,precision,NL03,0.8,cell_type_level_2,Intermediate monocyte,final_gate_5
+2,precision,NL05,0.6666666666666666,cell_type_level_2,Intermediate monocyte,final_gate_5
+3,precision,NL07,1.0,cell_type_level_2,Intermediate monocyte,final_gate_5
+4,precision,NL09,0.6666666666666666,cell_type_level_2,Intermediate monocyte,final_gate_5
+5,recall,NL01,0.4339622641509434,cell_type_level_2,Intermediate monocyte,final_gate_5
+6,recall,NL03,0.36065573770491804,cell_type_level_2,Intermediate monocyte,final_gate_5
+7,recall,NL05,0.25287356321839083,cell_type_level_2,Intermediate monocyte,final_gate_5
+8,recall,NL07,0.3333333333333333,cell_type_level_2,Intermediate monocyte,final_gate_5
+9,recall,NL09,0.24691358024691357,cell_type_level_2,Intermediate monocyte,final_gate_5
+10,f1score,NL01,0.5099778270509978,cell_type_level_2,Intermediate monocyte,final_gate_5
+11,f1score,NL03,0.4971751412429379,cell_type_level_2,Intermediate monocyte,final_gate_5
+12,f1score,NL05,0.3666666666666667,cell_type_level_2,Intermediate monocyte,final_gate_5
+13,f1score,NL07,0.5,cell_type_level_2,Intermediate monocyte,final_gate_5
+14,f1score,NL09,0.36036036036036034,cell_type_level_2,Intermediate monocyte,final_gate_5
+0,precision,NL01,0.1888111888111888,cell_type_level_2,Non-classical monocyte,final_gate_1
+1,precision,NL03,0.46296296296296297,cell_type_level_2,Non-classical monocyte,final_gate_1
+2,precision,NL05,0.34984984984984985,cell_type_level_2,Non-classical monocyte,final_gate_1
+3,precision,NL07,0.29310344827586204,cell_type_level_2,Non-classical monocyte,final_gate_1
+4,precision,NL09,0.5288640595903166,cell_type_level_2,Non-classical monocyte,final_gate_1
+5,recall,NL01,0.7534883720930232,cell_type_level_2,Non-classical monocyte,final_gate_1
+6,recall,NL03,0.7299270072992701,cell_type_level_2,Non-classical monocyte,final_gate_1
+7,recall,NL05,0.667621776504298,cell_type_level_2,Non-classical monocyte,final_gate_1
+8,recall,NL07,0.7555555555555555,cell_type_level_2,Non-classical monocyte,final_gate_1
+9,recall,NL09,0.7717391304347826,cell_type_level_2,Non-classical monocyte,final_gate_1
+10,f1score,NL01,0.3019571295433364,cell_type_level_2,Non-classical monocyte,final_gate_1
+11,f1score,NL03,0.5665722379603398,cell_type_level_2,Non-classical monocyte,final_gate_1
+12,f1score,NL05,0.4591133004926108,cell_type_level_2,Non-classical monocyte,final_gate_1
+13,f1score,NL07,0.4223602484472049,cell_type_level_2,Non-classical monocyte,final_gate_1
+14,f1score,NL09,0.6276243093922652,cell_type_level_2,Non-classical monocyte,final_gate_1
+0,precision,NL01,0.8125,cell_type_level_2,Non-classical monocyte,final_gate_2
+1,precision,NL03,0.9400630914826499,cell_type_level_2,Non-classical monocyte,final_gate_2
+2,precision,NL05,0.9285714285714286,cell_type_level_2,Non-classical monocyte,final_gate_2
+3,precision,NL07,0.8947368421052632,cell_type_level_2,Non-classical monocyte,final_gate_2
+4,precision,NL09,0.9784172661870504,cell_type_level_2,Non-classical monocyte,final_gate_2
+5,recall,NL01,0.7255813953488373,cell_type_level_2,Non-classical monocyte,final_gate_2
+6,recall,NL03,0.7250608272506083,cell_type_level_2,Non-classical monocyte,final_gate_2
+7,recall,NL05,0.6332378223495702,cell_type_level_2,Non-classical monocyte,final_gate_2
+8,recall,NL07,0.7555555555555555,cell_type_level_2,Non-classical monocyte,final_gate_2
+9,recall,NL09,0.7391304347826086,cell_type_level_2,Non-classical monocyte,final_gate_2
+10,f1score,NL01,0.7665847665847665,cell_type_level_2,Non-classical monocyte,final_gate_2
+11,f1score,NL03,0.8186813186813187,cell_type_level_2,Non-classical monocyte,final_gate_2
+12,f1score,NL05,0.7529812606473594,cell_type_level_2,Non-classical monocyte,final_gate_2
+13,f1score,NL07,0.8192771084337349,cell_type_level_2,Non-classical monocyte,final_gate_2
+14,f1score,NL09,0.8421052631578948,cell_type_level_2,Non-classical monocyte,final_gate_2
+0,precision,NL01,0.9226190476190477,cell_type_level_2,Non-classical monocyte,final_gate_3
+1,precision,NL03,0.9478827361563518,cell_type_level_2,Non-classical monocyte,final_gate_3
+2,precision,NL05,0.9690265486725663,cell_type_level_2,Non-classical monocyte,final_gate_3
+3,precision,NL07,0.918918918918919,cell_type_level_2,Non-classical monocyte,final_gate_3
+4,precision,NL09,0.9926470588235294,cell_type_level_2,Non-classical monocyte,final_gate_3
+5,recall,NL01,0.7209302325581395,cell_type_level_2,Non-classical monocyte,final_gate_3
+6,recall,NL03,0.708029197080292,cell_type_level_2,Non-classical monocyte,final_gate_3
+7,recall,NL05,0.6275071633237822,cell_type_level_2,Non-classical monocyte,final_gate_3
+8,recall,NL07,0.7555555555555555,cell_type_level_2,Non-classical monocyte,final_gate_3
+9,recall,NL09,0.7336956521739131,cell_type_level_2,Non-classical monocyte,final_gate_3
+10,f1score,NL01,0.8093994778067884,cell_type_level_2,Non-classical monocyte,final_gate_3
+11,f1score,NL03,0.8105849582172703,cell_type_level_2,Non-classical monocyte,final_gate_3
+12,f1score,NL05,0.7617391304347825,cell_type_level_2,Non-classical monocyte,final_gate_3
+13,f1score,NL07,0.8292682926829269,cell_type_level_2,Non-classical monocyte,final_gate_3
+14,f1score,NL09,0.8437500000000001,cell_type_level_2,Non-classical monocyte,final_gate_3
+0,precision,NL01,0.9226190476190477,cell_type_level_2,Non-classical monocyte,final_gate_4
+1,precision,NL03,0.946843853820598,cell_type_level_2,Non-classical monocyte,final_gate_4
+2,precision,NL05,0.9683257918552036,cell_type_level_2,Non-classical monocyte,final_gate_4
+3,precision,NL07,0.9166666666666666,cell_type_level_2,Non-classical monocyte,final_gate_4
+4,precision,NL09,0.9919678714859438,cell_type_level_2,Non-classical monocyte,final_gate_4
+5,recall,NL01,0.7209302325581395,cell_type_level_2,Non-classical monocyte,final_gate_4
+6,recall,NL03,0.6934306569343066,cell_type_level_2,Non-classical monocyte,final_gate_4
+7,recall,NL05,0.6131805157593123,cell_type_level_2,Non-classical monocyte,final_gate_4
+8,recall,NL07,0.7333333333333333,cell_type_level_2,Non-classical monocyte,final_gate_4
+9,recall,NL09,0.6711956521739131,cell_type_level_2,Non-classical monocyte,final_gate_4
+10,f1score,NL01,0.8093994778067884,cell_type_level_2,Non-classical monocyte,final_gate_4
+11,f1score,NL03,0.800561797752809,cell_type_level_2,Non-classical monocyte,final_gate_4
+12,f1score,NL05,0.7508771929824561,cell_type_level_2,Non-classical monocyte,final_gate_4
+13,f1score,NL07,0.8148148148148148,cell_type_level_2,Non-classical monocyte,final_gate_4
+14,f1score,NL09,0.8006482982171801,cell_type_level_2,Non-classical monocyte,final_gate_4
+0,precision,NL01,0.927710843373494,cell_type_level_2,Non-classical monocyte,final_gate_5
+1,precision,NL03,0.9628378378378378,cell_type_level_2,Non-classical monocyte,final_gate_5
+2,precision,NL05,0.9681818181818181,cell_type_level_2,Non-classical monocyte,final_gate_5
+3,precision,NL07,0.9428571428571428,cell_type_level_2,Non-classical monocyte,final_gate_5
+4,precision,NL09,0.9959677419354839,cell_type_level_2,Non-classical monocyte,final_gate_5
+5,recall,NL01,0.7162790697674418,cell_type_level_2,Non-classical monocyte,final_gate_5
+6,recall,NL03,0.6934306569343066,cell_type_level_2,Non-classical monocyte,final_gate_5
+7,recall,NL05,0.6103151862464183,cell_type_level_2,Non-classical monocyte,final_gate_5
+8,recall,NL07,0.7333333333333333,cell_type_level_2,Non-classical monocyte,final_gate_5
+9,recall,NL09,0.6711956521739131,cell_type_level_2,Non-classical monocyte,final_gate_5
+10,f1score,NL01,0.8083989501312335,cell_type_level_2,Non-classical monocyte,final_gate_5
+11,f1score,NL03,0.8062234794908063,cell_type_level_2,Non-classical monocyte,final_gate_5
+12,f1score,NL05,0.7486818980667839,cell_type_level_2,Non-classical monocyte,final_gate_5
+13,f1score,NL07,0.8250000000000001,cell_type_level_2,Non-classical monocyte,final_gate_5
+14,f1score,NL09,0.801948051948052,cell_type_level_2,Non-classical monocyte,final_gate_5
