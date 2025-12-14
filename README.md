@@ -7,3 +7,9 @@ This repository contains the scripts accompanying the manuscript *ConvexGating i
 - Fig03_experts: to finalize, add relevant scripts (Maren)
 - Fig04_validation_experiment: to add (Karola, Maren)
 - Fig05_COVID: done (maybe change plotting parameters for C26 Hierarchy 1 and C8 Hierarchy 2)
+- Fig06_bridge_gap: done 
+
+- SuppFig01_marker_selection: done
+- SuppFig02_manual_gating_stratgey: not needed
+- SuppFig03: add relevant scripts (Maren)
+- SuppFig04: add relevant scripts (Maren)
