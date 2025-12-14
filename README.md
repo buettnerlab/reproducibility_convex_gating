@@ -10,7 +10,7 @@ This repository contains the scripts accompanying the manuscript
 | Fig01 | Overview | ✅ Done | |
 | Fig02 | DC panel | ⏳ To do  | Finalize and add relevant scripts (Maren) |
 | Fig03 | Experts | ⏳ To do  | Finalize and add relevant scripts (Maren) |
-| Fig04 | Validation experiment | ⏳ To do | Add scripts (Karola, Maren) |
+| Fig04 | Validation experiment | ⏳ To do | Add relevant scripts (Karola, Maren) |
 | Fig05 | COVID | ✅ Done | Consider adjusting plotting parameters for C26 (Hierarchy 1) and C8 (Hierarchy 2) |
 | Fig06 | Bridge gap | ✅ Done | |
 
@@ -26,6 +26,6 @@ This repository contains the scripts accompanying the manuscript
 | SuppFig06 | human expert | ⏳ To do | Add relevant scripts (Maren) |
 | SuppFig07 | oetjen | ✅ Done | |
 | SuppFig08 | benchmark | ✅ Done | |
-| SuppFig09 | validation experiment | ✅ Done | |
-| SuppFig10 | CITEseq | ✅ Done | |
+| SuppFig09 | validation experiment | ⏳ To do  | Add relevant scripts (Karola, Maren) |
+| SuppFig10 | CITEseq | ⏳ To do  | Add relevant scripts (Maren)|
 
