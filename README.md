@@ -8,7 +8,7 @@ This repository contains the scripts accompanying the manuscript
 | Figure | Description | Status | Notes |
 |------|-------------|--------|-------|
 | Fig01 | Overview | ✅ Done | |
-| Fig02 | DC panel | ⏳ To do  | Finalize and add relevant scripts (Maren) |
+| Fig02 | DC panel | ✅ Done  |  |
 | Fig03 | Experts | ⏳ To do  | Finalize and add relevant scripts (Maren) |
 | Fig04 | Validation experiment | ⏳ To do | Add relevant scripts (Karola, Maren) |
 | Fig05 | COVID | ✅ Done | Consider adjusting plotting parameters for C26 (Hierarchy 1) and C8 (Hierarchy 2) |
