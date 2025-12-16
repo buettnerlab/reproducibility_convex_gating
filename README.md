@@ -27,5 +27,5 @@ This repository contains the scripts accompanying the manuscript
 | SuppFig07 | oetjen | ✅ Done | |
 | SuppFig08 | benchmark | ✅ Done | |
 | SuppFig09 | validation experiment | ⏳ To do  | Add relevant scripts (Karola, Maren) |
-| SuppFig10 | CITEseq | ⏳ To do  | Add relevant scripts (Maren)|
+| SuppFig10 | CITEseq | ✅ Done | Part of Fig06 - CITEseq notebooks (02_anno_covid_citeseq.ipynb)|
 
