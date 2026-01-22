@@ -1,0 +1,288 @@
+---
+title: "01_FlashSeq_CD8_Tcells"
+output: 
+  html_document: 
+    code_download: yes
+    df_print: kable
+    theme: united
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+editor_options: 
+  markdown: 
+    wrap: 80
+
+---
+
+```{r}
+library(biomaRt)
+library(Seurat)
+library(dplyr)
+library(readr)
+library(dplyr)
+library(stringr)
+library(ggplot2)
+library(ggprism)
+library(ggExtra)
+#library(lisi)
+library(tidyr)
+library(clusterProfiler)
+library(org.Hs.eg.db)
+library(msigdbr)
+library(ggpubr)
+#library(git2r)
+library(rcartocolor)
+library(ComplexHeatmap)
+library(EnhancedVolcano)
+```
+
+# Figure 4
+## C: sorted population
+```{r}
+data <- readRDS(file = "/data/427_2024_ConvexGating/analysis/RDS/convex_gating_RNA_idx_sort_revision_19-12-205.rds")
+DefaultAssay(data)<-"RNA"
+data <- RunPCA(data, features = VariableFeatures(object = data))
+data <- FindNeighbors(data, dims = 1:17)
+data <- FindClusters(data, resolution = 0.8)
+data <- RunUMAP(data, dims = 1:17, seed=8)
+cluster_names <- unique(data$Sort_Population) 
+hcl_palette <- c("#7FBFF5", "#00314C", "#F8A29E", "#4B201D" )
+hcl_color_map <- setNames(hcl_palette, cluster_names)
+p<-DimPlot(data, reduction = "umap", group.by="Sort_Population", pt.size = 2) +
+  scale_color_manual(values = hcl_color_map)
+p
+```
+## D: cluster identities
+```{r}
+ds_2<-data
+DefaultAssay(ds_2)<-"RNA"
+cluster_ids <- c("CD8_Temra", "CD8_naive", "CD8_naive", "Other")
+names(cluster_ids) <- levels(ds_2)
+ds_2 <- RenameIdents(ds_2, cluster_ids)
+p<-DimPlot(ds_2, reduction = "umap", label = F, pt.size = 2) +
+  scale_color_manual(values = c("#023FA5", "#8E063B", "#c5c5c5"))
+p
+```
+
+## E: calculate purity
+```{r}
+ds_2<-data
+ds_2$ident<-Idents(ds_2)
+
+true_labels<-ds_2@meta.data[, c("ident", "Sort_Population")]
+predicted_CG <-true_labels[grep("CG", true_labels$Sort_Population), ]
+predicted_manual <- true_labels[grep("CG", true_labels$Sort_Population,  invert = TRUE), ]
+predicted_CG$Sort_Population<-str_replace(predicted_CG$Sort_Population, pattern= "CD8_TEMRA_CG2", replacement= "CD8_Temra")
+predicted_CG$Sort_Population<-str_replace(predicted_CG$Sort_Population, pattern= "CD8_naive_CG2", replacement= "CD8_naive")
+predicted_manual$Sort_Population<-str_replace(predicted_manual$Sort_Population, pattern= "Temra", replacement= "CD8_Temra")
+predicted_manual$Sort_Population<-str_replace(predicted_manual$Sort_Population, pattern= "Tnaive", replacement= "CD8_naive")
+
+table1 <- table(predicted_CG$Sort_Population, predicted_CG$ident) #ConvexGating
+table2 <- table(predicted_manual$Sort_Population, predicted_manual$ident) #conventional gating
+
+df1 <- as.data.frame(table1)
+df1$Method <- "CG"  # Add column to differentiate methods
+df2 <- as.data.frame(table2)
+df2$Method <- "Conventional"  # Add column to differentiate methods
+df_comb <- rbind(df1, df2)
+colnames(df_comb) <- c("Predicted_Cluster", "True_Label", "Count", "Method")
+
+calculate_purity <- function(df, method) {
+  filtered_df <- df %>%
+    filter(Method == method, Predicted_Cluster == "CD8_Temra")
+  
+  total_samples <- sum(filtered_df$Count)
+  
+  # Most common True_Label within CD8_Temra
+  max_count <- max(filtered_df$Count)
+  
+  # Purity calculation
+  purity <- max_count / total_samples
+  purity <- purity*100
+  return(round(purity, 2))
+}
+
+conv_purity <- calculate_purity(df_comb, "Conventional")
+print(conv_purity)
+cg_purity <- calculate_purity(df_comb, "CG")
+print(cg_purity)
+```
+
+
+```{r}
+purity<-c(conv_purity, cg_purity)
+labels<-c("conv", "cg")
+df<-data.frame(purity, labels)
+p<-ggbarplot(df, x = "labels", y = "purity", label = TRUE, lab.col = "white", lab.pos = "in", fill= "purity") +
+  scale_color_manual(values = hcl_color_map)
+p
+```
+## F: Contingeny tables
+```{r}
+ds<-data
+ds$RNA_snn_res.0.7 <- factor(ds$RNA_snn_res.0.7)
+ds <- droplevels(subset(ds, RNA_snn_res.0.7 != "3"))
+ds <- droplevels(ds)
+#ds <- subset(ds, idents != "3")
+Idents(ds) <- factor(Idents(ds))
+ds <- subset(ds, idents = c("0", "1", "2"))
+cluster_ids <- c("CD8_Temra", "CD8_naive", "CD8_naive")
+names(cluster_ids) <- levels(ds)
+ds <- RenameIdents(ds, cluster_ids)
+ds$ident<-Idents(ds)
+true_labels<-ds@meta.data[, c("ident", "Sort_Population")]
+predicted_CG <-true_labels[grep("CG", true_labels$Sort_Population), ]
+predicted_manual <- true_labels[grep("CG", true_labels$Sort_Population,  invert = TRUE), ]
+predicted_CG$Sort_Population<-str_replace(predicted_CG$Sort_Population, pattern= "CD8_TEMRA_CG2", replacement= "CD8_Temra")
+predicted_CG$Sort_Population<-str_replace(predicted_CG$Sort_Population, pattern= "CD8_naive_CG2", replacement= "CD8_naive")
+predicted_manual$Sort_Population<-str_replace(predicted_manual$Sort_Population, pattern= "Temra", replacement= "CD8_Temra")
+predicted_manual$Sort_Population<-str_replace(predicted_manual$Sort_Population, pattern= "Tnaive", replacement= "CD8_naive")
+table1 <- table(predicted_CG$Sort_Population, predicted_CG$ident) #ConvexGating
+table2 <- table(predicted_manual$Sort_Population, predicted_manual$ident) #conventional gating
+df1 <- as.data.frame(table1)
+df1$Method <- "CG"  # Add column to differentiate methods
+df2 <- as.data.frame(table2)
+df2$Method <- "Conventional"  # Add column to differentiate methods
+df_comb <- rbind(df1, df2)
+colnames(df_comb) <- c("Predicted_Cluster", "True_Label", "Count", "Method")
+```
+
+```{r}
+#ConvexGating
+p <- ggplot(df1, aes(x = Var1, y = Var2, fill = Freq)) +
+  geom_tile(color = "black") +
+  theme_bw() + 
+  coord_equal() +
+scale_fill_gradient(low = "#ffed9f", high = "#fc4e2a")+
+  guides(fill = FALSE) +
+  labs(title = "Value distribution") +
+  geom_text(aes(label = Freq), color = "black")
+p
+```
+
+```{r}
+#conventional
+p <- ggplot(df2, aes(x = Var1, y = Var2, fill = Freq)) +
+  geom_tile(color = "black") +
+  theme_bw() + 
+  coord_equal() +
+scale_fill_gradient(low = "#ffed9f", high = "#fc4e2a")+
+  guides(fill = FALSE) +
+  labs(title = "Value distribution") +
+  geom_text(aes(label = Freq), color = "black")
+p
+```
+## Supplementary figures: Figure S8
+## E: scRNAseq clusters
+```{r}
+DefaultAssay(data)<-"RNA"
+DimPlot(data, reduction = "umap")
+```
+
+## F: marker dotplot
+```{r}
+DefaultAssay(data) <- "RNA"
+marker_genes <- c("CD3D", "CD8A", "CD8B", "CD4" ,   # general T cell / CD8 markers
+              "CCR7", "LEF1", "SELL",     # naïve CD8 markers
+              "PRF1", "GZMB", "GNLY",     # effector/cytotoxic
+              "KLRB1", "ZBTB16", "PTPRC",
+              "MS4A1",          # B cells
+  "CD14", "LYZ",    # Monocytes
+  "FCGR3A", "NCAM1", "KLRF1", # NK cells
+  "IL7R",           # CD4 T cells
+  "FOXP3",          # Tregs
+  "PPBP" )           # Platelets)          # Temra/NK-like features
+my_palette <- colorRampPalette(c("white", "red"))(50)
+p<-DotPlot(data, features = marker_genes, group.by = "seurat_clusters") +
+  RotatedAxis() +
+  ggplot2::theme(axis.text.x = element_text(angle = 45, hjust = 1))+  
+  scale_color_gradientn(colors = my_palette)
+p
+```
+
+## G: index sort clusters
+```{r}
+DefaultAssay(data)<-"index_sort" #specify slot
+
+data <- FindVariableFeatures(data)
+data <- RunPCA(data, verbose = FALSE, reduction.name = "pca_index_sort")
+data <- FindNeighbors(data, dims = 1:15, reduction = "pca_index_sort", graph.name = c("neighbours_index_sort_NN", "neighbours_index_sort_SNN"))
+data <- FindClusters(data, resolution = 0.2, verbose = FALSE, graph.name = "neighbours_index_sort_SNN")
+data <- RunUMAP(data, dims = 1:15, reduction.name = "_index_sort", reduction = "pca_index_sort")
+p<-DimPlot(data)#, label = F, group.by= "Sort_Population") #group.by="RNA_snn_res.0.7",
+p
+
+ds_2<-data
+cluster_ids <- c("CD8_naive", "CD8_Temra")
+names(cluster_ids) <- levels(ds_2)
+ds_2 <- RenameIdents(ds_2, cluster_ids)
+
+p<-DimPlot(ds_2, reduction = "umap", label = F, pt.size = 2) +
+  scale_color_manual(values = c("#8E063B", "#023FA5"))
+p
+```
+## H: index sort umap
+```{r}
+color_palette <- rev(RColorBrewer::brewer.pal(n = 11, name = "RdBu"))
+DefaultAssay(ds_2)<-"index_sort"
+DEG_matrix <- Seurat:::PseudobulkExpression(
+  ds_2,
+  features = rownames(ds_2@assays$index_sort),
+  assays = "index_sort",
+  normalization.method = "RC",  # Relative counts
+  slot = "data"                 # <- use raw (normalized) data instead of scale.data
+)
+
+# Do not scale
+# DEG_matrix$index_sort <- t(scale(t(DEG_matrix$index_sort)))
+
+ht <- Heatmap(
+  DEG_matrix$index_sort,
+  column_names_rot = 60,
+  column_names_gp = grid::gpar(fontsize = 8),
+  col = color_palette,
+  heatmap_legend_param = list(
+    title = "expression", legend_height = unit(2.5, "cm")
+  )
+)
+draw(ht)
+```
+## I: volcano plots scRNAseq
+```{r}
+DefaultAssay(data)<-"RNA"
+Idents(data) <- "Sort_Population"
+de_naive <- FindMarkers(
+  data,
+  ident.1 = "CD8_naive_CG2",
+  ident.2 = "Tnaive",
+  test.use = "wilcox" 
+)
+
+# For CD8+ TEMRA cells
+de_temra <- FindMarkers(
+  data,
+  ident.1 = "CD8_TEMRA_CG2",
+  ident.2 = "Temra",
+  test.use = "wilcox"
+)
+
+EnhancedVolcano(de_naive,
+                lab = rownames(de_naive),
+                x = 'avg_log2FC',
+                y = 'p_val_adj',
+                title = 'Volcano plot CD8+ naive T cells',
+                pCutoff = 0.05,
+                FCcutoff = 0.5)
+```
+```{r}
+EnhancedVolcano(de_temra,
+                lab = rownames(de_temra),
+                x = 'avg_log2FC',
+                y = 'p_val_adj',
+                title = 'Volcano plot CD8+ naive T cells',
+                pCutoff = 0.05,
+                FCcutoff = 0.5)
+```
+
+
+
