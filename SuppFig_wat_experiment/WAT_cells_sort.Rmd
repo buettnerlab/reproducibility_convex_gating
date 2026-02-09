@@ -1,0 +1,278 @@
+---
+title: "02_FlashSeq_WAT"
+output: 
+  html_document: 
+    code_download: yes
+    df_print: kable
+    theme: united
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+editor_options: 
+  markdown: 
+    wrap: 80
+
+---
+
+```{r, echo=FALSE}
+library(biomaRt)
+library(Seurat)
+library(dplyr)
+library(readr)
+library(dplyr)
+library(stringr)
+library(ggplot2)
+library(ggprism)
+library(ggExtra)
+library(tidyr)
+library(clusterProfiler)
+library(org.Hs.eg.db)
+library(msigdbr)
+library(ggpubr)
+library(rcartocolor)
+library(ComplexHeatmap)
+library(EnhancedVolcano)
+```
+
+
+# Supplementary Figure WAT sort
+## index-sorted cell identity
+```{r}
+ds <- readRDS(file = "/data/2026-01-06_kallisto_paired_end/analysis/convex_gating_WAT_norm_scaled.rds")
+DefaultAssay(ds)<-"RNA"
+ds <- RunPCA(ds, features = VariableFeatures(object = ds))
+ds <- FindNeighbors(ds, dims = 1:27)
+ds <- RunUMAP(ds, dims = 1:27, seed=12)
+cluster_names <- unique(ds$Sort_population) 
+hcl_palette <- c( "#1F4D3A","#8FD3A6" ,"#3B1E5A","#C3A6E8")
+hcl_color_map <- setNames(hcl_palette, cluster_names)
+p<-DimPlot(ds, reduction = "umap", group.by="Sort_population", pt.size = 2) +
+  scale_color_manual(values = hcl_color_map)
+p
+```
+## unsupervised clustering
+```{r}
+red_orange_palette <-cols <- c(
+  "#A50026", # deep red
+  "#D73027",
+  "#F46D43",
+  "#FDAE61",
+  "#FEE08B",
+  "#FFF7BC",
+  "#FFCA28",
+  "#FFB300",
+    "#FFE082",
+  "#FB8C00",
+  "#F4511E",
+  "#E64A19",
+  "#FDD835"  # bright yellow
+)
+
+
+ds <- FindClusters(ds, resolution = 1.5)
+p<-DimPlot(ds, group.by = "RNA_snn_res.1.5", label = TRUE, cols=red_orange_palette, pt.size = 2)
+p
+ds_3<-ds
+```
+
+## annotate clusters
+```{r}
+Idents(ds)<-ds@meta.data$RNA_snn_res.1.5
+cluster_ids <- c(
+  "0" = "P2",
+  "1" = "P2",
+  "2" = "P2",
+  "3" = "P2",
+  "4" = "P2",
+  "5" = "P2",
+  "6" = "P1",
+  "7" = "P2",
+  "8" = "P2",
+  "9" = "P2",
+  "10" = "Others"
+)
+ds <- RenameIdents(ds, cluster_ids)
+
+p<-DimPlot(ds, label = F, cols=c(
+ "#1E3A8A", "#10B981", "#c5c5c5" 
+), pt.size = 2)
+p
+```
+
+## calculate purity P2
+```{r}
+ds_2<-ds
+ds_2$ident<-Idents(ds_2)
+true_labels<-ds_2@meta.data[, c("ident", "Sort_population")]
+predicted_CG <-true_labels[grep("CG", true_labels$Sort_population), ]
+predicted_manual <- true_labels[grep("CG", true_labels$Sort_population,  invert = TRUE), ]
+predicted_CG$Sort_population<-stringr::str_replace(predicted_CG$Sort_population, pattern= "CG_P1_3", replacement= "P1")
+predicted_CG$Sort_population<-stringr::str_replace(predicted_CG$Sort_population, pattern= "CG_P2_3", replacement= "P2")
+predicted_manual$Sort_population<-stringr::str_replace(predicted_manual$Sort_population, pattern= "conventional_P1", replacement= "P1")
+predicted_manual$Sort_population<-stringr::str_replace(predicted_manual$Sort_population, pattern= "conventional_P2", replacement= "P2")
+
+table1 <- table(predicted_CG$Sort_population, predicted_CG$ident) #ConvexGating
+table2 <- table(predicted_manual$Sort_population, predicted_manual$ident) #conventional gating
+
+df1 <- as.data.frame(table1)
+df1$Method <- "CG"  # Add column to differentiate methods
+df2 <- as.data.frame(table2)
+df2$Method <- "Conventional"  # Add column to differentiate methods
+df_comb <- rbind(df1, df2)
+colnames(df_comb) <- c("Predicted_Cluster", "True_Label", "Count", "Method")
+
+calculate_purity <- function(df, method) {
+  # Filter for the given method and only CD8_Temra predicted cluster
+  filtered_df <- df %>%
+    filter(Method == method, Predicted_Cluster == "P2")
+  
+  # Total samples assigned to CD8_Temra
+  total_samples <- sum(filtered_df$Count)
+  
+  # Most common True_Label within CD8_Temra
+  max_count <- max(filtered_df$Count)
+  
+  # Purity calculation
+  purity <- max_count / total_samples
+  purity <- purity*100
+  return(round(purity, 2))
+}
+
+# Compute purity for Conventional and CG methods
+conv_purity <- calculate_purity(df_comb, "Conventional")
+print(conv_purity)
+cg_purity <- calculate_purity(df_comb, "CG")
+print(cg_purity)
+```
+
+
+```{r}
+purity<-c(conv_purity, cg_purity)
+labels<-c("conv", "cg")
+df<-data.frame(purity, labels)
+p<-ggpubr::ggbarplot(df, x = "labels", y = "purity", label = TRUE, lab.col = "white", lab.pos = "in", fill= "purity") 
+  #+scale_color_manual(values = hcl_color_map)
+p
+```
+
+## contingency tables
+```{r}
+ds_3<-ds
+ds_3$RNA_snn_res.1.5 <- factor(ds_3$RNA_snn_res.1.5 )
+Idents(ds_3) <- factor(ds_3$RNA_snn_res.1.5 )
+ds_3 <- droplevels(subset(ds_3, RNA_snn_res.1.5 != "10"))
+ds_3 <- droplevels(ds_3)
+#ds_3 <- subset(ds_3, idents != "3")
+Idents(ds_3) <- factor(Idents(ds_3))
+ds_3 <- subset(ds_3, idents = c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9"))
+cluster_ids <- c("P2","P2","P2", "P2","P2","P2","P1","P2","P2","P2")
+names(cluster_ids) <- levels(ds_3)
+ds_3 <- RenameIdents(ds_3, cluster_ids)
+#ds$ident<-Idents(ds)
+#ds <- subset(ds, idents != "Others")
+ds_3$ident<-Idents(ds_3)
+true_labels<-ds_3@meta.data[, c("ident", "Sort_population")]
+true_labels<-droplevels(true_labels)
+predicted_CG <-true_labels[grep("CG", true_labels$Sort_population), ]
+predicted_manual <- true_labels[grep("CG", true_labels$Sort_population,  invert = TRUE), ]
+predicted_CG$Sort_population<-stringr::str_replace(predicted_CG$Sort_population, pattern= "CG_P1_3", replacement= "P1")
+predicted_CG$Sort_population<-stringr::str_replace(predicted_CG$Sort_population, pattern= "CG_P2_3", replacement= "P2")
+predicted_manual$Sort_population<-stringr::str_replace(predicted_manual$Sort_population, pattern= "conventional_P1", replacement= "P1")
+predicted_manual$Sort_population<-stringr::str_replace(predicted_manual$Sort_population, pattern= "conventional_P2", replacement= "P2")
+# Contingency tables
+table1 <- table(predicted_CG$Sort_population, predicted_CG$ident) #ConvexGating
+table2 <- table(predicted_manual$Sort_population, predicted_manual$ident) #conventional gating
+df1 <- as.data.frame(table1)
+df1$Method <- "CG"  # Add column to differentiate methods
+df2$Method <- "Conventional"  # Add column to differentiate methods
+df_comb <- rbind(df1, df2)
+colnames(df_comb) <- c("Predicted_Cluster", "True_Label", "Count", "Method")
+df1 <- as.data.frame(table1)
+df1$Method <- "CG"  # Add column to differentiate methods
+df2 <- as.data.frame(table2)
+df2$Method <- "Conventional"  # Add column to differentiate methods
+df_comb <- rbind(df1, df2)
+colnames(df_comb) <- c("Predicted_Cluster", "True_Label", "Count", "Method")
+
+#ConvexGating
+p <- ggplot(df1, aes(x = Var1, y = Var2, fill = Freq)) +
+  geom_tile(color = "black") +
+  theme_bw() + 
+  coord_equal() +
+scale_fill_gradient(low = "#ffed9f", high = "#fc4e2a")+
+  guides(fill = FALSE) +
+  labs(title = "Value distribution") +
+  geom_text(aes(label = Freq), color = "black")
+p
+```
+
+```{r}
+#conventional
+p <- ggplot(df2, aes(x = Var1, y = Var2, fill = Freq)) +
+  geom_tile(color = "black") +
+  theme_bw() + 
+  coord_equal() +
+scale_fill_gradient(low = "#ffed9f", high = "#fc4e2a")+
+  guides(fill = FALSE) +
+  labs(title = "Value distribution") +
+  geom_text(aes(label = Freq), color = "black")
+p
+```
+## marker expression scRNAseq
+```{r}
+DefaultAssay(ds) <- "RNA"
+ap_markers <- c("Dpp4", "Cd34", "Ly6a", "Pi16", "Col15a1", "Mfap5","Icam1", "F3", "Cd55", "Anxa3", "Rgs5", "Col4a1")
+p<-DotPlot(ds,features = ap_markers,cols = c("lightgrey", "red"),dot.scale = 6
+) +
+  RotatedAxis() +
+  theme(
+    axis.text.x = element_text(size = 10),
+    axis.text.y = element_text(size = 10)
+  )
+p
+```
+
+
+## Add index sort data, plot marker heatmap
+```{r}
+ds$stored_idents <- Idents(ds)
+expr<-read_csv("/data/analysis/index_sort/expr_adata_WAT_HFD_index_sort_30102025_auto_logicle_filt_rna_spill.csv")
+meta<-read_csv("/data/analysis/index_sort/meta_adata_WAT_HFD_index_sort_30102025_filt_rna.csv")
+expr$...1<-NULL
+meta$...1<-NULL
+meta$plate_well <- paste(meta$plate, meta$Well, sep = "-")
+rownames(meta) <- meta$plate_well
+new.names <- paste(ds$plate, ds$well, sep = "-")
+ds <- RenameCells(ds, new.names = new.names)
+rownames(expr)<-rownames(meta)
+expr<-t(expr)
+cells.use <- intersect(colnames(expr), colnames(ds))
+length(cells.use)
+expr_filt <- expr[, cells.use, drop = FALSE]
+index_sort_assay <- CreateAssayObject(expr_filt)
+ds[["index_sort"]] <- index_sort_assay
+Idents(ds) <- "stored_idents"
+DefaultAssay(ds)<-"index_sort" #specify slot
+VariableFeatures(ds) <- rownames(ds[["index_sort"]])
+ds <- ScaleData(ds)
+color_palette <- rev(RColorBrewer::brewer.pal(n = 11, name = "RdBu"))
+DefaultAssay(ds)<-"index_sort"
+DEG_matrix <- Seurat:::PseudobulkExpression(
+  ds,
+  features = rownames(ds@assays$index_sort),
+  assays = "index_sort",
+  normalization.method = "RC",  # Relative counts
+  slot = "data"                 # <- use raw (normalized) data instead of scale.data
+)
+
+ht <- Heatmap(
+  DEG_matrix$index_sort,
+  column_names_rot = 60,
+  column_names_gp = grid::gpar(fontsize = 8),
+  col = color_palette,
+  heatmap_legend_param = list(
+    title = "expression", legend_height = unit(2.5, "cm")
+  )
+)
+draw(ht)
+```
