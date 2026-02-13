@@ -236,7 +236,7 @@ p
 ## Add index sort data, plot marker heatmap
 ```{r}
 ds$stored_idents <- Idents(ds)
-expr<-read_csv("/data/analysis/index_sort/expr_adata_WAT_HFD_index_sort_30102025_auto_logicle_filt_rna_spill.csv")
+expr<-read_csv("/data/analysis/index_sort/expr_adata_WAT_HFD_index_sort_30102025_auto_logicle_filt_rna_recomp.csv")
 meta<-read_csv("/data/analysis/index_sort/meta_adata_WAT_HFD_index_sort_30102025_filt_rna.csv")
 expr$...1<-NULL
 meta$...1<-NULL
