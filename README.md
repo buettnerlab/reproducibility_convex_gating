@@ -26,6 +26,6 @@ This repository contains the scripts accompanying the manuscript
 | SuppFig06 | human expert | ✅ Done | Part of Fig03 notebooks |
 | SuppFig07 | oetjen | ✅ Done | |
 | SuppFig08 | benchmark | ✅ Done | |
-| SuppFig09 | validation experiment | ⏳ To do  | Add relevant scripts (Karola, Maren) |
-| SuppFig10 | CITEseq | ✅ Done | Part of Fig06 - CITEseq notebooks (02_anno_covid_citeseq.ipynb)|
+| SuppFig09-10 | validation experiment | ✅ Done | |
+| SuppFig11 | CITEseq | ✅ Done | Part of Fig06 - CITEseq notebooks (02_anno_covid_citeseq.ipynb)|
 
