@@ -16,10 +16,7 @@ list.files(project_path)
 data_path <- paste0(project_path, 
                     'data/Convex_gating_test_MB/gating_experiment/P1/') 
 wsp_file <- paste0(data_path, "190828_Analysis_P1_061222.21.wsp")
-#out_prefix <- paste0(data_path,'workspace_bonaguro_params')
-#out_prefix <- paste0(data_path,'workspace_carraro12_params')
-out_prefix <- paste0(data_path,'workspace_MS2_params')
-#out_prefix <- paste0(data_path,'workspace_hartmann14_params')
+out_prefix <- paste0(data_path,'workspace_P1_params')
 pop <- "root"
 
 ## read files
